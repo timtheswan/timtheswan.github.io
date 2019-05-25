@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portover on CSE</title>
-    <link>https://cse.taylor.edu/categories/portover/</link>
+    <link>https://timtheswan.github.io/categories/portover/</link>
     <description>Recent content in Portover on CSE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 May 2019 13:25:31 -0400</lastBuildDate>
     
-	<atom:link href="https://cse.taylor.edu/categories/portover/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://timtheswan.github.io/categories/portover/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Systems Option</title>
-      <link>https://cse.taylor.edu/articles/systems/</link>
+      <link>https://timtheswan.github.io/articles/systems/</link>
       <pubDate>Tue, 21 May 2019 13:25:31 -0400</pubDate>
       
-      <guid>https://cse.taylor.edu/articles/systems/</guid>
+      <guid>https://timtheswan.github.io/articles/systems/</guid>
       <description>What is Systems? Systems is not a minor in Computer Science. The goal of the Systems curriculum is to help students recognize that the world is filled with systems (like educational, distribution, and manufacturing systems). It is the processes inhabiting these systems that produce value and help organizations achieve high performance. Our graduates are enjoying careers at enterprises of all sizes, including global consulting companies.
 &amp;nbsp;   What in the world is Accenture selling?</description>
     </item>
     
     <item>
       <title>Abet Accreditation</title>
-      <link>https://cse.taylor.edu/articles/abet_accreditation/</link>
+      <link>https://timtheswan.github.io/articles/abet_accreditation/</link>
       <pubDate>Mon, 20 May 2019 11:07:16 -0400</pubDate>
       
-      <guid>https://cse.taylor.edu/articles/abet_accreditation/</guid>
+      <guid>https://timtheswan.github.io/articles/abet_accreditation/</guid>
       <description>Our Engineering &amp;amp; Computer Engineering programs
 are ABET-accredited.
    Accreditation The Engineering &amp;amp; Computer Engineering degree programs are accredited by the Engineering Accreditation Commission of ABET (https://www.abet.org). Program Educational Objectives  Prepare our graduates to server others dependably, most importantly their employer, customers, and community. Prepare our graduates to practice technical competence, producing reliable engineering designs. Prepare our graduates to exercise creativity in their work, fostering innovative solutions.</description>
@@ -34,10 +34,10 @@ are ABET-accredited.
     
     <item>
       <title>About Us</title>
-      <link>https://cse.taylor.edu/articles/about_us/</link>
+      <link>https://timtheswan.github.io/articles/about_us/</link>
       <pubDate>Mon, 20 May 2019 10:18:38 -0400</pubDate>
       
-      <guid>https://cse.taylor.edu/articles/about_us/</guid>
+      <guid>https://timtheswan.github.io/articles/about_us/</guid>
       <description>Sometimes alumni Ashley Crutcher designs websites that convince people to buy products,
 like guacamole. But sometimes her goal is more serious, like convincing people to follow Jesus.
    At Taylor University, the Computer Science &amp;amp; Engineering (CSE) department is more than just a section of the science building. We have our own community on the second floor of the environmentally sustainable Euler Science Complex that flourishes as a learning environment.</description>
