@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on CSE</title>
+    <link>https://cse.taylor.edu/projects/</link>
+    <description>Recent content in Projects on CSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 May 2019 12:42:44 -0400</lastBuildDate>
+    
+	<atom:link href="https://cse.taylor.edu/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TSAT</title>
+      <link>https://cse.taylor.edu/projects/tsat/</link>
+      <pubDate>Thu, 16 May 2019 12:42:44 -0400</pubDate>
+      
+      <guid>https://cse.taylor.edu/projects/tsat/</guid>
+      <description>Taylor to the skies   The sky&amp;rsquo;s the limit at Taylor! (Photo courtesy of NASA.)
+  The Taylor Satellite (TSAT) is a student-developed dual Cube-Sat Unit (4 x 4 x 8 inches) nanosatellite participating in NASA’s ELANA-5 (Educational Launch of Nanosatellites). TSAT was selected by NASA in a competitive program with other universities and was the only undergraduate program chosen. TSAT is short for Taylor, Technology, and TEST – Satellite.</description>
+    </item>
+    
+    <item>
+      <title>Feature Selection for Malware Classification</title>
+      <link>https://cse.taylor.edu/projects/myproject/</link>
+      <pubDate>Fri, 28 Apr 2017 11:58:20 -0400</pubDate>
+      
+      <guid>https://cse.taylor.edu/projects/myproject/</guid>
+      <description>&lt;h2 id=&#34;feature-selection-for-malware-classification&#34;&gt;Feature Selection for Malware Classification&lt;/h2&gt;
+
+&lt;p&gt;Mitchell Mays Noah Drabinsky Dr. Stefan Brandle Fri, Apr 28, 2017&lt;/p&gt;
+
+&lt;p&gt;In applying machine learning to malware identification, different types of features have proven to be successful.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

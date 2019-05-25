@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Faculties on CSE</title>
+    <link>https://cse.taylor.edu/faculty/</link>
+    <description>Recent content in Faculties on CSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 May 2019 13:58:13 -0400</lastBuildDate>
+    
+	<atom:link href="https://cse.taylor.edu/faculty/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dr. Stefan Brandle</title>
+      <link>https://cse.taylor.edu/faculty/brandle/</link>
+      <pubDate>Tue, 21 May 2019 13:58:13 -0400</pubDate>
+      
+      <guid>https://cse.taylor.edu/faculty/brandle/</guid>
+      <description>Dr. Stefan Brandle
+   Professor and Department Co-chair of Computer Science and Engineering
+&amp;nbsp;
+What do I say? Great literature is supposed to have a catchy first line. Moby Dick begins, “Call me Ishmael.” But I’m not sure that I’m up to great literature. And my name’s not Ishmael. Should I write something profound? Something frivolous? What does one say about oneself in this sort of situation?</description>
+    </item>
+    
+    <item>
+      <title>DrWhite</title>
+      <link>https://cse.taylor.edu/faculty/white/</link>
+      <pubDate>Tue, 21 May 2019 13:51:08 -0400</pubDate>
+      
+      <guid>https://cse.taylor.edu/faculty/white/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faculty</title>
+      <link>https://cse.taylor.edu/faculty/list/</link>
+      <pubDate>Thu, 16 May 2019 16:10:43 -0400</pubDate>
+      
+      <guid>https://cse.taylor.edu/faculty/list/</guid>
+      <description>Faculty and Staff    The Computer Science and Engineering faculty and staff are a group of highly qualified professionals with expertise and experiences that include software engineering, artificial intelligence, leadership in major corporations, ethics in technology, and computing standards in tax codes. They each value interaction with students both inside and outside of the classroom.
+The faculty and staff care about the students as mentors and friends. Their conversations can range anywhere from the classic Star Wars/Star Trek/Avengers talk to deep theology or philosophy.</description>
+    </item>
+    
+  </channel>
+</rss>
