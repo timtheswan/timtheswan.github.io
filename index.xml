@@ -6,10 +6,23 @@
     <description>Recent content on CSE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2019 11:39:52 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2019 10:04:48 -0400</lastBuildDate>
     
 	<atom:link href="https://timtheswan.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Meet our Students</title>
+      <link>https://timtheswan.github.io/articles/students/</link>
+      <pubDate>Thu, 30 May 2019 10:04:48 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/articles/students/</guid>
+      <description>&lt;div class=&#34;two-column-container-content&#34;&gt;
+
+Meet these Computer Science and Engineering students to see what they&#39;ve learned during their time at Taylor!
+
+&lt;div&gt;&lt;/div&gt;</description>
+    </item>
     
     <item>
       <title>Links</title>
@@ -58,9 +71,7 @@ The CSE Dept is happy to provide large format printing for our students. We can 
       <pubDate>Tue, 21 May 2019 15:00:54 -0400</pubDate>
       
       <guid>https://timtheswan.github.io/articles/gamejam/</guid>
-      <description>GameJam   The winners of the 2019 Spring Gamejam.
-Click to play their game!
-    The TU CSE GameJam is a game jam series hosted every semester by the CSE Department and Dr. Jon Denning and run by students at Taylor University. A game jam is a short, fun, and intense party during which students get together to develop a video game from scratch. Regardless of major or knowledge of programming, all TU students are invited to participate!</description>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://gamejam.cse.taylor.edu/&#34;&gt;&lt;strong&gt;TU CSE GameJam&lt;/strong&gt;&lt;/a&gt;  is a game jam series hosted every semester by the CSE Department and &lt;a href=&#34;https://timtheswan.github.io/faculty/denning&#34;&gt;&lt;strong&gt;Dr. Jon Denning&lt;/strong&gt;&lt;/a&gt; and run by students at Taylor University. A game jam is a short, fun, and intense party during which students get together to develop a video game from scratch. Regardless of major or knowledge of programming, all TU students are invited to participate!&lt;/p&gt;</description>
     </item>
     
     <item>
