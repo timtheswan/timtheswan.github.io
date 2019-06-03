@@ -17,11 +17,11 @@
       <pubDate>Thu, 30 May 2019 10:04:48 -0400</pubDate>
       
       <guid>https://timtheswan.github.io/articles/students/</guid>
-      <description>&lt;div class=&#34;two-column-container-content&#34;&gt;
-
-Meet these Computer Science and Engineering students to see what they&#39;ve learned during their time at Taylor!
-
-&lt;div&gt;&lt;/div&gt;</description>
+      <description>Meet these Computer Science and Engineering students to see what they&#39;ve learned during their time at Taylor!   Caleb Dinsmore   CS Systems, Graduates May 2017
+    Where are you from?
+My dad is in the Marine Corps so I&amp;rsquo;ve moved around a lot. Most recently I lived in Murrieta, California.
+&amp;nbsp;
+Why did you choose Taylor? I had a friend who told me about Taylor.</description>
     </item>
     
     <item>
@@ -148,13 +148,13 @@ The faculty and staff care about the students as mentors and friends. Their conv
     </item>
     
     <item>
-      <title>TSAT</title>
+      <title>Taylor Satellite (TSAT)</title>
       <link>https://timtheswan.github.io/projects/tsat/</link>
       <pubDate>Thu, 16 May 2019 12:42:44 -0400</pubDate>
       
       <guid>https://timtheswan.github.io/projects/tsat/</guid>
-      <description>Taylor to the skies   The sky&amp;rsquo;s the limit at Taylor! (Photo courtesy of NASA.)
-  The Taylor Satellite (TSAT) is a student-developed dual Cube-Sat Unit (4 x 4 x 8 inches) nanosatellite participating in NASA’s ELANA-5 (Educational Launch of Nanosatellites). TSAT was selected by NASA in a competitive program with other universities and was the only undergraduate program chosen. TSAT is short for Taylor, Technology, and TEST – Satellite.</description>
+      <description>Taylor to the skies  TSAT launching from Cape Canaveral (Photo courtesy of NASA.)
+   The Taylor Satellite (TSAT) is a student-developed dual Cube-Sat Unit (4 x 4 x 8 inches) nanosatellite participating in NASA’s ELANA-5 (Educational Launch of Nanosatellites). TSAT was selected by NASA in a competitive program with other universities and was the only undergraduate program chosen. TSAT is short for Taylor, Technology, and TEST – Satellite.</description>
     </item>
     
     <item>
@@ -163,30 +163,59 @@ The faculty and staff care about the students as mentors and friends. Their conv
       <pubDate>Wed, 15 May 2019 17:03:55 -0400</pubDate>
       
       <guid>https://timtheswan.github.io/articles/tweet/</guid>
-      <description>TWEET!</description>
+      <description>TWEET Meeting for Brunch
+    Also known as Taylor Women Engaging in Engineering and Technology, this club allows women in Taylor’s science, technology, engineering, and math (STEM) to participate in fun activities together. They also work to promote STEM to young girls in the Upland community . TWEET’s mission is to provide a community that encourages and unites women in a field where they are are significantly outnumbered.</description>
     </item>
     
     <item>
       <title>Activities in CSE</title>
-      <link>https://timtheswan.github.io/clubs/</link>
+      <link>https://timtheswan.github.io/activities/</link>
       <pubDate>Wed, 15 May 2019 15:06:03 -0400</pubDate>
       
-      <guid>https://timtheswan.github.io/clubs/</guid>
+      <guid>https://timtheswan.github.io/activities/</guid>
       <description>Activities in CSE Taylor University&amp;rsquo;s Computer Science and Engineering Department believes that the strongest Computer Scientist and Engineer is defined not only by remarkable competence, but also strong character, interpersonal skills, and leadership through service. Consequently, the CSE strives to present students with a surplus of opportunities to help them engage with the real world in strong community, while growing in their abilities.
 Clubs    TWEET Also known as Taylor Women Engaging in Engineering and Technology, this club allows women in Taylor&amp;rsquo;s science, technology, engineering, and math (STEM) to participate in fun activities together.</description>
     </item>
     
     <item>
+      <title>CERIAS Security Symposium</title>
+      <link>https://timtheswan.github.io/articles/cerias_symposium/</link>
+      <pubDate>Sat, 07 Apr 2018 15:00:54 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/articles/cerias_symposium/</guid>
+      <description>By: Dannie M. Stanley Sat, Apr 7, 2018
+This week eight students ventured with me to Purdue University in West Lafayette, IN, to attend the 19th annual CERIAS Security Symposium. As a graduate student at Purdue I was heavily involved with CERIAS, so the trip was both highly relevant to our students and a good chance for me to reconnect with cybersecurity colleagues.
+Symposium presenters and panelists are cybersecurity experts from academia, industry, and government.</description>
+    </item>
+    
+    <item>
       <title>Feature Selection for Malware Classification</title>
-      <link>https://timtheswan.github.io/projects/myproject/</link>
+      <link>https://timtheswan.github.io/projects/feature_selection_for_malware_classification/</link>
       <pubDate>Fri, 28 Apr 2017 11:58:20 -0400</pubDate>
       
-      <guid>https://timtheswan.github.io/projects/myproject/</guid>
-      <description>&lt;h2 id=&#34;feature-selection-for-malware-classification&#34;&gt;Feature Selection for Malware Classification&lt;/h2&gt;
-
-&lt;p&gt;Mitchell Mays Noah Drabinsky Dr. Stefan Brandle Fri, Apr 28, 2017&lt;/p&gt;
-
-&lt;p&gt;In applying machine learning to malware identification, different types of features have proven to be successful.&lt;/p&gt;</description>
+      <guid>https://timtheswan.github.io/projects/feature_selection_for_malware_classification/</guid>
+      <description>Feature Selection for Malware Classification    Mitchell Mays Noah Drabinsky Dr. Stefan Brandle Fri, Apr 28, 2017
+In applying machine learning to malware identification, different types of features have proven to be successful. These features have also been tested with different kinds of classification methodologies and have had varying degrees of success. Every time a new machine learning methodology is introduced for classifying malware, there is the potential for increasing the overall quality of malware classification in the field.</description>
+    </item>
+    
+    <item>
+      <title>Improved User Security Through Graphical Feedback</title>
+      <link>https://timtheswan.github.io/projects/improved_user_security_through_graphical_feedback/</link>
+      <pubDate>Wed, 27 Jul 2016 11:58:20 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/projects/improved_user_security_through_graphical_feedback/</guid>
+      <description>Improved User Security Through Graphical Feedback Justice Juraschek Dannie M. Stanley Wed, Jul 27, 2016
+A plethora of methods of being secure are available to end-users. However, there is a lack of adoption of those methods. We argue that one of the primary reasons for this is the absence of proper feedback within security-sensitive situations. We believe that a graphical representation of security-related consequences can positively influence security-sensitive user decisions.</description>
+    </item>
+    
+    <item>
+      <title>Improved Kernel Security Through Memory Layout Randomization</title>
+      <link>https://timtheswan.github.io/projects/improved_kernel_security_through_memory_layout_randomization/</link>
+      <pubDate>Fri, 06 Dec 2013 11:58:20 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/projects/improved_kernel_security_through_memory_layout_randomization/</guid>
+      <description>Improved Kernel Security Through Memory Layout Randomization  Dannie M. Stanley Dongyan Xu Eugene H. Spafford Fri, Dec 6, 2013 
+The vast majority of hosts on the Internet, including mobile clients, are running on one of three major operating system families. Malicious operating system kernel software, such as the code introduced by a kernel rootkit, is strongly dependent on the organization of the victim operating system. Due to the lack of diversity of operating systems, attackers can craft a single kernel exploit that has the potential to infect millions of hosts.</description>
     </item>
     
     <item>

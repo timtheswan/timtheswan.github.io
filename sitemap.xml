@@ -78,13 +78,28 @@
   </url>
   
   <url>
-    <loc>https://timtheswan.github.io/clubs/</loc>
+    <loc>https://timtheswan.github.io/activities/</loc>
     <lastmod>2019-05-15T15:06:03-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://timtheswan.github.io/projects/myproject/</loc>
+    <loc>https://timtheswan.github.io/articles/cerias_symposium/</loc>
+    <lastmod>2018-04-07T15:00:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://timtheswan.github.io/projects/feature_selection_for_malware_classification/</loc>
     <lastmod>2017-04-28T11:58:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://timtheswan.github.io/projects/improved_user_security_through_graphical_feedback/</loc>
+    <lastmod>2016-07-27T11:58:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://timtheswan.github.io/projects/improved_kernel_security_through_memory_layout_randomization/</loc>
+    <lastmod>2013-12-06T11:58:20-04:00</lastmod>
   </url>
   
   <url>
