@@ -6,10 +6,22 @@
     <description>Recent content in Projects on CSE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 May 2019 12:42:44 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2019 13:29:04 -0400</lastBuildDate>
     
 	<atom:link href="https://timtheswan.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introductory Projects</title>
+      <link>https://timtheswan.github.io/projects/introductory_projects/</link>
+      <pubDate>Mon, 03 Jun 2019 13:29:04 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/projects/introductory_projects/</guid>
+      <description> Introduction to Problem Solving and Computer Science  Whose AI will win?
+   As a CSE student, you will get to take both COS 120, and COS 121, where you learn coding from the ground up, learning how to code AIs (artificial intelligence) to play games, like Checkers, Risk, and Battleships. Regardless of the experience you come in with,
+ Try to sink your classmates!
+   </description>
+    </item>
     
     <item>
       <title>Taylor Satellite (TSAT)</title>

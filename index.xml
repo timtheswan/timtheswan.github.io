@@ -6,10 +6,31 @@
     <description>Recent content on CSE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 May 2019 10:04:48 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2019 10:54:12 -0400</lastBuildDate>
     
 	<atom:link href="https://timtheswan.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2018-2019 Posters</title>
+      <link>https://timtheswan.github.io/posters/2018_19_posters/</link>
+      <pubDate>Thu, 13 Jun 2019 10:54:12 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/posters/2018_19_posters/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Introductory Projects</title>
+      <link>https://timtheswan.github.io/projects/introductory_projects/</link>
+      <pubDate>Mon, 03 Jun 2019 13:29:04 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/projects/introductory_projects/</guid>
+      <description> Introduction to Problem Solving and Computer Science  Whose AI will win?
+   As a CSE student, you will get to take both COS 120, and COS 121, where you learn coding from the ground up, learning how to code AIs (artificial intelligence) to play games, like Checkers, Risk, and Battleships. Regardless of the experience you come in with,
+ Try to sink your classmates!
+   </description>
+    </item>
     
     <item>
       <title>Meet our Students</title>
@@ -75,15 +96,74 @@ The CSE Dept is happy to provide large format printing for our students. We can 
     </item>
     
     <item>
+      <title>Dr. Dannie Stanley</title>
+      <link>https://timtheswan.github.io/faculty/stanley/</link>
+      <pubDate>Tue, 21 May 2019 13:58:13 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/faculty/stanley/</guid>
+      <description>Associate Professor
+   When I set out to become a professor in 2004, I identified Taylor University specifically as the place that I would like to teach. I did not realize at the time how unlikely it was that I would actually get to work at my first choice (but here I sit). Though I was not a student at Taylor, I grew up in nearby Van Buren and was surrounded by community members involved with Taylor.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Jeff Cramer</title>
+      <link>https://timtheswan.github.io/faculty/cramer/</link>
+      <pubDate>Tue, 21 May 2019 13:58:13 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/faculty/cramer/</guid>
+      <description>Associate Professor
+   As an elementary education major at Taylor University, I always thought I would someday like to be a professor. I never thought I would return to Taylor via the Computer Science and Engineering department!
+&amp;nbsp;
+After teaching in a public school in Indianapolis for six years, I decided to go back to graduate school. While working on my M.S. degree in Instructional Systems Technology at Indiana University, I realized how much I liked learning about the appropriate uses of technology in an educational setting.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Jon Denning</title>
+      <link>https://timtheswan.github.io/faculty/denning/</link>
+      <pubDate>Tue, 21 May 2019 13:58:13 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/faculty/denning/</guid>
+      <description>Assistant Professor and Department Co-chair
+   In fall 2014, I started as an assistant professor teaching computer graphics and core Computer Science courses. I find graphics fascinating because it creatively combines many disciplines—physics, math, data structures, and art—and produces images that are simple, yet awe-inspiring and rich with details.
+&amp;nbsp;
+The past few years have been a whirlwind of excitement for and blessings on my family, and looking back it’s obvious that God has led us to where we are now.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Jonathan Geisler</title>
+      <link>https://timtheswan.github.io/faculty/geisler/</link>
+      <pubDate>Tue, 21 May 2019 13:58:13 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/faculty/geisler/</guid>
+      <description>Associate Professor
+   What can I say that’s enlightening? I’m not as funny as Dr. Brandle, so I think I’ll just be plain and tell you a bit about myself.
+&amp;nbsp;
+I’m a Taylor Computer Science and Engineering grad (Dec. ’94), so I’ve been involved in the department since 1991. I took a couple years off to work at Argonne National Laboratory before attending Northwestern University for my PhD.</description>
+    </item>
+    
+    <item>
       <title>Dr. Stefan Brandle</title>
       <link>https://timtheswan.github.io/faculty/brandle/</link>
       <pubDate>Tue, 21 May 2019 13:58:13 -0400</pubDate>
       
       <guid>https://timtheswan.github.io/faculty/brandle/</guid>
-      <description>Dr. Stefan Brandle
-   Professor and Department Co-chair of Computer Science and Engineering
+      <description>Professor and Department Co-chair
+   &amp;nbsp;
+What do I say? Great literature is supposed to have a catchy first line. Moby Dick begins, “Call me Ishmael.” But I’m not sure that I’m up to great literature. And my name’s not Ishmael. Should I write something profound? Something frivolous? What does one say about oneself in this sort of situation?
 &amp;nbsp;
-What do I say? Great literature is supposed to have a catchy first line. Moby Dick begins, “Call me Ishmael.” But I’m not sure that I’m up to great literature. And my name’s not Ishmael. Should I write something profound? Something frivolous? What does one say about oneself in this sort of situation?</description>
+I wish to serve God in all aspects of my life.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Tom Nurkkala</title>
+      <link>https://timtheswan.github.io/faculty/nurkkala/</link>
+      <pubDate>Tue, 21 May 2019 13:58:13 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/faculty/nurkkala/</guid>
+      <description>Associate Professor
+   I’m at Taylor because I want to help train and mentor excellent computer scientists and engineers who are also dedicated followers of Christ. In addition, as a member of the Center for Missions Computing, I want to leverage the intellectual horsepower and spiritual maturity of the students at Taylor to help solve practical computing problems for the global mission community.
+&amp;nbsp;
+To accomplish these goals, I plan to employ my educational and industrial experience.</description>
     </item>
     
     <item>
@@ -237,13 +317,13 @@ The vast majority of hosts on the Internet, including mobile clients, are runnin
       <guid>https://timtheswan.github.io/contact/</guid>
       <description> Contact   Dr. Stefan Brandle, Department Co-chair
    General Contact Email: cseinfo@cse.taylor.edu
-Phone: 765-998-5162
+Phone: 765.998.5162
 Want to Contact Faculty?
 Want to Schedule a Visit?
 For Prospective Employers Contact Lara Horsley - CSE Program Assistant
  lrhorsley@taylor.edu
  765.998.5162
-  Or Amber Stanley
+  Amber Stanley
  Assistant Director of Calling and Career
  amber_stanley@taylor.edu
  765.998.5383
