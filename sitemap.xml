@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://timtheswan.github.io/</loc>
+    <lastmod>2019-06-17T16:12:15-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://timtheswan.github.io/posters/2018_19_posters/</loc>
     <lastmod>2019-06-13T10:54:12-04:00</lastmod>
   </url>
@@ -140,12 +145,6 @@
   <url>
     <loc>https://timtheswan.github.io/articles/</loc>
     <lastmod>2019-05-30T10:04:48-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://timtheswan.github.io/</loc>
-    <lastmod>2019-06-13T10:54:12-04:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -42,7 +42,6 @@ function contactFormAjax () {
   })
 }
 
-/* for demo purpose only - can be deleted */
 function demo () {
   if ($.cookie('themeCSSpath')) {
     $('link#theme-stylesheet').attr('href', $.cookie('themeCSSpath'))
