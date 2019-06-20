@@ -1787,7 +1787,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 
 .bar.background-smile {
-  background: url('../img/happy_students.jpg') center -100px;
+  background: url('../img/happy_students_s.jpg') center -100px;
   background-size: 100%;
   border-top: solid 1px #999999;
   border-bottom: solid 1px #999999;
@@ -1808,7 +1808,7 @@ fieldset[disabled] .btn-template-primary.active {
   background-size: cover;
 }
 .bar.background-image-fixed-2 {
-  background: url('../img/home/info_weston.jpg') center top no-repeat;
+  background: url('../img/home/info_weston_s.jpg') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
