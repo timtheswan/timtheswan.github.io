@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Information on CSE</title>
+    <title>Information on TU Computer Science and Engineering</title>
     <link>https://timtheswan.github.io/information/</link>
-    <description>Recent content in Information on CSE</description>
+    <description>Recent content in Information on TU Computer Science and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 May 2019 11:39:52 -0400</lastBuildDate>
@@ -17,9 +17,9 @@
       <pubDate>Fri, 24 May 2019 11:39:52 -0400</pubDate>
       
       <guid>https://timtheswan.github.io/information/links/</guid>
-      <description>As a student, you have free access to the complete suite of developer tools by JetBrains. Find out more here.
- For information on how to print a poster showcasing your project, look at this article on Poster Printing 
- To activate Azure for students to get access to a suite of services to help you develop and deploy enterprise-grade web apps, among other things, sign in to your Taylor account here.</description>
+      <description> As a student, you have free access to the complete suite of developer tools by JetBrains. Find out more here.
+ To activate Azure for students to get access to a suite of services to help you develop and deploy enterprise-grade web apps, among other things, sign in to your Taylor account here. 
+  </description>
     </item>
     
     <item>
@@ -50,6 +50,38 @@ The CSE Dept is happy to provide large format printing for our students. We can 
       
       <guid>https://timtheswan.github.io/information/courses/cos120/</guid>
       <description>COS 120 Introduction to Computational Problem Solving Approaches to computing solutions for problems from a variety of subject areas are examined and provide motivation for the study of the development of algorithms and their implementation. Programming concepts are introduced incrementally in order to solve increasingly complex problems. Good algorithm design and program structure are emphasized. Introductory data structures and software engineering principles are stressed. An introduction to object oriented programming is included.</description>
+    </item>
+    
+    <item>
+      <title>Systems Option</title>
+      <link>https://timtheswan.github.io/information/systems/</link>
+      <pubDate>Tue, 21 May 2019 13:25:31 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/information/systems/</guid>
+      <description>What is Systems? Systems is not a minor in Computer Science. The goal of the Systems curriculum is to help students recognize that the world is filled with systems (like educational, distribution, and manufacturing systems). It is the processes inhabiting these systems that produce value and help organizations achieve high performance. Our graduates are enjoying careers at enterprises of all sizes, including global consulting companies.
+&amp;nbsp;   What in the world is Accenture selling?</description>
+    </item>
+    
+    <item>
+      <title>Abet Accreditation</title>
+      <link>https://timtheswan.github.io/information/abet_accreditation/</link>
+      <pubDate>Mon, 20 May 2019 11:07:16 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/information/abet_accreditation/</guid>
+      <description>Our Engineering &amp;amp; Computer Engineering programs
+are ABET-accredited.
+   Accreditation The Engineering &amp;amp; Computer Engineering degree programs are accredited by the Engineering Accreditation Commission of ABET (https://www.abet.org). Program Educational Objectives  Prepare our graduates to server others dependably, most importantly their employer, customers, and community. Prepare our graduates to practice technical competence, producing reliable engineering designs. Prepare our graduates to exercise creativity in their work, fostering innovative solutions.</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>https://timtheswan.github.io/information/about_us/</link>
+      <pubDate>Mon, 20 May 2019 10:18:38 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/information/about_us/</guid>
+      <description>Sometimes alumni Ashley Crutcher designs websites that convince people to buy products,
+like guacamole. But sometimes her goal is more serious, like convincing people to follow Jesus.
+   At Taylor University, the Computer Science &amp;amp; Engineering (CSE) department is more than just a section of the science building. We have our own community on the second floor of the environmentally sustainable Euler Science Complex that flourishes as a learning environment.</description>
     </item>
     
     <item>

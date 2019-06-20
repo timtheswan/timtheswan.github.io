@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on CSE</title>
+    <title>Categories on TU Computer Science and Engineering</title>
     <link>https://timtheswan.github.io/categories/</link>
-    <description>Recent content in Categories on CSE</description>
+    <description>Recent content in Categories on TU Computer Science and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,20 +11,29 @@
     
     
     <item>
-      <title>Needs Update</title>
-      <link>https://timtheswan.github.io/categories/needs-update/</link>
-      <pubDate>Thu, 30 May 2019 10:04:48 -0400</pubDate>
+      <title>Clubs</title>
+      <link>https://timtheswan.github.io/categories/clubs/</link>
+      <pubDate>Wed, 15 May 2019 17:03:55 -0400</pubDate>
       
-      <guid>https://timtheswan.github.io/categories/needs-update/</guid>
+      <guid>https://timtheswan.github.io/categories/clubs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Portover</title>
-      <link>https://timtheswan.github.io/categories/portover/</link>
-      <pubDate>Thu, 30 May 2019 10:04:48 -0400</pubDate>
+      <title>Events</title>
+      <link>https://timtheswan.github.io/categories/events/</link>
+      <pubDate>Tue, 21 May 2019 15:00:54 -0400</pubDate>
       
-      <guid>https://timtheswan.github.io/categories/portover/</guid>
+      <guid>https://timtheswan.github.io/categories/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Articles</title>
+      <link>https://timtheswan.github.io/categories/external-articles/</link>
+      <pubDate>Thu, 25 Apr 2019 08:18:38 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/categories/external-articles/</guid>
       <description></description>
     </item>
     

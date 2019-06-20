@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on CSE</title>
+    <title>Projects on TU Computer Science and Engineering</title>
     <link>https://timtheswan.github.io/projects/</link>
-    <description>Recent content in Projects on CSE</description>
+    <description>Recent content in Projects on TU Computer Science and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jun 2019 13:29:04 -0400</lastBuildDate>
@@ -17,10 +17,9 @@
       <pubDate>Mon, 03 Jun 2019 13:29:04 -0400</pubDate>
       
       <guid>https://timtheswan.github.io/projects/introductory_projects/</guid>
-      <description> Introduction to Problem Solving and Computer Science  Whose AI will win?
-   As a CSE student, you will get to take both COS 120, and COS 121, where you learn coding from the ground up, learning how to code AIs (artificial intelligence) to play games, like Checkers, Risk, and Battleships. Regardless of the experience you come in with,
- Try to sink your classmates!
-   </description>
+      <description>Whose AI will win?
+   In their first year, Computer Science students will take both COS 120, and COS 121, which teaches students to code from square one. Regardless of the experience students come in with, they will be given the foundational skills necessary code their own AIs (artificial intelligence) to play games, like Checkers, Risk, and Battleships.
+COS 120, Introduction to Computational Problem Solving, teaches students essential coding principles, and gives them their first taste solving real world computational problems using Python.</description>
     </item>
     
     <item>

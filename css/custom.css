@@ -8,3 +8,295 @@
 .box-simple {
   min-height: 230px;
 }
+
+.thisIsStupid {
+  width:10000%;
+  position:absolute;
+  top:-50px;
+  left:-400px;
+  height: 290px;
+  background-color: #555555;
+  /*color:green;*/
+  border-style: solid;
+  border-width: 1px;
+  /*z-index: 0;*/
+}
+.homeHeroText{
+  color:white;
+  margin:40px;
+  text-align: center;
+  width:400px;
+  position:absolute;
+  left:10%;
+  top:30%
+}
+.homeHeroCaptionBar{
+  height:2%;
+  width:100%;
+  background-color:white;
+  position:absolute;
+  bottom:30%;
+}
+.hero-container {
+  height: 565px;
+  background-color: black;
+  z-index: -2;
+}
+.homeHero {
+  width: 750px;
+  height:500px;
+  right:0px;
+  z-index: 0;
+  position:fixed;
+  top:65px;
+
+
+}
+
+.learnMore {
+  width:80%;
+  margin:0px;
+  text-align: center;
+  color: #dddddd;
+  font-size:20px;
+  font-style:oblique;
+  position:absolute;
+  left: 10%;
+  bottom: 15%;
+  position:center;
+}
+
+.tiles{
+  /*height:400px;*/
+  display: grid;
+  grid-gap: 0 px;
+  overflow: hidden;
+  grid-template-columns: repeat(auto-fit,minmax(270px,1fr));
+  grid-auto-flow:dense;
+
+}
+
+.tile {
+
+  height:400px;
+  position:relative;
+  /*border-style: solid;*/
+  /*position:relative;*/
+  /*height:100px;*/
+  /*width:450px;*/
+  /*margin:0 auto;*/
+  /*-webkit-filter: brightness(70%);*/
+  /*filter: brightness(70%);*/
+}
+.tile .tileHeader{
+  width:90%;
+  margin:0px;
+  text-align: center;
+  color: white;
+  font-size:36px;
+  position:absolute;
+  left: 5%;
+  top: 5%;
+  position:center;
+}
+.tile .tileContent{
+  width:80%;
+  margin:0px;
+  text-align: left;
+  color: white;
+  stroke:black;
+  font-size:20px;
+  position:absolute;
+  left: 10%;
+  top: 30%;
+  position:center;
+}
+.tile .cover {
+  -webkit-transition: opacity .3s ease-in-out;
+  -moz-transition: opacity .3s ease-in-out;
+  -o-transition: opacity .3s ease-in-out;
+  transition: opacity .3s ease-in-out;
+}
+.tile .cover:hover {
+  opacity:0;
+}
+.tile .tileTitle{
+  width:75%;
+  margin:0px;
+  text-align: center;
+  color: white;
+  stroke:black;
+  font-size:36px;
+  z-index: 20;
+  position:absolute;
+  left: 12.5%;
+  bottom: 50%;
+  position:center;
+
+}
+
+.tile img {
+  height:400px;
+  position: absolute;
+  /*left:0;*/
+
+}
+.tile .bottom img {
+  border-style:solid;
+  height:400px;
+  position: absolute;
+  z-index: -1;
+  /*left:0;*/
+
+}
+
+.tile .top {
+  height:400px;
+  /*-webkit-transition: opacity .3s ease-in-out;*/
+  /*-moz-transition: opacity .3s ease-in-out;*/
+  /*-o-transition: opacity .3s ease-in-out;*/
+  /*transition: opacity .3s ease-in-out;*/
+  border-style:solid;
+}
+
+.tile img.bottom {
+  -webkit-filter: blur(5px);
+  filter: blur(5px);
+
+}
+
+/*.tile .top:hover {*/
+/*opacity:0;*/
+/*}*/
+
+.bannertitle {
+  display: inline-block;
+  color:red;
+  border-style: solid;
+  z-index:20;
+
+}
+.hero-image {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/static/img/2018_19_posters.png");*/
+
+  /* Set a specific height */
+  /*height: 50%;*/
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+  text-align: center;
+  /*position: absolute;*/
+  color: white;
+  font-size:24px;
+}
+
+.bannerimage {
+  z-index: -1;
+  display: inline-block;
+  /*border-style: solid;*/
+  /*border-style: solid;*/
+  border-width: 4px;
+}
+
+#sidebar_doc {
+  position: -webkit-sticky;
+  position: sticky;
+  top:15%;
+}
+
+td {
+  padding:5px;
+}
+
+.showTable td, .showTable th {
+  border-style:solid;
+  border-color:black;
+  border-width: 2px;
+  padding:2px;
+}
+
+.showTable tr .courseTitle {
+  /*width:400px;*/
+}
+
+.bigTable {
+  width:1200px;
+}
+.bigTable > tbody > tr > td{
+  /*border-style:solid;*/
+  padding:5px;
+  vertical-align: top;
+}
+table h4 {
+  margin-top:5px;
+  margin-bottom:5px;
+}
+table hr {
+  margin:0px;
+}
+.facultyImg figure {
+  margin:10px;
+  /*border-style:solid;*/
+
+}
+.facultyImg img  {
+  border-radius:5px;
+  box-shadow: 1px 3px 8px #888888;
+}
+.insertL figure {
+  float:left;
+  /*border-style:solid;*/
+  margin-right:20px;
+  margin-bottom:0px;
+  /*border-style:solid;*/
+
+}
+.insertL img{
+  border-radius:3px;
+  border-color:black;
+  box-shadow: 1px 3px 8px #888888;
+  margin-bottom: 5px;
+}
+
+.insertR figure {
+  float:right;
+  /*border-style:solid;*/
+  margin-left:20px;
+  margin-bottom:0px;
+  /*border-style:solid;*/
+
+}
+.insertR img{
+  border-radius:3px;
+  border-color:black;
+  box-shadow: 1px 3px 8px #888888;
+  margin-bottom: 5px;
+}
+
+.two-column-container-right3{
+  border-style: solid;
+}
+.col-md-12 a {
+  target:_blank
+}
+
+/*#post-content img {*/
+
+/*!*margin:10px;*!*/
+/*!*border-style:solid;*!*/
+
+/*}*/
+figcaption {
+  color:grey;
+  /*text-style:italic;*/
+  font-style:italic;
+  text-
+}
