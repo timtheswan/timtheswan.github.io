@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://timtheswan.github.io/about/</loc>
+    <lastmod>2019-06-21T12:27:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://timtheswan.github.io/information/</loc>
+    <lastmod>2019-06-21T12:27:54-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://timtheswan.github.io/articles/students/</loc>
     <lastmod>2019-06-19T16:54:24-04:00</lastmod>
   </url>
@@ -93,7 +103,7 @@
   </url>
   
   <url>
-    <loc>https://timtheswan.github.io/information/about_us/</loc>
+    <loc>https://timtheswan.github.io/information/about_us_old/</loc>
     <lastmod>2019-05-20T10:18:38-04:00</lastmod>
   </url>
   
@@ -192,12 +202,6 @@
   <url>
     <loc>https://timtheswan.github.io/faculty/</loc>
     <lastmod>2019-05-21T13:58:13-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://timtheswan.github.io/information/</loc>
-    <lastmod>2019-05-24T11:39:52-04:00</lastmod>
     <priority>0</priority>
   </url>
   

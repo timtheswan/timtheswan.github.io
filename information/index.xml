@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Information on TU Computer Science and Engineering</title>
+    <title>About CSE on TU Computer Science and Engineering</title>
     <link>https://timtheswan.github.io/information/</link>
-    <description>Recent content in Information on TU Computer Science and Engineering</description>
+    <description>Recent content in About CSE on TU Computer Science and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2019 11:39:52 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2019 12:27:54 -0400</lastBuildDate>
     
 	<atom:link href="https://timtheswan.github.io/information/index.xml" rel="self" type="application/rss+xml" />
     
@@ -75,10 +75,10 @@ are ABET-accredited.
     
     <item>
       <title>About Us</title>
-      <link>https://timtheswan.github.io/information/about_us/</link>
+      <link>https://timtheswan.github.io/information/about_us_old/</link>
       <pubDate>Mon, 20 May 2019 10:18:38 -0400</pubDate>
       
-      <guid>https://timtheswan.github.io/information/about_us/</guid>
+      <guid>https://timtheswan.github.io/information/about_us_old/</guid>
       <description>Sometimes alumni Ashley Crutcher designs websites that convince people to buy products,
 like guacamole. But sometimes her goal is more serious, like convincing people to follow Jesus.
    At Taylor University, the Computer Science &amp;amp; Engineering (CSE) department is more than just a section of the science building. We have our own community on the second floor of the environmentally sustainable Euler Science Complex that flourishes as a learning environment.</description>
