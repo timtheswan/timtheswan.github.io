@@ -1787,7 +1787,8 @@ fieldset[disabled] .btn-template-primary.active {
 }
 
 .bar.background-smile {
-  background: url('../img/happy_students_s.jpg') center -100px;
+  background: url('../img/oscilloscope.jpg') center -100px;
+  /*background-color: grey;*/
   background-size: 100%;
   border-top: solid 1px #999999;
   border-bottom: solid 1px #999999;

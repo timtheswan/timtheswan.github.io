@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://timtheswan.github.io/courses/list/</loc>
+    <lastmod>2019-06-25T12:30:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://timtheswan.github.io/information/computer_science_career/</loc>
+    <lastmod>2019-06-25T10:39:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://timtheswan.github.io/information/info/</loc>
+    <lastmod>2019-06-25T10:34:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://timtheswan.github.io/information/degrees_at_a_glance/</loc>
+    <lastmod>2019-06-25T08:47:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://timtheswan.github.io/articles/alumni/</loc>
+    <lastmod>2019-06-24T12:52:15-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://timtheswan.github.io/about/</loc>
     <lastmod>2019-06-21T12:27:54-04:00</lastmod>
   </url>
@@ -45,11 +70,6 @@
   <url>
     <loc>https://timtheswan.github.io/information/faq/</loc>
     <lastmod>2019-05-24T10:38:17-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://timtheswan.github.io/information/courses/cos120/</loc>
-    <lastmod>2019-05-23T11:42:55-04:00</lastmod>
   </url>
   
   <url>
@@ -128,7 +148,7 @@
   </url>
   
   <url>
-    <loc>https://timtheswan.github.io/activities/</loc>
+    <loc>https://timtheswan.github.io/information/activities/</loc>
     <lastmod>2019-05-15T15:06:03-04:00</lastmod>
   </url>
   
@@ -164,12 +184,12 @@
   
   <url>
     <loc>https://timtheswan.github.io/articles/</loc>
-    <lastmod>2019-06-19T16:54:24-04:00</lastmod>
+    <lastmod>2019-06-24T12:52:15-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://timtheswan.github.io/information/info/</loc>
+    <loc>https://timtheswan.github.io/information/curriculum/</loc>
   </url>
   
   <url>
@@ -185,6 +205,12 @@
   
   <url>
     <loc>https://timtheswan.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://timtheswan.github.io/courses/</loc>
+    <lastmod>2019-06-25T12:30:38-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

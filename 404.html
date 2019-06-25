@@ -109,7 +109,7 @@
                   
                   <li class="dropdown">
                     
-                    <a href="/about">About Us</a>
+                    <a href="/about">Why Us</a>
                     
                   </li>
                   
@@ -123,14 +123,14 @@
                   
                   <li class="dropdown">
                     
-                    <a href="/activities">Activities</a>
+                    <a href="/projects">Projects</a>
                     
                   </li>
                   
                   
                   <li class="dropdown">
                     
-                    <a href="/projects">Projects</a>
+                    <a href="/information/activities">Activities</a>
                     
                   </li>
                   
@@ -187,6 +187,9 @@
                     <div class="box">
 
                         <p class="text-center">
+                            <br>
+                            <br>
+                            <br>
                             <a href="https://timtheswan.github.io/">
                                 <img width=50% src="img/logo.png" alt="404 Page not found logo">
                             </a>
@@ -194,7 +197,25 @@
 
                         <h3>We are sorry - this page does not exist</h3>
                         <h4 class="text-muted">Error 404 - Page not found</h4>
-                        <li>Check to make sure that you entered in the right URL</li>
+                        <h5> This could be caused by a number of reasons</h5>
+                        <div style="text-align: left">
+                        <li> Page no longer exists</li>
+                        <li> You are not permitted to access the page</li>
+                        <li> Incorrectly typed URL or bad link</li>
+                        <li> Tim hasn't gotten around to adding it yet</li>
+                        </div>
+
+                        
+                        <p class="buttons"><a href="Go back" class="btn btn-template-main" id="back-link"><i class="fas fa-arrow-left"></i> Previous Page</a>
+
+                            <script>
+                            var element = document.getElementById('back-link');
+                            
+                            element.onclick = function() {
+                                history.back();
+                                return false;
+                            }
+                        </script>
 
                         <p class="buttons"><a href="https://timtheswan.github.io/" class="btn btn-template-main"><i class="fa fa-home"></i> Go to Homepage</a>
                         </p>

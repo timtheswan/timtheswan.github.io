@@ -12,6 +12,43 @@
     
     
     <item>
+      <title>Computer Science as a Career</title>
+      <link>https://timtheswan.github.io/information/computer_science_career/</link>
+      <pubDate>Tue, 25 Jun 2019 10:39:48 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/information/computer_science_career/</guid>
+      <description> Why work in Computer Science? </description>
+    </item>
+    
+    <item>
+      <title>Info</title>
+      <link>https://timtheswan.github.io/information/info/</link>
+      <pubDate>Tue, 25 Jun 2019 10:34:25 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/information/info/</guid>
+      <description>For Prospective Students Looking to find the Computer Science department that&amp;rsquo;s right for you?
+ Find out more about Computer Science as a career
+ See our degrees at a glance with sample 4 year plans
+ Find out about our curriculum
+ Have your frequently asked questions answered
+ See what cool clubs and activities our students participate in
+  Additional links
+ Meet some of our current students, alumni, or our faculty</description>
+    </item>
+    
+    <item>
+      <title>Degrees at a Glance</title>
+      <link>https://timtheswan.github.io/information/degrees_at_a_glance/</link>
+      <pubDate>Tue, 25 Jun 2019 08:47:56 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/information/degrees_at_a_glance/</guid>
+      <description>Please note, these are intended to be samples only, your 4 year plan will look a bit different depending on the classes you choose, and when you take them Computer Science &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bachelor of Arts in Computer Science 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bachelor of Science in Computer Science 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bachelor of Science in Computer Science with Systems Curriculum 
+ Computer Science Digital Media &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bachelor of Arts in Computer Science - Digital Media</description>
+    </item>
+    
+    <item>
       <title>Links</title>
       <link>https://timtheswan.github.io/information/links/</link>
       <pubDate>Fri, 24 May 2019 11:39:52 -0400</pubDate>
@@ -41,15 +78,6 @@ The CSE Dept is happy to provide large format printing for our students. We can 
       <description>FAQ  How can I transfer my AP or dual credit classes?
  What&amp;rsquo;s a double major?
   Double majors are for people who are interested in studying more than one major. Taylor University allows students to declare any combination of minors and majors. Be sure that there is adequate overlap between the two majors so that you can finish in time! Also, be aware that there is a 160 credit hour cap.</description>
-    </item>
-    
-    <item>
-      <title>COS120</title>
-      <link>https://timtheswan.github.io/information/courses/cos120/</link>
-      <pubDate>Thu, 23 May 2019 11:42:55 -0400</pubDate>
-      
-      <guid>https://timtheswan.github.io/information/courses/cos120/</guid>
-      <description>COS 120 Introduction to Computational Problem Solving Approaches to computing solutions for problems from a variety of subject areas are examined and provide motivation for the study of the development of algorithms and their implementation. Programming concepts are introduced incrementally in order to solve increasingly complex problems. Good algorithm design and program structure are emphasized. Introductory data structures and software engineering principles are stressed. An introduction to object oriented programming is included.</description>
     </item>
     
     <item>
@@ -95,14 +123,29 @@ like guacamole. But sometimes her goal is more serious, like convincing people t
     </item>
     
     <item>
-      <title>CSE Info</title>
-      <link>https://timtheswan.github.io/information/info/</link>
+      <title>Organizations and Activities in CSE</title>
+      <link>https://timtheswan.github.io/information/activities/</link>
+      <pubDate>Wed, 15 May 2019 15:06:03 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/information/activities/</guid>
+      <description>Activities in CSE Taylor University&amp;rsquo;s Computer Science and Engineering Department believes that the strongest Computer Scientist and Engineer is defined not only by remarkable competence, but also strong character, interpersonal skills, and leadership through service. Consequently, the CSE strives to present students with a surplus of opportunities to help them engage with the real world in strong community, while growing in their abilities.
+Clubs    TWEET Also known as Taylor Women Engaging in Engineering and Technology, this club allows women in Taylor&amp;rsquo;s science, technology, engineering, and math (STEM) to participate in fun activities together.</description>
+    </item>
+    
+    <item>
+      <title>CSE Curriculum Info</title>
+      <link>https://timtheswan.github.io/information/curriculum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://timtheswan.github.io/information/info/</guid>
-      <description>Resources  Curriculum and Degree Options  Computer Science Learn about Computer Science
- Bachelor of Arts in Computer Science Bachelor of Science in Computer Science Bachelor of Science in Computer Science with Systems Curriculum Computer Science Minor   Computer Science Digital Media Learn about Computer Science - Digital Media
- Bachelor of Arts in Computer Science - Digital Media Bachelor of Science in Computer Science - Digital Media Bachelor of Science in Computer Science - Digital Media With Systems Curriculum   Computer Science Cybersecurity Learn about Computer Science - Cybersecurity</description>
+      <guid>https://timtheswan.github.io/information/curriculum/</guid>
+      <description>Computer Science Learn about Computer Science  
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bachelor of Arts in Computer Science 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bachelor of Science in Computer Science 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bachelor of Science in Computer Science with Systems Curriculum 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Computer Science Minor 
+ Computer Science Digital Media Learn about Computer Science - Digital Media  
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bachelor of Arts in Computer Science - Digital Media 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bachelor of Science in Computer Science - Digital Media With Systems Curriculum</description>
     </item>
     
   </channel>
