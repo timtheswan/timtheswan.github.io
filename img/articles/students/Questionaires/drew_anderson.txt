@@ -1,0 +1,37 @@
+Current Student Questionnaire 
+
+Please answer all short response questions and at least 4 long response questions.
+
+Name: Drew Anderson
+
+Where are you from? Grayslake, IL
+
+Year (as of 2019-2020): Senior
+
+Major(s): Mathematics/Computer Science
+
+Why did you choose to study this? I love math and programming; while my original major was a math major, my advisor and I chose to take on the challenge of a computer science major as well since I could do it.
+
+Hobby, extracurricular, or fun fact: I have been a part of several music ensembles already but am not a music major or minor. I am also going through college in 3 years.
+
+What career path interests you most right now? I do not have any specifics in mind; next step is to go to graduate school for math.
+
+Why Taylor? I had originally had several friends who went here, but it was never high on my list of places. However, after a few bad campus visits to other schools and a change of official majors, I landed at Taylor as my first choice.
+
+Favorite thing about Taylor: I think my favorite thing here, no matter how typical this answer may be, is the community around me. At Taylor, away from my family, I have experienced a community that has come around me like a family and gained friendships that I hope will last a lifetime. 
+
+What’s the most valuable lesson you’ve learned in college so far? Take responsibility for your actions and your required assignments. While this has not happened often, I have gotten myself into trouble a few times for not turning things in when I needed to. The number one lesson I have learned, then, is that it is important to take responsibility for my own actions and use my time in the best way possible so that all my work gets done. That being said, taking rests is also just as important.
+
+What Computer Science knowledge, experience, or classes did you come in with when you started studying CS here? I came in with enough credits to go straight past COS 120 and COS 121 – my first class was COS 265. That being said, both my classes I had credit for were in Java, so while I did not know other languages, the fact that COS 265 was in Java was a very nice transition for me.
+
+How well did the CS department do in taking you where you were and teaching you from there? The CS department has helped me with every new language I have learned. This includes HTML, C++, and Assembly Code. These three have all come in classes, though. Additionally, I have learned Python and Bash scripts on my own (also because I needed to for a job). So far, no matter what I have been stuck on, the professors have always been willing to help me, be patient with me, work with me, and encourage me to do my best while strengthening me through assignments and exams.
+
+What piece of advice or word of encouragement would you give to an incoming CS student? Do not treat anything you do in your classes flippantly. No matter how worthless something may seem, there will come a time where you will want to use it and need to know how to do it. Additionally, make use of your professors. They are there to help you and want to help you; it can be like a free tutor. Do not be afraid to approach them and ask for help; otherwise, you may flounder a good deal before finding your legs. Finally, utilize the help of others around you. There is a good chance they may be able to help you through tougher times and classes, and most people are always willing to help when able.
+
+Describe your favorite CS related project (personal or school): It is a toss-up between BombLab from ICS and an autograding system I created the summer of 2019 for COS 120 classes. The first involved solving what a function did, and the other involved creating a system to save TA’s by automatically generating and creating problems for COS 120.
+
+What’s the hardest lesson in CS you’ve learned? One of the hardest things I have learned so far was in ICS. It involved the forking of functions to create parent and child functions that could be run separately involving the same code. While it is not too difficult to understand, the implementation caused me a few headaches.
+
+Make your own question and answer it. What are the ingredients of a hotdog?
+
+Mechanically separated chicken, water, pork, corn syrup, modified food starch, salt, contains 2% or less of: Sodium Lactate, dextrose, sodium phosphate, beef, sodium, diacetate, flavorings, sodium erythorbate, sodium nitrate, oleoresin, paprika, citric acid

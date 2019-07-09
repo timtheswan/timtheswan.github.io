@@ -340,7 +340,7 @@ figcaption {
 }
 
 #projectsHero {
-  background-image: url("/img/projects/posters_banner.png");
+  background-image: url("/img/projects/posters_banner.jpg");
   background-position: top 68px center;
   background-repeat: no-repeat;
   background-size: 1800px;
@@ -403,6 +403,23 @@ figcaption {
   /*background-attachment:scroll;*/
   margin-bottom: 30px;
 
+  height:500px;
+}
+
+#activitiesHero {
+  background-image: url("/img/banners/activities.jpg");
+  height:500px;
+}
+
+#activitiesHero .hero-inner p {
+  color: #eeeeee;
+}
+
+#tupilotsHero {
+  background-image: url("/img/activites/drone2.jpg");
+  background-position: center center;
+  background-size:50%;
+  background-color:black;
   height:500px;
 }
 

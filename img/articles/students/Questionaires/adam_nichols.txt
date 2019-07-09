@@ -1,0 +1,39 @@
+Current Student Questionnaire 
+
+Please answer all short response questions and at least 4 long response questions.
+
+Name: Adam Nichols
+
+Where are you from? Williamston, Michigan
+
+Year (as of 2019-2020): Junior
+
+Major(s): Computer Science/Cybersecurity
+
+Why did you choose to study this? Cybersecurity is today’s real-life superpower. There are superheroes who use their power for good, and villains who use it for evil. I want to use my knowledge and skills to protect people from those trying to exploit them
+
+Hobby, extracurricular, or fun fact: Member of the Taylor University Track Team
+
+What career path interests you most right now? I’m torn between three, actually: Software Development, Cybersecurity Research, and teaching Computer Science at a University
+
+Why Taylor? Taylor is one of the few Christian Schools that has a very strong CSE department. Couple that with Taylor’s phenomenal community and the choice was a no-brainer.
+
+Favorite thing about Taylor: The second floor of Bergwall Hall! 
+
+What’s the most valuable lesson you’ve learned in college so far? The pursuit of excellence is good, but the pursuit of balance is a necessity. This means keeping academics, athletics, and a social life all in their proper place. Idolizing those or anything else can lead to a lot of unnecessary stress and anxiety. Neglecting them can throw your whole-person development off track.
+
+What Computer Science knowledge, experience, or classes did you come in with when you started studying CS here? I had programmed in Python and C before, and had spent a lot of personal time reading about computer security.
+
+How well did the CS department do in taking you where you were and teaching you from there? It felt like a slow start for me freshmen year, but I think that was necessary. Even though the coursework went over a lot of what I already knew it gave me a chance to solidify the foundation I had already built.
+
+What piece of advice or word of encouragement would you give to an incoming CS student? Time management is everything. If you think an assignment will take you two hours, budget out four hours for it. That way, if you were right you have extra time to rest/recharge/etc, and if not you aren’t scrambling to get it done at the last minute
+
+Describe your favorite CS related project (personal or school): In COS 370, I had the opportunity to build a video game engine with 3 other students that was made to make it easier for game developers to make platformer games. I used it to make a Super Mario Bros clone from scratch!
+
+What’s the hardest lesson in CS you’ve learned? You’re not always going to have all the answers. You will need to ask for help, and there is no shame in that. It doesn’t mean you failed; it means that you are human. It also means you are about to have a very beneficial learning experience if you allow yourself to.
+
+What’s the funniest CS joke you know? Why do programmers always mix up Christmas and Halloween? Because DEC 25 == OCT 31 (It’s an Octal Joke)
+
+Make your own question and answer it. How have the opportunities in the CSE department outside of normal coursework impacted your Taylor Experience?
+
+Having been on the Lockheed Martin Project, the TrojanCTF project, and been apart of the TrojanSec cybersecurity club, My skills both as a team member and a team leader have really grown. Being able to apply for my first internship and already having a plethora of real-world work experience was a huge plus.

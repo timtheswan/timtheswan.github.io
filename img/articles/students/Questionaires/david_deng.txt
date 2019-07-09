@@ -1,0 +1,33 @@
+Current Student Questionnaire 
+
+Please answer all short response questions and at least 4 long response questions.
+
+Name: David Deng
+
+Where are you from? Beijing, China
+
+Year (as of 2019-2020): Junior
+
+Major(s): CSBS
+
+Why did you choose to study this? I wanted computers to do things for me.
+
+Hobby, extracurricular, or fun fact: cooking, playing the piano.
+
+What career path interests you most right now? New technologies like AI; Software development/management.
+
+Why Taylor? Scholarships and friends' recommendation.
+
+Favorite thing about Taylor: Food in Dinning Common.
+
+How well did the CS department do in taking you where you were and teaching you from there? I am grateful for kind encouragements and patient answers that many professors have given me; they were lovely and satisfactory to my curiosity.
+
+What piece of advice or word of encouragement would you give to an incoming CS student? Be curious :D
+
+Indicate if female, international student, and/or MK (missionary kid) International.
+
+What is it like being this (above) in Computer Science? In some class discussions, context are mostly assumed to be the  United States, but it is usually interesting for me to listen to what other people thinks and to look at things from the perspective of an American.
+
+Describe your favorite CS related project (personal or school): Corpus Christi in Ecuador. We were asked to extend a management software for a church there. It was a great learning experience for me, not only in technology, but also in collaborating with other people in a big project; it was also encouraging to know that what we were building would provide a useful service for many people in that church.
+
+What’s the funniest CS joke you know? Labeling a trash can with “/dev/null”.

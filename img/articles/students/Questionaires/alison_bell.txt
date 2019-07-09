@@ -1,0 +1,38 @@
+Current Student Questionnaire 
+
+Please answer all short response questions and at least 4 long response questions.
+
+Name: Alison Bell
+
+Where are you from? Grew up in Iraq
+
+Year (as of 2019-2020): Senior
+
+Major(s): Computer Science B.A.
+
+Why did you choose to study this? I wanted to go into software development, and I generally enjoyed problem-solving and working with computers
+
+Hobby, extracurricular, or fun fact: I enjoy knitting and have designed a couple patterns based on fantasy and sci fi that I enjoy
+
+What career path interests you most right now? Software development for Christian nonprofits
+
+Why Taylor? Taylor has a strong computer science program with classes in many different areas of CS, and generally has a focus on community, service, and missions
+
+Favorite thing about Taylor: The professors really care about you and don’t just want to help you learn; they also care about you personally and spiritually
+
+What Computer Science knowledge, experience, or classes did you come in with when you started studying CS here? I knew how to program, had taken AP Computer Science, and had done some professional web development.
+
+How well did the CS department do in taking you where you were and teaching you from there? The CS department really helped me to learn more foundational and complex computer science concepts (like fundamental data structures and algorithms and how to think and problem-solve using them) and to understand how a computer actually worked (memory, code compilation, how a program actually runs, etc). This meant I could do more than just copying and pasting code and really understand how to build a good piece of software to solve a problem.
+
+What piece of advice or word of encouragement would you give to an incoming CS student? It’s normal to feel stuck or confused. Computer science is all about problem-solving and organizing complexity, and that means you might have to bang your head against a problem for a while or do a lot of research before figuring out how to solve it. You’re not stupid or unqualified – even the most amazing professional software engineers I’ve worked with still get stuck and confused!
+
+Indicate if female, international student, and/or MK (missionary kid) I’m a woman and a missionary kid
+
+What is it like being this (above) in Computer Science? I sometimes feel like I have less of a natural connection to some of the other people in my major, since many of them live together in guys’ dorms and already know each other and hang out. However, when we do interact during group projects and in other settings, we generally get along just fine. There are also quite a few other women and MKs in the major that I’ve gotten to know well, and I feel like the professors are always looking out for me and want to support me.
+
+Describe your favorite CS related project (personal or school): I got to work on a really cool project at an internship with Wycliffe Associates the summer after my freshman year – we worked on a platform for speakers of minority languages to collaborate on checking recordings of new Bible translations.
+
+Make your own question and answer it. What did Taylor give you that you wouldn’t get at other CS programs? 
+
+First of all, since Taylor is a liberal arts school, I didn’t just interact with my fellow computer science majors in CS classes – I also got to see them in Bible classes, philosophy and ethics classes, and other settings. It’s normal for the professors and students to talk about things far beyond computer science and to have more holistic relationships that aren’t just focused on classes. Secondly, the professors care not just about making you a good computer scientist, but also helping you become a person who will use computer science to help others, make the world a better place, and live a life that glorifies God. The farther I’ve gone in the computer science industry, the more I’ve appreciated how rare and valuable it is to have smart, skilled mentors in CS who don’t worship success, money, or comfort.
+

@@ -1,0 +1,33 @@
+Current Student Questionnaire 
+
+Please answer all short response questions and at least 4 long response questions.
+
+Name: Courtney Masters
+
+Where are you from: Bloomington, Illinois
+
+Year: Sophomore
+
+Major: Computer Science and Digital Media
+
+Why did you choose to study this: I heard from my brother and other friends that the computer science department at Taylor had amazing professors and that the program was really well designed. I was particularly attracted the digital media program because it incorporated design and film along with programming.
+
+Hobby/fun fact: I love to cake decorate and watercolor paint in my free time
+
+Career path interests: Web development or software engineering
+
+Why Taylor: It might be a basic Taylor-kid answer, but I love the community. I love having tight relationships on my wing, in my major, and with my professors.
+
+Favorite thing about Taylor: I love that students from every year live together. I love having friends that are freshman, sophomores, juniors, and seniors. Being mentored by older friends and having the opportunity to pour into younger friends is a really unique and special thing that the Taylor community fosters.
+
+What’s the most valuable lesson you’ve learned at Taylor so far: Don’t take 8ams. Just kidding. I think the most important lesson I’ve learned from Taylor is to take initiative. Don’t wait for opportunities to come to you, go find them. Apply for a job that you might not get or ask someone you don’t really know that well out to coffee- you might become great friends! Take life by the reigns.
+
+What computer science knowledge, experience, or classes did you come in with when you started studying CS: Absolutely none.
+
+I definitely had adequate teaching that got me up to speed pretty quickly, although it sometimes felt like I had to try harder in some of my classes than some of the other CS students. Don’t be afraid to ask for help, especially early on. Working with friends on homework can be fun and super helpful. It’s nice to have someone to talk out loud with and process through and assignment together. Also, don’t be afraid to get tutoring if you think it would be beneficial.
+
+Indicate if female, international student, and/or MK (missionary kid) Female
+
+Being a female in a male-dominated major isn’t that different. To be honest I don’t really notice that there aren’t very many girls, but I still like to make jokes about it. It did help me become very good friends with the other two girls that were in my first CS class in my first semester, and we have a lot of fun together.
+
+What’s the hardest lesson in CS you’ve learned? Learning to admit when I didn’t understand something. It’s easy to just nod your head and pretend that you get it when you don’t, but that will hurt you later on.

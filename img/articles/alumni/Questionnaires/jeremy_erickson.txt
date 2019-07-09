@@ -1,0 +1,13 @@
+BA Math/BS CS Scientific Computing Track 2009
+
+Ph.D. student at UNC Chapel Hill
+
+Resarch topic: Real-Time Scheduling: Managing Tardiness Bounds and Overload in Soft Real-Time Systems
+
+Senior thesis at Taylor University: Algebraic Cryptanalysis of SMS4
+
+Received overall Best Paper award at the 24th Euromicro Conference on Real-Time Systems (2012). Paper title: “Fair Lateness Scheduling: Reducing Maximum Lateness in G-EDF-like Scheduling”
+
+Comments: I very much enjoyed my time at Taylor. In addition to the Christian community, my education was very helpful. The degree requirements prepared me well for graduate school at UNC. I did not have to take any additional background courses as many incoming Ph.D. students do, and I felt prepared equally well with any of my peers in both theoretical and systems-oriented courses. The software development skills I honed at Taylor also helped prepare me for internships with Northrop Grumman and Google.
+
+During my first summer internship with Google in 2011, I worked at the headquarters in Mountain View, CA. I improved the performance of Google Earth by applying scheduling techniques. This resulted in a publication “Soft Real-Time Scheduling in Google Earth,” which I presented at the 18th Real-Time and Embedded Technology and Applications Symposium in Beijing, China. My code has been included in Google Earth since version 6.2. I have returned to Google for a second summer internship in 2013, doing work in the Madison, WI office related to data centers.

@@ -1,0 +1,33 @@
+Current Student Questionnaire 
+
+Please answer all short response questions and at least 4 long response questions.
+
+Name: Alexander McFarland
+
+Where are you from? Louisville, Kentucky
+
+Year (as of 2019-2020): Sophomore
+
+Major(s): Math and Cybersecurity
+
+Why did you choose to study this? I love mathematics and think it is beautiful and enjoyable. I think cybersecurity is a growing and important field full of interesting research opportunities and new growth, which I would like to participate in. 
+
+Hobby, extracurricular, or fun fact: I enjoy playing the piano, as well as many outdoor activities and sports, like soccer.
+
+What career path interests you most right now? Currently, I’m interested in mathematics research, cybersecurity for one of the three letter agencies, or computational physics.
+
+Why Taylor? My parents are Taylor alumni, so the school has always been on my radar. I was impressed with the math and computer science departments here at Taylor. Finally, the wonderful community and spiritual devotion of students and professors made me decide Taylor was the right place for me.
+
+Favorite thing about Taylor: The Taylor community is wonderful and one of the highlights of Taylor. I love my wing and all the enjoyable activities we do together. Moreover, the Taylor professors are exceptional teachers and interesting persons. The extraordinary community of students and professors is one of my favorite things about Taylor.
+
+What’s the most valuable lesson you’ve learned in college so far? I’ve learned that spending time asking teachers and other students thoughtful questions is a very good use of time. It takes humility and patience to do this, but it is well worth it and helps me grow both as a learner and as an adult.
+
+What Computer Science knowledge, experience, or classes did you come in with when you started studying CS here? I had only a little experience in CPP from the summer before my sophomore year of high school.
+
+How well did the CS department do in taking you where you were and teaching you from there? I have learned a great deal about computer science in just one year at Taylor. I am sure I will grow a great deal more as I continue and the CSE professors have done a great job thus far. I am excited to make much more progress as I learn from the students and faculty of the department in these next three years.
+
+What piece of advice or word of encouragement would you give to an incoming CS student? Fully embrace the opportunities college has right away! Four years is not alt of time but there is a lot of valuable stuff to do. Don’t sit in your room and waste your time, instead get involved in projects, events on campus, wing activities, opportunities/learning experiences in your department, etc. Taylor University has a lot to offer and every student would do well to take full advantage of that.
+
+Describe your favorite CS related project (personal or school): So far, my favorite CSE project has been Battleships in COS 121. The project was a great learning experience and fun result. I am looking forward to many more cool projects as I continue on in the department.
+
+What’s the hardest lesson in CS you’ve learned? There needs to be a balance to schoolwork and other activities at college. One way or another, it can be easy to give some matter too much importance relative to other things in life. It is important to work hard at class projects and work but breaks to enjoy community can have long lasting importance. Not only will balance allow me to preform each activity better, I will also make the most of all aspects of my college experience.
