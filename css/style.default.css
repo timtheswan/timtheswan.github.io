@@ -1263,7 +1263,7 @@ fieldset[disabled] .btn-template-primary.active {
   list-style-type: none;
   margin: 0 5px;
   background: #fff;
-  padding-bottom: 60px;
+  padding-bottom: 70px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -1317,12 +1317,12 @@ fieldset[disabled] .btn-template-primary.active {
 .testimonials .item .testimonial .name-picture .name {
   position:absolute;
   left: 15px;
-  top:0px;
+  top:-10px;
     z-index: 1;
 }
 .testimonials .item .testimonial .name-picture .position {
     position:absolute;
-    bottom:-45px;
+    bottom:-55px;
     left:35px;
     font-size: 20px;
     /*border-style:solid;*/
@@ -1333,14 +1333,16 @@ fieldset[disabled] .btn-template-primary.active {
   text-align: right;
 }
 .testimonials .item .testimonial .name-picture h5 {
-  font-size: 18px;
+  font-size: 17px;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.07em;
 }
 .testimonials .item .testimonial .name-picture p {
+
+  /*border-style:solid;*/
   color: #999999;
   margin: 0;
-  font-size: 18px;
+  font-size: 14px;
 }
 .testimonials .item .testimonial .name-picture img {
   float: right;
@@ -1790,8 +1792,9 @@ fieldset[disabled] .btn-template-primary.active {
   background: url('../img/oscilloscope.jpg') center -100px;
   /*background-color: grey;*/
   background-size: 100%;
-  border-top: solid 1px #999999;
-  border-bottom: solid 1px #999999;
+  /*border-top: solid 1px #999999;*/
+  /*border-bottom: solid 1px #999999;*/
+  background-repeat: none;
 }
 
 .bar.background-gray {

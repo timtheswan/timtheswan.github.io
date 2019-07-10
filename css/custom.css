@@ -25,8 +25,11 @@
   position:center;
 }
 
+
+
 .tiles{
   /*height:400px;*/
+  background-color:black;
   display: grid;
   grid-gap: 0px;
   overflow: hidden;
@@ -39,13 +42,7 @@
 
   height:35vw;
   position:relative;
-  /*border-style: solid;*/
-  /*position:relative;*/
-  /*height:100px;*/
-  /*width:450px;*/
-  /*margin:0 auto;*/
-  /*-webkit-filter: brightness(70%);*/
-  /*filter: brightness(70%);*/
+  overflow: hidden;
 }
 .tile .tileHeader{
   width:90%;
@@ -291,11 +288,20 @@ figcaption {
      padding-left: 10px;
      padding-right: 10px;
      border-width:2px;
+
  }
 
  .hero-inner a:hover {
      text-decoration: none;
+   color: rgb(140,140,205);
  }
+.hero .hero-background{
+  background-color:rgba(0,0,0,.4);
+  position:absolute;
+  height:100%;
+  width:35%;
+}
+
 #homeHero {
   background: black;
   /*background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(0, 0, 0, 1)), url("/img/home/tsat_3.jpg");*/
@@ -407,8 +413,11 @@ figcaption {
 }
 
 #activitiesHero {
-  background-image: url("/img/banners/activities.jpg");
-  height:500px;
+  background-image: url("/img/activities/collage.jpg");
+  background-size: 100vw;
+  height:40vw;
+  -webkit-mask-image: linear-gradient(to top, rgba(0,0,0,.5) 0%, black 70%);
+  mask-image: linear-gradient(to top, rgba(0,0,0,.5) 0%, black 70%);
 }
 
 #activitiesHero .hero-inner p {
@@ -416,13 +425,148 @@ figcaption {
 }
 
 #tupilotsHero {
-  background-image: url("/img/activites/drone2.jpg");
+  background-image: url("/img/activities/drone2.jpg");
+  background-position: center right;
+  background-size:40%;
+  background-color:black;
+  height:500px;
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,.0) 0%, black 30%);
+  mask-image: linear-gradient(to bottom, rgba(0,0,0,.0) 0%, black 30%);
+
+}
+
+#tupilotsHero .hero-inner {
+  /*text-align: left;*/
+  position:absolute;
+  left:10%;
+  top:40%;
+  width:30%;
+  position:fixed;
+}
+#jobfairHero {
+  background-image: url("/img/activities/job_fair2.jpg");
+  background-position: top right;
+  background-size:cover;
+  background-color:black;
+  height:500px;
+  /*-webkit-mask-image: linear-gradient(to top, rgba(0,0,0,.0) 0%, black 30%);*/
+  /*mask-image: linear-gradient(to top, rgba(0,0,0,.0) 0%, black 30%);*/
+
+}
+
+#jobfairHero .hero-inner {
+  /*text-align: left;*/
+
+  /*position:absolute;*/
+  /*left:10%;*/
+  top:40%;
+  width:30%;
+  position:fixed;
+  left:10%;
+
+}
+#jobfairHero .hero-background {
+  left: 7.5%;
+}
+
+#gamejamHero {
+  background-image: url("/img/activities/gamejam.jpg");
   background-position: center center;
-  background-size:50%;
+  background-size:cover;
   background-color:black;
   height:500px;
 }
+#gamejamHero .hero-background {
+  right:7.5%;
+}
+#gamejamHero .hero-inner {
+  position:absolute;
+  right:10%;
+  top:40%;
+  width:30%;
+  position:fixed;
 
+}
+#cmcHero {
+  background-image: url("/img/activities/cmc.jpg");
+  background-position: center center;
+  background-size:cover;
+  background-color:black;
+  height:500px;
+}
+#cmcHero .hero-background {
+  left:7.5%;
+}
+#cmcHero .hero-inner {
+  position:absolute;
+  left:10%;
+  top:40%;
+  width:30%;
+  position:fixed;
+}
+
+/*Below is for hero from activities article, NOT from posters article*/
+
+#posterHero {
+  background-image: url("/img/activities/posters.jpg");
+  background-position: top right;
+  background-size:cover;
+  background-color:black;
+  height:500px;
+}
+#posterHero .hero-background {
+  left:7.5%;
+}
+#posterHero .hero-inner {
+  position:absolute;
+  left:10%;
+  top:40%;
+  width:30%;
+  position:fixed;
+}
+
+#internshipsHero {
+  background-image: url("/img/activities/logos.png");
+  background-color: black;
+  background-position:  80% center;
+  background-size:30vw;
+  background-color:black;
+  height:500px;
+}
+#internshipsHero .hero-background {
+  left:7.5%;
+}
+#internshipsHero .hero-inner {
+  position:absolute;
+  left:10%;
+  top:40%;
+  width:30%;
+  position:fixed;
+}
+
+#retreatHero {
+  background-image: url("/img/activities/freshmen_retreat.jpg");
+  background-position:  center center;
+  background-size:cover;
+  background-color:black;
+  height:500px;
+}
+#retreatHero .hero-background {
+  right:7.5%;
+}
+#retreatHero .hero-inner {
+  position:absolute;
+  right:10%;
+  top:40%;
+  width:30%;
+  position:fixed;
+}
+
+#articlesHero {
+  margin-bottom: 30px;
+  background-image: url("/img/activities/drone2.jpg");
+
+}
 
 .tiles #homeTiles {
   /*height:400px;*/

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on TU Computer Science and Engineering</title>
-    <link>https://timtheswan.github.io/projects/</link>
+    <link>http://victor.cse.taylor.edu/projects/</link>
     <description>Recent content in Projects on TU Computer Science and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jun 2019 13:29:04 -0400</lastBuildDate>
     
-	<atom:link href="https://timtheswan.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://victor.cse.taylor.edu/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Year Projects</title>
-      <link>https://timtheswan.github.io/projects/introductory_projects/</link>
+      <link>http://victor.cse.taylor.edu/projects/introductory_projects/</link>
       <pubDate>Mon, 03 Jun 2019 13:29:04 -0400</pubDate>
       
-      <guid>https://timtheswan.github.io/projects/introductory_projects/</guid>
+      <guid>http://victor.cse.taylor.edu/projects/introductory_projects/</guid>
       <description>Whose AI will win?
    In their first year, Computer Science students will take both COS 120, and COS 121, which teaches students to code from square one. Regardless of the experience students come in with, they will be given the foundational skills necessary code their own AIs (artificial intelligence) to play games, like Checkers, Risk, and Battleships.
 COS 120, Introduction to Computational Problem Solving, teaches students essential coding principles, and gives them their first taste solving real world computational problems using Python.</description>
@@ -24,40 +24,40 @@ COS 120, Introduction to Computational Problem Solving, teaches students essenti
     
     <item>
       <title>Taylor Satellite (TSAT)</title>
-      <link>https://timtheswan.github.io/projects/tsat/</link>
+      <link>http://victor.cse.taylor.edu/projects/tsat/</link>
       <pubDate>Thu, 16 May 2019 12:42:44 -0400</pubDate>
       
-      <guid>https://timtheswan.github.io/projects/tsat/</guid>
+      <guid>http://victor.cse.taylor.edu/projects/tsat/</guid>
       <description>Taylor to the skies  TSAT launching from Cape Canaveral (Photo courtesy of NASA.)
    The Taylor Satellite (TSAT) is a student-developed dual Cube-Sat Unit (4 x 4 x 8 inches) nanosatellite participating in NASA’s ELANA-5 (Educational Launch of Nanosatellites). TSAT was selected by NASA in a competitive program with other universities and was the only undergraduate program chosen. TSAT is short for Taylor, Technology, and TEST – Satellite.</description>
     </item>
     
     <item>
       <title>Feature Selection for Malware Classification</title>
-      <link>https://timtheswan.github.io/projects/feature_selection_for_malware_classification/</link>
+      <link>http://victor.cse.taylor.edu/projects/feature_selection_for_malware_classification/</link>
       <pubDate>Fri, 28 Apr 2017 11:58:20 -0400</pubDate>
       
-      <guid>https://timtheswan.github.io/projects/feature_selection_for_malware_classification/</guid>
+      <guid>http://victor.cse.taylor.edu/projects/feature_selection_for_malware_classification/</guid>
       <description>Feature Selection for Malware Classification    Mitchell Mays Noah Drabinsky Dr. Stefan Brandle Fri, Apr 28, 2017
 In applying machine learning to malware identification, different types of features have proven to be successful. These features have also been tested with different kinds of classification methodologies and have had varying degrees of success. Every time a new machine learning methodology is introduced for classifying malware, there is the potential for increasing the overall quality of malware classification in the field.</description>
     </item>
     
     <item>
       <title>Improved User Security Through Graphical Feedback</title>
-      <link>https://timtheswan.github.io/projects/improved_user_security_through_graphical_feedback/</link>
+      <link>http://victor.cse.taylor.edu/projects/improved_user_security_through_graphical_feedback/</link>
       <pubDate>Wed, 27 Jul 2016 11:58:20 -0400</pubDate>
       
-      <guid>https://timtheswan.github.io/projects/improved_user_security_through_graphical_feedback/</guid>
+      <guid>http://victor.cse.taylor.edu/projects/improved_user_security_through_graphical_feedback/</guid>
       <description>Improved User Security Through Graphical Feedback Justice Juraschek Dannie M. Stanley Wed, Jul 27, 2016
 A plethora of methods of being secure are available to end-users. However, there is a lack of adoption of those methods. We argue that one of the primary reasons for this is the absence of proper feedback within security-sensitive situations. We believe that a graphical representation of security-related consequences can positively influence security-sensitive user decisions.</description>
     </item>
     
     <item>
       <title>Improved Kernel Security Through Memory Layout Randomization</title>
-      <link>https://timtheswan.github.io/projects/improved_kernel_security_through_memory_layout_randomization/</link>
+      <link>http://victor.cse.taylor.edu/projects/improved_kernel_security_through_memory_layout_randomization/</link>
       <pubDate>Fri, 06 Dec 2013 11:58:20 -0400</pubDate>
       
-      <guid>https://timtheswan.github.io/projects/improved_kernel_security_through_memory_layout_randomization/</guid>
+      <guid>http://victor.cse.taylor.edu/projects/improved_kernel_security_through_memory_layout_randomization/</guid>
       <description>Improved Kernel Security Through Memory Layout Randomization  Dannie M. Stanley Dongyan Xu Eugene H. Spafford Fri, Dec 6, 2013 
 The vast majority of hosts on the Internet, including mobile clients, are running on one of three major operating system families. Malicious operating system kernel software, such as the code introduced by a kernel rootkit, is strongly dependent on the organization of the victim operating system. Due to the lack of diversity of operating systems, attackers can craft a single kernel exploit that has the potential to infect millions of hosts.</description>
     </item>
