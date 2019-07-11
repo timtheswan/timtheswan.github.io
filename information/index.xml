@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About CSE on TU Computer Science and Engineering</title>
-    <link>#https://timtheswan.github.io/information/</link>
+    <link>https://timtheswan.github.io/information/</link>
     <description>Recent content in About CSE on TU Computer Science and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Jun 2019 12:27:54 -0400</lastBuildDate>
     
-	<atom:link href="#https://timtheswan.github.io/information/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://timtheswan.github.io/information/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Computer Science as a Career</title>
-      <link>#https://timtheswan.github.io/information/computer_science_career/</link>
+      <link>https://timtheswan.github.io/information/computer_science_career/</link>
       <pubDate>Tue, 25 Jun 2019 10:39:48 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/computer_science_career/</guid>
+      <guid>https://timtheswan.github.io/information/computer_science_career/</guid>
       <description> Why work in Computer Science? </description>
     </item>
     
     <item>
       <title>Info</title>
-      <link>#https://timtheswan.github.io/information/info/</link>
+      <link>https://timtheswan.github.io/information/info/</link>
       <pubDate>Tue, 25 Jun 2019 10:34:25 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/info/</guid>
+      <guid>https://timtheswan.github.io/information/info/</guid>
       <description>For Prospective Students Looking to find the Computer Science department that&amp;rsquo;s right for you?
  Find out more about Computer Science as a career
  See our degrees at a glance with sample 4 year plans
@@ -38,10 +38,10 @@
     
     <item>
       <title>Degrees at a Glance</title>
-      <link>#https://timtheswan.github.io/information/degrees_at_a_glance/</link>
+      <link>https://timtheswan.github.io/information/degrees_at_a_glance/</link>
       <pubDate>Tue, 25 Jun 2019 08:47:56 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/degrees_at_a_glance/</guid>
+      <guid>https://timtheswan.github.io/information/degrees_at_a_glance/</guid>
       <description>Please note, these are intended to be samples only, your 4 year plan will look a bit different depending on the classes you choose, and when you take them Computer Science &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bachelor of Arts in Computer Science 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bachelor of Science in Computer Science 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bachelor of Science in Computer Science with Systems Curriculum 
@@ -50,10 +50,10 @@
     
     <item>
       <title>Links</title>
-      <link>#https://timtheswan.github.io/information/links/</link>
+      <link>https://timtheswan.github.io/information/links/</link>
       <pubDate>Fri, 24 May 2019 11:39:52 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/links/</guid>
+      <guid>https://timtheswan.github.io/information/links/</guid>
       <description> As a student, you have free access to the complete suite of developer tools by JetBrains. Find out more here.
  To activate Azure for students to get access to a suite of services to help you develop and deploy enterprise-grade web apps, among other things, sign in to your Taylor account here. 
   </description>
@@ -61,20 +61,20 @@
     
     <item>
       <title>Poster Printing Services</title>
-      <link>#https://timtheswan.github.io/information/poster_printing/</link>
+      <link>https://timtheswan.github.io/information/poster_printing/</link>
       <pubDate>Fri, 24 May 2019 11:28:35 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/poster_printing/</guid>
+      <guid>https://timtheswan.github.io/information/poster_printing/</guid>
       <description>THIS IS NOT THE TAYLOR PRINT SHOP. We cannot accept the discount coupons/forms that they provide. Please contact the University Press at x85218 or visit them (by the TU Post Office) if you have a coupon and need a poster printed. 
 The CSE Dept is happy to provide large format printing for our students. We can print up to 42&amp;rdquo; wide by any length. New for 2017: We are using semi-gloss coated paper, which makes your prints look much nicer.</description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>#https://timtheswan.github.io/information/faq/</link>
+      <link>https://timtheswan.github.io/information/faq/</link>
       <pubDate>Fri, 24 May 2019 10:38:17 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/faq/</guid>
+      <guid>https://timtheswan.github.io/information/faq/</guid>
       <description>FAQ  How can I transfer my AP or dual credit classes?
  What&amp;rsquo;s a double major?
   Double majors are for people who are interested in studying more than one major. Taylor University allows students to declare any combination of minors and majors. Be sure that there is adequate overlap between the two majors so that you can finish in time! Also, be aware that there is a 160 credit hour cap.</description>
@@ -82,20 +82,20 @@ The CSE Dept is happy to provide large format printing for our students. We can 
     
     <item>
       <title>Systems Option</title>
-      <link>#https://timtheswan.github.io/information/systems/</link>
+      <link>https://timtheswan.github.io/information/systems/</link>
       <pubDate>Tue, 21 May 2019 13:25:31 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/systems/</guid>
+      <guid>https://timtheswan.github.io/information/systems/</guid>
       <description>What is Systems? Systems is not a minor in Computer Science. The goal of the Systems curriculum is to help students recognize that the world is filled with systems (like educational, distribution, and manufacturing systems). It is the processes inhabiting these systems that produce value and help organizations achieve high performance. Our graduates are enjoying careers at enterprises of all sizes, including global consulting companies.
 &amp;nbsp;   What in the world is Accenture selling?</description>
     </item>
     
     <item>
       <title>Abet Accreditation</title>
-      <link>#https://timtheswan.github.io/information/abet_accreditation/</link>
+      <link>https://timtheswan.github.io/information/abet_accreditation/</link>
       <pubDate>Mon, 20 May 2019 11:07:16 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/abet_accreditation/</guid>
+      <guid>https://timtheswan.github.io/information/abet_accreditation/</guid>
       <description>Our Engineering &amp;amp; Computer Engineering programs
 are ABET-accredited.
    Accreditation The Engineering &amp;amp; Computer Engineering degree programs are accredited by the Engineering Accreditation Commission of ABET (https://www.abet.org). Program Educational Objectives  Prepare our graduates to server others dependably, most importantly their employer, customers, and community. Prepare our graduates to practice technical competence, producing reliable engineering designs. Prepare our graduates to exercise creativity in their work, fostering innovative solutions.</description>
@@ -103,10 +103,10 @@ are ABET-accredited.
     
     <item>
       <title>About Us</title>
-      <link>#https://timtheswan.github.io/information/about_us_old/</link>
+      <link>https://timtheswan.github.io/information/about_us_old/</link>
       <pubDate>Mon, 20 May 2019 10:18:38 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/about_us_old/</guid>
+      <guid>https://timtheswan.github.io/information/about_us_old/</guid>
       <description>Sometimes alumni Ashley Crutcher designs websites that convince people to buy products,
 like guacamole. But sometimes her goal is more serious, like convincing people to follow Jesus.
    At Taylor University, the Computer Science &amp;amp; Engineering (CSE) department is more than just a section of the science building. We have our own community on the second floor of the environmentally sustainable Euler Science Complex that flourishes as a learning environment.</description>
@@ -114,29 +114,29 @@ like guacamole. But sometimes her goal is more serious, like convincing people t
     
     <item>
       <title>Digital Media BA 4 Year Planner</title>
-      <link>#https://timtheswan.github.io/information/digital_media_ba/</link>
+      <link>https://timtheswan.github.io/information/digital_media_ba/</link>
       <pubDate>Thu, 16 May 2019 14:39:02 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/digital_media_ba/</guid>
+      <guid>https://timtheswan.github.io/information/digital_media_ba/</guid>
       <description> Digital Media BA Sample 4 Year Plan Please note that these are not official, these plans serve only as general guidelines. Freshman Year 
   Fall   Course # Course Title   Hours    COS 120  Introduction to Computational Problem Solving 4   COS 1__  CSE Orientation 1   IAS 110  Foundations of the Christian Liberal Arts 4   ENG 110  Expository Writing 3   MAT 210  Introductory Statistics 4     J-Term   Course # Course Title   Hours    COS 143 Interactive Web Page Design 3     Spring   Course # Course Title   Hours    COS 121  Foundations of Computer Science 4   BIB 110  Biblical Literature I 3   CAS 110  Public Speaking 3   ART 154  Digital Tools: Photoshop 1   MAT 210  Introductory Statistics 4      Sophomore Year    Fall   Course # Course Title   Hours    COS 120  Introduction to Computational Problem Solving 4   COS 103  CSE Orientation 1   IAS 110  Foundations of the Christian Liberal Arts 4   ENG 110  Expository Writing 3   MAT 210  Introductory Statistics 4     J-Term   Course # Course Title   Hours    COS 143 Interactive Web Page Design 3     Spring   Course # Course Title   Hours    COS 121  Foundations of Computer Science 4   BIB 110  Biblical Literature I 3   CAS 110  Public Speaking 3   ART 154  Digital Tools: Photoshop 1   MAT 210  Introductory Statistics 4      Junior Year    Fall   Course # Course Title   Hours    COS 120  Introduction to Computational Problem Solving 4   COS 1__  CSE Orientation 1   IAS 110  Foundations of the Christian Liberal Arts 4   ENG 110  Expository Writing 3   MAT 210  Introductory Statistics 4     J-Term   Course # Course Title   Hours    COS 143 Interactive Web Page Design 3     Spring   Course # Course Title   Hours    COS 121  Foundations of Computer Science 4   BIB 110  Biblical Literature I 3   CAS 110  Public Speaking 3   ART 154  Digital Tools: Photoshop 1   MAT 210  Introductory Statistics 4      Senior Year    Fall   Course # Course Title   Hours    COS 120  Introduction to Computational Problem Solving 4   COS 1__  CSE Orientation 1   IAS 110  Foundations of the Christian Liberal Arts 4   ENG 110  Expository Writing 3   MAT 210  Introductory Statistics 4     J-Term   Course # Course Title   Hours    COS 143 Interactive Web Page Design 3     Spring   Course # Course Title   Hours    COS 121  Foundations of Computer Science 4   BIB 110  Biblical Literature I 3   CAS 110  Public Speaking 3   ART 154  Digital Tools: Photoshop 1   MAT 210  Introductory Statistics 4      </description>
     </item>
     
     <item>
       <title>Organizations and Activities in CSE</title>
-      <link>#https://timtheswan.github.io/information/activities/</link>
+      <link>https://timtheswan.github.io/information/activities/</link>
       <pubDate>Wed, 15 May 2019 15:06:03 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/activities/</guid>
+      <guid>https://timtheswan.github.io/information/activities/</guid>
       <description>Activities in CSE Clubs    TWEET Also known as Taylor Women Engaging in Engineering and Technology, this club allows women in Taylor&amp;rsquo;s science, technology, engineering, and math (STEM) to participate in fun activities together. They also work to promote STEM to young girls in the Upland community . TWEET&amp;rsquo;s mission is to provide a community that encourages and unites women in a field where they are are significantly outnumbered.</description>
     </item>
     
     <item>
       <title>CSE Curriculum Info</title>
-      <link>#https://timtheswan.github.io/information/curriculum/</link>
+      <link>https://timtheswan.github.io/information/curriculum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/curriculum/</guid>
+      <guid>https://timtheswan.github.io/information/curriculum/</guid>
       <description>Computer Science Learn about Computer Science  
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bachelor of Arts in Computer Science 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bachelor of Science in Computer Science 

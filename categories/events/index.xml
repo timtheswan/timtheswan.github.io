@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on TU Computer Science and Engineering</title>
-    <link>#https://timtheswan.github.io/categories/events/</link>
+    <link>https://timtheswan.github.io/categories/events/</link>
     <description>Recent content in Events on TU Computer Science and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 May 2019 15:00:54 -0400</lastBuildDate>
     
-	<atom:link href="#https://timtheswan.github.io/categories/events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://timtheswan.github.io/categories/events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GameJam</title>
-      <link>#https://timtheswan.github.io/articles/gamejam/</link>
+      <link>https://timtheswan.github.io/articles/gamejam/</link>
       <pubDate>Tue, 21 May 2019 15:00:54 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/articles/gamejam/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://gamejam.cse.taylor.edu/&#34;&gt;&lt;strong&gt;TU CSE GameJam&lt;/strong&gt;&lt;/a&gt;  is a game jam series hosted every semester by the CSE Department and &lt;a href=&#34;#https://timtheswan.github.io/faculty/denning&#34;&gt;&lt;strong&gt;Dr. Jon Denning&lt;/strong&gt;&lt;/a&gt; and run by students at Taylor University. A game jam is a short, fun, and intense party during which students get together to develop a video game from scratch. Regardless of major or knowledge of programming, all TU students are invited to participate!&lt;/p&gt;</description>
+      <guid>https://timtheswan.github.io/articles/gamejam/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://gamejam.cse.taylor.edu/&#34;&gt;&lt;strong&gt;TU CSE GameJam&lt;/strong&gt;&lt;/a&gt;  is a game jam series hosted every semester by the CSE Department and &lt;a href=&#34;https://timtheswan.github.io/faculty/denning&#34;&gt;&lt;strong&gt;Dr. Jon Denning&lt;/strong&gt;&lt;/a&gt; and run by students at Taylor University. A game jam is a short, fun, and intense party during which students get together to develop a video game from scratch. Regardless of major or knowledge of programming, all TU students are invited to participate!&lt;/p&gt;</description>
     </item>
     
   </channel>

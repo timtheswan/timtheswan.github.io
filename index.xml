@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TU Computer Science and Engineering</title>
-    <link>#https://timtheswan.github.io/</link>
+    <link>https://timtheswan.github.io/</link>
     <description>Recent content on TU Computer Science and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Jun 2019 16:12:15 -0400</lastBuildDate>
     
-	<atom:link href="#https://timtheswan.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://timtheswan.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>List</title>
-      <link>#https://timtheswan.github.io/courses/list/</link>
+      <link>https://timtheswan.github.io/courses/list/</link>
       <pubDate>Tue, 25 Jun 2019 12:30:38 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/courses/list/</guid>
+      <guid>https://timtheswan.github.io/courses/list/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer Science as a Career</title>
-      <link>#https://timtheswan.github.io/information/computer_science_career/</link>
+      <link>https://timtheswan.github.io/information/computer_science_career/</link>
       <pubDate>Tue, 25 Jun 2019 10:39:48 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/computer_science_career/</guid>
+      <guid>https://timtheswan.github.io/information/computer_science_career/</guid>
       <description> Why work in Computer Science? </description>
     </item>
     
     <item>
       <title>Info</title>
-      <link>#https://timtheswan.github.io/information/info/</link>
+      <link>https://timtheswan.github.io/information/info/</link>
       <pubDate>Tue, 25 Jun 2019 10:34:25 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/info/</guid>
+      <guid>https://timtheswan.github.io/information/info/</guid>
       <description>For Prospective Students Looking to find the Computer Science department that&amp;rsquo;s right for you?
  Find out more about Computer Science as a career
  See our degrees at a glance with sample 4 year plans
@@ -47,10 +47,10 @@
     
     <item>
       <title>Degrees at a Glance</title>
-      <link>#https://timtheswan.github.io/information/degrees_at_a_glance/</link>
+      <link>https://timtheswan.github.io/information/degrees_at_a_glance/</link>
       <pubDate>Tue, 25 Jun 2019 08:47:56 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/degrees_at_a_glance/</guid>
+      <guid>https://timtheswan.github.io/information/degrees_at_a_glance/</guid>
       <description>Please note, these are intended to be samples only, your 4 year plan will look a bit different depending on the classes you choose, and when you take them Computer Science &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bachelor of Arts in Computer Science 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bachelor of Science in Computer Science 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bachelor of Science in Computer Science with Systems Curriculum 
@@ -59,10 +59,10 @@
     
     <item>
       <title>Alumni</title>
-      <link>#https://timtheswan.github.io/articles/alumni/</link>
+      <link>https://timtheswan.github.io/articles/alumni/</link>
       <pubDate>Mon, 24 Jun 2019 12:52:15 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/articles/alumni/</guid>
+      <guid>https://timtheswan.github.io/articles/alumni/</guid>
       <description>Grant Hollis   Grant Hollis works at Lockheed Martin
     -- Grant Hollis graduated from Taylor in 2004 with a Bachelors of Science in Computer Science, Systems, a concentration on Intelligent Systems, and a minor in Theater Arts.
 While at Taylor, Grant learned how to define goals, organize himself to create a solid route to completion, communicate that to others, and celebrate upon achievement. Grant greatly values how Taylor&amp;rsquo;s education prepared him for the workplace: &amp;ldquo;It serves as the foundation for my career.</description>
@@ -70,10 +70,10 @@ While at Taylor, Grant learned how to define goals, organize himself to create a
     
     <item>
       <title>Meet Our Students</title>
-      <link>#https://timtheswan.github.io/articles/students/</link>
+      <link>https://timtheswan.github.io/articles/students/</link>
       <pubDate>Wed, 19 Jun 2019 16:54:24 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/articles/students/</guid>
+      <guid>https://timtheswan.github.io/articles/students/</guid>
       <description>Courtney Masters   Courtney is a Sophomore studying Digital Media
     Courtney Masters is a Sophomore studying Computer Science - Digital Media B.A. She is currently most interested in a career in web development or software engineering after she graduates in 2022.
 Courtney heard about Taylor&amp;rsquo;s Computer Science department from her older brother and other friends. &amp;ldquo;I was particularly attracted to the digital media program because it incorporated design and film along with programming.</description>
@@ -81,19 +81,19 @@ Courtney heard about Taylor&amp;rsquo;s Computer Science department from her old
     
     <item>
       <title>2018-2019 Posters</title>
-      <link>#https://timtheswan.github.io/posters/2018_19_posters/</link>
+      <link>https://timtheswan.github.io/posters/2018_19_posters/</link>
       <pubDate>Thu, 13 Jun 2019 10:54:12 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/posters/2018_19_posters/</guid>
+      <guid>https://timtheswan.github.io/posters/2018_19_posters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First Year Projects</title>
-      <link>#https://timtheswan.github.io/projects/introductory_projects/</link>
+      <link>https://timtheswan.github.io/projects/introductory_projects/</link>
       <pubDate>Mon, 03 Jun 2019 13:29:04 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/projects/introductory_projects/</guid>
+      <guid>https://timtheswan.github.io/projects/introductory_projects/</guid>
       <description>Whose AI will win?
    In their first year, Computer Science students will take both COS 120, and COS 121, which teaches students to code from square one. Regardless of the experience students come in with, they will be given the foundational skills necessary code their own AIs (artificial intelligence) to play games, like Checkers, Risk, and Battleships.
 COS 120, Introduction to Computational Problem Solving, teaches students essential coding principles, and gives them their first taste solving real world computational problems using Python.</description>
@@ -101,10 +101,10 @@ COS 120, Introduction to Computational Problem Solving, teaches students essenti
     
     <item>
       <title>Links</title>
-      <link>#https://timtheswan.github.io/information/links/</link>
+      <link>https://timtheswan.github.io/information/links/</link>
       <pubDate>Fri, 24 May 2019 11:39:52 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/links/</guid>
+      <guid>https://timtheswan.github.io/information/links/</guid>
       <description> As a student, you have free access to the complete suite of developer tools by JetBrains. Find out more here.
  To activate Azure for students to get access to a suite of services to help you develop and deploy enterprise-grade web apps, among other things, sign in to your Taylor account here. 
   </description>
@@ -112,20 +112,20 @@ COS 120, Introduction to Computational Problem Solving, teaches students essenti
     
     <item>
       <title>Poster Printing Services</title>
-      <link>#https://timtheswan.github.io/information/poster_printing/</link>
+      <link>https://timtheswan.github.io/information/poster_printing/</link>
       <pubDate>Fri, 24 May 2019 11:28:35 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/poster_printing/</guid>
+      <guid>https://timtheswan.github.io/information/poster_printing/</guid>
       <description>THIS IS NOT THE TAYLOR PRINT SHOP. We cannot accept the discount coupons/forms that they provide. Please contact the University Press at x85218 or visit them (by the TU Post Office) if you have a coupon and need a poster printed. 
 The CSE Dept is happy to provide large format printing for our students. We can print up to 42&amp;rdquo; wide by any length. New for 2017: We are using semi-gloss coated paper, which makes your prints look much nicer.</description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>#https://timtheswan.github.io/information/faq/</link>
+      <link>https://timtheswan.github.io/information/faq/</link>
       <pubDate>Fri, 24 May 2019 10:38:17 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/faq/</guid>
+      <guid>https://timtheswan.github.io/information/faq/</guid>
       <description>FAQ  How can I transfer my AP or dual credit classes?
  What&amp;rsquo;s a double major?
   Double majors are for people who are interested in studying more than one major. Taylor University allows students to declare any combination of minors and majors. Be sure that there is adequate overlap between the two majors so that you can finish in time! Also, be aware that there is a 160 credit hour cap.</description>
@@ -133,29 +133,29 @@ The CSE Dept is happy to provide large format printing for our students. We can 
     
     <item>
       <title>GameJam</title>
-      <link>#https://timtheswan.github.io/articles/gamejam/</link>
+      <link>https://timtheswan.github.io/articles/gamejam/</link>
       <pubDate>Tue, 21 May 2019 15:00:54 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/articles/gamejam/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://gamejam.cse.taylor.edu/&#34;&gt;&lt;strong&gt;TU CSE GameJam&lt;/strong&gt;&lt;/a&gt;  is a game jam series hosted every semester by the CSE Department and &lt;a href=&#34;#https://timtheswan.github.io/faculty/denning&#34;&gt;&lt;strong&gt;Dr. Jon Denning&lt;/strong&gt;&lt;/a&gt; and run by students at Taylor University. A game jam is a short, fun, and intense party during which students get together to develop a video game from scratch. Regardless of major or knowledge of programming, all TU students are invited to participate!&lt;/p&gt;</description>
+      <guid>https://timtheswan.github.io/articles/gamejam/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://gamejam.cse.taylor.edu/&#34;&gt;&lt;strong&gt;TU CSE GameJam&lt;/strong&gt;&lt;/a&gt;  is a game jam series hosted every semester by the CSE Department and &lt;a href=&#34;https://timtheswan.github.io/faculty/denning&#34;&gt;&lt;strong&gt;Dr. Jon Denning&lt;/strong&gt;&lt;/a&gt; and run by students at Taylor University. A game jam is a short, fun, and intense party during which students get together to develop a video game from scratch. Regardless of major or knowledge of programming, all TU students are invited to participate!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Dr. Dannie Stanley</title>
-      <link>#https://timtheswan.github.io/faculty/stanley/</link>
+      <link>https://timtheswan.github.io/faculty/stanley/</link>
       <pubDate>Tue, 21 May 2019 13:58:13 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/faculty/stanley/</guid>
+      <guid>https://timtheswan.github.io/faculty/stanley/</guid>
       <description>Associate Professor
    When I set out to become a professor in 2004, I identified Taylor University specifically as the place that I would like to teach. I did not realize at the time how unlikely it was that I would actually get to work at my first choice (but here I sit). Though I was not a student at Taylor, I grew up in nearby Van Buren and was surrounded by community members involved with Taylor.</description>
     </item>
     
     <item>
       <title>Dr. Jeff Cramer</title>
-      <link>#https://timtheswan.github.io/faculty/cramer/</link>
+      <link>https://timtheswan.github.io/faculty/cramer/</link>
       <pubDate>Tue, 21 May 2019 13:58:13 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/faculty/cramer/</guid>
+      <guid>https://timtheswan.github.io/faculty/cramer/</guid>
       <description>Associate Professor
    As an elementary education major at Taylor University, I always thought I would someday like to be a professor. I never thought I would return to Taylor via the Computer Science and Engineering department!
 &amp;nbsp;
@@ -164,10 +164,10 @@ After teaching in a public school in Indianapolis for six years, I decided to go
     
     <item>
       <title>Dr. Jon Denning</title>
-      <link>#https://timtheswan.github.io/faculty/denning/</link>
+      <link>https://timtheswan.github.io/faculty/denning/</link>
       <pubDate>Tue, 21 May 2019 13:58:13 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/faculty/denning/</guid>
+      <guid>https://timtheswan.github.io/faculty/denning/</guid>
       <description>Assistant Professor and Department Co-chair
    In fall 2014, I started as an assistant professor teaching computer graphics and core Computer Science courses. I find graphics fascinating because it creatively combines many disciplines—physics, math, data structures, and art—and produces images that are simple, yet awe-inspiring and rich with details.
 &amp;nbsp;
@@ -176,10 +176,10 @@ The past few years have been a whirlwind of excitement for and blessings on my f
     
     <item>
       <title>Dr. Jonathan Geisler</title>
-      <link>#https://timtheswan.github.io/faculty/geisler/</link>
+      <link>https://timtheswan.github.io/faculty/geisler/</link>
       <pubDate>Tue, 21 May 2019 13:58:13 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/faculty/geisler/</guid>
+      <guid>https://timtheswan.github.io/faculty/geisler/</guid>
       <description>Associate Professor
    What can I say that’s enlightening? I’m not as funny as Dr. Brandle, so I think I’ll just be plain and tell you a bit about myself.
 &amp;nbsp;
@@ -188,10 +188,10 @@ I’m a Taylor Computer Science and Engineering grad (Dec. ’94), so I’ve bee
     
     <item>
       <title>Dr. Stefan Brandle</title>
-      <link>#https://timtheswan.github.io/faculty/brandle/</link>
+      <link>https://timtheswan.github.io/faculty/brandle/</link>
       <pubDate>Tue, 21 May 2019 13:58:13 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/faculty/brandle/</guid>
+      <guid>https://timtheswan.github.io/faculty/brandle/</guid>
       <description>Professor and Department Co-chair
    &amp;nbsp;
 What do I say? Great literature is supposed to have a catchy first line. Moby Dick begins, “Call me Ishmael.” But I’m not sure that I’m up to great literature. And my name’s not Ishmael. Should I write something profound? Something frivolous? What does one say about oneself in this sort of situation?
@@ -201,10 +201,10 @@ I wish to serve God in all aspects of my life.</description>
     
     <item>
       <title>Dr. Tom Nurkkala</title>
-      <link>#https://timtheswan.github.io/faculty/nurkkala/</link>
+      <link>https://timtheswan.github.io/faculty/nurkkala/</link>
       <pubDate>Tue, 21 May 2019 13:58:13 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/faculty/nurkkala/</guid>
+      <guid>https://timtheswan.github.io/faculty/nurkkala/</guid>
       <description>Associate Professor
    I’m at Taylor because I want to help train and mentor excellent computer scientists and engineers who are also dedicated followers of Christ. In addition, as a member of the Center for Missions Computing, I want to leverage the intellectual horsepower and spiritual maturity of the students at Taylor to help solve practical computing problems for the global mission community.
 &amp;nbsp;
@@ -213,29 +213,29 @@ To accomplish these goals, I plan to employ my educational and industrial experi
     
     <item>
       <title>DrWhite</title>
-      <link>#https://timtheswan.github.io/faculty/white/</link>
+      <link>https://timtheswan.github.io/faculty/white/</link>
       <pubDate>Tue, 21 May 2019 13:51:08 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/faculty/white/</guid>
+      <guid>https://timtheswan.github.io/faculty/white/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systems Option</title>
-      <link>#https://timtheswan.github.io/information/systems/</link>
+      <link>https://timtheswan.github.io/information/systems/</link>
       <pubDate>Tue, 21 May 2019 13:25:31 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/systems/</guid>
+      <guid>https://timtheswan.github.io/information/systems/</guid>
       <description>What is Systems? Systems is not a minor in Computer Science. The goal of the Systems curriculum is to help students recognize that the world is filled with systems (like educational, distribution, and manufacturing systems). It is the processes inhabiting these systems that produce value and help organizations achieve high performance. Our graduates are enjoying careers at enterprises of all sizes, including global consulting companies.
 &amp;nbsp;   What in the world is Accenture selling?</description>
     </item>
     
     <item>
       <title>Abet Accreditation</title>
-      <link>#https://timtheswan.github.io/information/abet_accreditation/</link>
+      <link>https://timtheswan.github.io/information/abet_accreditation/</link>
       <pubDate>Mon, 20 May 2019 11:07:16 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/abet_accreditation/</guid>
+      <guid>https://timtheswan.github.io/information/abet_accreditation/</guid>
       <description>Our Engineering &amp;amp; Computer Engineering programs
 are ABET-accredited.
    Accreditation The Engineering &amp;amp; Computer Engineering degree programs are accredited by the Engineering Accreditation Commission of ABET (https://www.abet.org). Program Educational Objectives  Prepare our graduates to server others dependably, most importantly their employer, customers, and community. Prepare our graduates to practice technical competence, producing reliable engineering designs. Prepare our graduates to exercise creativity in their work, fostering innovative solutions.</description>
@@ -243,10 +243,10 @@ are ABET-accredited.
     
     <item>
       <title>About Us</title>
-      <link>#https://timtheswan.github.io/information/about_us_old/</link>
+      <link>https://timtheswan.github.io/information/about_us_old/</link>
       <pubDate>Mon, 20 May 2019 10:18:38 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/about_us_old/</guid>
+      <guid>https://timtheswan.github.io/information/about_us_old/</guid>
       <description>Sometimes alumni Ashley Crutcher designs websites that convince people to buy products,
 like guacamole. But sometimes her goal is more serious, like convincing people to follow Jesus.
    At Taylor University, the Computer Science &amp;amp; Engineering (CSE) department is more than just a section of the science building. We have our own community on the second floor of the environmentally sustainable Euler Science Complex that flourishes as a learning environment.</description>
@@ -254,68 +254,68 @@ like guacamole. But sometimes her goal is more serious, like convincing people t
     
     <item>
       <title>Faculty</title>
-      <link>#https://timtheswan.github.io/faculty/list/</link>
+      <link>https://timtheswan.github.io/faculty/list/</link>
       <pubDate>Thu, 16 May 2019 16:10:43 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/faculty/list/</guid>
+      <guid>https://timtheswan.github.io/faculty/list/</guid>
       <description>Faculty and Staff    The Computer Science and Engineering faculty and staff are a group of highly qualified professionals with expertise and experiences that include software engineering, artificial intelligence, leadership in major corporations, ethics in technology, and computing standards in tax codes. They each value interaction with students both inside and outside of the classroom.
 The faculty and staff care about the students as mentors and friends. Their conversations can range anywhere from the classic Star Wars/Star Trek/Avengers talk to deep theology or philosophy.</description>
     </item>
     
     <item>
       <title>Digital Media BA 4 Year Planner</title>
-      <link>#https://timtheswan.github.io/information/digital_media_ba/</link>
+      <link>https://timtheswan.github.io/information/digital_media_ba/</link>
       <pubDate>Thu, 16 May 2019 14:39:02 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/digital_media_ba/</guid>
+      <guid>https://timtheswan.github.io/information/digital_media_ba/</guid>
       <description> Digital Media BA Sample 4 Year Plan Please note that these are not official, these plans serve only as general guidelines. Freshman Year 
   Fall   Course # Course Title   Hours    COS 120  Introduction to Computational Problem Solving 4   COS 1__  CSE Orientation 1   IAS 110  Foundations of the Christian Liberal Arts 4   ENG 110  Expository Writing 3   MAT 210  Introductory Statistics 4     J-Term   Course # Course Title   Hours    COS 143 Interactive Web Page Design 3     Spring   Course # Course Title   Hours    COS 121  Foundations of Computer Science 4   BIB 110  Biblical Literature I 3   CAS 110  Public Speaking 3   ART 154  Digital Tools: Photoshop 1   MAT 210  Introductory Statistics 4      Sophomore Year    Fall   Course # Course Title   Hours    COS 120  Introduction to Computational Problem Solving 4   COS 103  CSE Orientation 1   IAS 110  Foundations of the Christian Liberal Arts 4   ENG 110  Expository Writing 3   MAT 210  Introductory Statistics 4     J-Term   Course # Course Title   Hours    COS 143 Interactive Web Page Design 3     Spring   Course # Course Title   Hours    COS 121  Foundations of Computer Science 4   BIB 110  Biblical Literature I 3   CAS 110  Public Speaking 3   ART 154  Digital Tools: Photoshop 1   MAT 210  Introductory Statistics 4      Junior Year    Fall   Course # Course Title   Hours    COS 120  Introduction to Computational Problem Solving 4   COS 1__  CSE Orientation 1   IAS 110  Foundations of the Christian Liberal Arts 4   ENG 110  Expository Writing 3   MAT 210  Introductory Statistics 4     J-Term   Course # Course Title   Hours    COS 143 Interactive Web Page Design 3     Spring   Course # Course Title   Hours    COS 121  Foundations of Computer Science 4   BIB 110  Biblical Literature I 3   CAS 110  Public Speaking 3   ART 154  Digital Tools: Photoshop 1   MAT 210  Introductory Statistics 4      Senior Year    Fall   Course # Course Title   Hours    COS 120  Introduction to Computational Problem Solving 4   COS 1__  CSE Orientation 1   IAS 110  Foundations of the Christian Liberal Arts 4   ENG 110  Expository Writing 3   MAT 210  Introductory Statistics 4     J-Term   Course # Course Title   Hours    COS 143 Interactive Web Page Design 3     Spring   Course # Course Title   Hours    COS 121  Foundations of Computer Science 4   BIB 110  Biblical Literature I 3   CAS 110  Public Speaking 3   ART 154  Digital Tools: Photoshop 1   MAT 210  Introductory Statistics 4      </description>
     </item>
     
     <item>
       <title>Taylor Satellite (TSAT)</title>
-      <link>#https://timtheswan.github.io/projects/tsat/</link>
+      <link>https://timtheswan.github.io/projects/tsat/</link>
       <pubDate>Thu, 16 May 2019 12:42:44 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/projects/tsat/</guid>
+      <guid>https://timtheswan.github.io/projects/tsat/</guid>
       <description>Taylor to the skies  TSAT launching from Cape Canaveral (Photo courtesy of NASA.)
    The Taylor Satellite (TSAT) is a student-developed dual Cube-Sat Unit (4 x 4 x 8 inches) nanosatellite participating in NASA’s ELANA-5 (Educational Launch of Nanosatellites). TSAT was selected by NASA in a competitive program with other universities and was the only undergraduate program chosen. TSAT is short for Taylor, Technology, and TEST – Satellite.</description>
     </item>
     
     <item>
       <title>Tweet</title>
-      <link>#https://timtheswan.github.io/articles/tweet/</link>
+      <link>https://timtheswan.github.io/articles/tweet/</link>
       <pubDate>Wed, 15 May 2019 17:03:55 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/articles/tweet/</guid>
+      <guid>https://timtheswan.github.io/articles/tweet/</guid>
       <description>TWEET Meeting for Brunch
     Also known as Taylor Women Engaging in Engineering and Technology, this club allows women in Taylor’s science, technology, engineering, and math (STEM) to participate in fun activities together. They also work to promote STEM to young girls in the Upland community . TWEET’s mission is to provide a community that encourages and unites women in a field where they are are significantly outnumbered.</description>
     </item>
     
     <item>
       <title>Organizations and Activities in CSE</title>
-      <link>#https://timtheswan.github.io/activities/activities/</link>
+      <link>https://timtheswan.github.io/activities/activities/</link>
       <pubDate>Wed, 15 May 2019 15:06:03 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/activities/activities/</guid>
+      <guid>https://timtheswan.github.io/activities/activities/</guid>
       <description>Activities in CSE Clubs    TWEET Also known as Taylor Women Engaging in Engineering and Technology, this club allows women in Taylor&amp;rsquo;s science, technology, engineering, and math (STEM) to participate in fun activities together. They also work to promote STEM to young girls in the Upland community . TWEET&amp;rsquo;s mission is to provide a community that encourages and unites women in a field where they are are significantly outnumbered.</description>
     </item>
     
     <item>
       <title>Organizations and Activities in CSE</title>
-      <link>#https://timtheswan.github.io/information/activities/</link>
+      <link>https://timtheswan.github.io/information/activities/</link>
       <pubDate>Wed, 15 May 2019 15:06:03 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/activities/</guid>
+      <guid>https://timtheswan.github.io/information/activities/</guid>
       <description>Activities in CSE Clubs    TWEET Also known as Taylor Women Engaging in Engineering and Technology, this club allows women in Taylor&amp;rsquo;s science, technology, engineering, and math (STEM) to participate in fun activities together. They also work to promote STEM to young girls in the Upland community . TWEET&amp;rsquo;s mission is to provide a community that encourages and unites women in a field where they are are significantly outnumbered.</description>
     </item>
     
     <item>
       <title>Taylor Sends ThinSat to Space</title>
-      <link>#https://timtheswan.github.io/articles/thinsat/</link>
+      <link>https://timtheswan.github.io/articles/thinsat/</link>
       <pubDate>Thu, 25 Apr 2019 08:18:38 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/articles/thinsat/</guid>
+      <guid>https://timtheswan.github.io/articles/thinsat/</guid>
       <description>Ported from an Echo article by Ellie Tiemens
   Computer science and engineering students made Taylor history with the launch of their nanosatellite. Photo by Ryan Jones
     Taylor University students and faculty recently partnered with NearSpace Launch Inc. to make history in sending nanosatellites to space.
@@ -324,10 +324,10 @@ On April 17 at 4:46 p.m., computer science students, engineering students and fa
     
     <item>
       <title>CERIAS Security Symposium</title>
-      <link>#https://timtheswan.github.io/articles/cerias_symposium/</link>
+      <link>https://timtheswan.github.io/articles/cerias_symposium/</link>
       <pubDate>Sat, 07 Apr 2018 15:00:54 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/articles/cerias_symposium/</guid>
+      <guid>https://timtheswan.github.io/articles/cerias_symposium/</guid>
       <description>By: Dannie M. Stanley Sat, Apr 7, 2018 Ported from CyberSecurity Site
 This week eight students ventured with me to Purdue University in West Lafayette, IN, to attend the 19th annual CERIAS Security Symposium. As a graduate student at Purdue I was heavily involved with CERIAS, so the trip was both highly relevant to our students and a good chance for me to reconnect with cybersecurity colleagues.
 Symposium presenters and panelists are cybersecurity experts from academia, industry, and government.</description>
@@ -335,10 +335,10 @@ Symposium presenters and panelists are cybersecurity experts from academia, indu
     
     <item>
       <title>Lockheed Martin Grant Extended for Further Malware Research</title>
-      <link>#https://timtheswan.github.io/articles/lockheed_martin_grant/</link>
+      <link>https://timtheswan.github.io/articles/lockheed_martin_grant/</link>
       <pubDate>Thu, 15 Mar 2018 15:30:21 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/articles/lockheed_martin_grant/</guid>
+      <guid>https://timtheswan.github.io/articles/lockheed_martin_grant/</guid>
       <description>Reposted from Taylor University Site
 Aerospace and defense industry company Lockheed Martin has granted a $75,000 renewal of a grant to the Taylor University Computer Science (CSE) Department as part of a multi-year partnership to create cybersecurity solutions. The grant comes a little more than a year after the preliminary $100,000 grant from Lockheed Martin Advanced Technology Labs for research work done in 2017.
 According to Taylor faculty members, a number of Taylor CSE students and faculty worked on the project during the 2017 spring and fall semesters, and also during the summer.</description>
@@ -346,40 +346,40 @@ According to Taylor faculty members, a number of Taylor CSE students and faculty
     
     <item>
       <title>Feature Selection for Malware Classification</title>
-      <link>#https://timtheswan.github.io/projects/feature_selection_for_malware_classification/</link>
+      <link>https://timtheswan.github.io/projects/feature_selection_for_malware_classification/</link>
       <pubDate>Fri, 28 Apr 2017 11:58:20 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/projects/feature_selection_for_malware_classification/</guid>
+      <guid>https://timtheswan.github.io/projects/feature_selection_for_malware_classification/</guid>
       <description>Feature Selection for Malware Classification    Mitchell Mays Noah Drabinsky Dr. Stefan Brandle Fri, Apr 28, 2017
 In applying machine learning to malware identification, different types of features have proven to be successful. These features have also been tested with different kinds of classification methodologies and have had varying degrees of success. Every time a new machine learning methodology is introduced for classifying malware, there is the potential for increasing the overall quality of malware classification in the field.</description>
     </item>
     
     <item>
       <title>Improved User Security Through Graphical Feedback</title>
-      <link>#https://timtheswan.github.io/projects/improved_user_security_through_graphical_feedback/</link>
+      <link>https://timtheswan.github.io/projects/improved_user_security_through_graphical_feedback/</link>
       <pubDate>Wed, 27 Jul 2016 11:58:20 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/projects/improved_user_security_through_graphical_feedback/</guid>
+      <guid>https://timtheswan.github.io/projects/improved_user_security_through_graphical_feedback/</guid>
       <description>Improved User Security Through Graphical Feedback Justice Juraschek Dannie M. Stanley Wed, Jul 27, 2016
 A plethora of methods of being secure are available to end-users. However, there is a lack of adoption of those methods. We argue that one of the primary reasons for this is the absence of proper feedback within security-sensitive situations. We believe that a graphical representation of security-related consequences can positively influence security-sensitive user decisions.</description>
     </item>
     
     <item>
       <title>Improved Kernel Security Through Memory Layout Randomization</title>
-      <link>#https://timtheswan.github.io/projects/improved_kernel_security_through_memory_layout_randomization/</link>
+      <link>https://timtheswan.github.io/projects/improved_kernel_security_through_memory_layout_randomization/</link>
       <pubDate>Fri, 06 Dec 2013 11:58:20 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/projects/improved_kernel_security_through_memory_layout_randomization/</guid>
+      <guid>https://timtheswan.github.io/projects/improved_kernel_security_through_memory_layout_randomization/</guid>
       <description>Improved Kernel Security Through Memory Layout Randomization  Dannie M. Stanley Dongyan Xu Eugene H. Spafford Fri, Dec 6, 2013 
 The vast majority of hosts on the Internet, including mobile clients, are running on one of three major operating system families. Malicious operating system kernel software, such as the code introduced by a kernel rootkit, is strongly dependent on the organization of the victim operating system. Due to the lack of diversity of operating systems, attackers can craft a single kernel exploit that has the potential to infect millions of hosts.</description>
     </item>
     
     <item>
       <title>CSE Curriculum Info</title>
-      <link>#https://timtheswan.github.io/information/curriculum/</link>
+      <link>https://timtheswan.github.io/information/curriculum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>#https://timtheswan.github.io/information/curriculum/</guid>
+      <guid>https://timtheswan.github.io/information/curriculum/</guid>
       <description>Computer Science Learn about Computer Science  
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bachelor of Arts in Computer Science 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bachelor of Science in Computer Science 
@@ -392,10 +392,10 @@ The vast majority of hosts on the Internet, including mobile clients, are runnin
     
     <item>
       <title>Contact</title>
-      <link>#https://timtheswan.github.io/contact/</link>
+      <link>https://timtheswan.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>#https://timtheswan.github.io/contact/</guid>
+      <guid>https://timtheswan.github.io/contact/</guid>
       <description>Contact   Dr. Jon Denning, Department Co-chair
    General Contact Email: cseinfo@cse.taylor.edu
 Phone: 765.998.5162

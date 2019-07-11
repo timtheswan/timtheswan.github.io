@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Activities on TU Computer Science and Engineering</title>
-    <link>#https://timtheswan.github.io/activities/</link>
+    <link>https://timtheswan.github.io/activities/</link>
     <description>Recent content in Activities on TU Computer Science and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 May 2019 15:06:03 -0400</lastBuildDate>
     
-	<atom:link href="#https://timtheswan.github.io/activities/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://timtheswan.github.io/activities/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Organizations and Activities in CSE</title>
-      <link>#https://timtheswan.github.io/activities/activities/</link>
+      <link>https://timtheswan.github.io/activities/activities/</link>
       <pubDate>Wed, 15 May 2019 15:06:03 -0400</pubDate>
       
-      <guid>#https://timtheswan.github.io/activities/activities/</guid>
+      <guid>https://timtheswan.github.io/activities/activities/</guid>
       <description>Activities in CSE Clubs    TWEET Also known as Taylor Women Engaging in Engineering and Technology, this club allows women in Taylor&amp;rsquo;s science, technology, engineering, and math (STEM) to participate in fun activities together. They also work to promote STEM to young girls in the Upland community . TWEET&amp;rsquo;s mission is to provide a community that encourages and unites women in a field where they are are significantly outnumbered.</description>
     </item>
     
