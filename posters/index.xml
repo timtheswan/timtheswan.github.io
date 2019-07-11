@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posters on TU Computer Science and Engineering</title>
-    <link>http://victor.cse.taylor.edu/posters/</link>
+    <link>#https://timtheswan.github.io/posters/</link>
     <description>Recent content in Posters on TU Computer Science and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Jun 2019 10:54:12 -0400</lastBuildDate>
     
-	<atom:link href="http://victor.cse.taylor.edu/posters/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="#https://timtheswan.github.io/posters/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2018-2019 Posters</title>
-      <link>http://victor.cse.taylor.edu/posters/2018_19_posters/</link>
+      <link>#https://timtheswan.github.io/posters/2018_19_posters/</link>
       <pubDate>Thu, 13 Jun 2019 10:54:12 -0400</pubDate>
       
-      <guid>http://victor.cse.taylor.edu/posters/2018_19_posters/</guid>
+      <guid>#https://timtheswan.github.io/posters/2018_19_posters/</guid>
       <description></description>
     </item>
     

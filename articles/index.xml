@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on TU Computer Science and Engineering</title>
-    <link>http://victor.cse.taylor.edu/articles/</link>
+    <link>#https://timtheswan.github.io/articles/</link>
     <description>Recent content in Articles on TU Computer Science and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Jun 2019 12:52:15 -0400</lastBuildDate>
     
-	<atom:link href="http://victor.cse.taylor.edu/articles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="#https://timtheswan.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Alumni</title>
-      <link>http://victor.cse.taylor.edu/articles/alumni/</link>
+      <link>#https://timtheswan.github.io/articles/alumni/</link>
       <pubDate>Mon, 24 Jun 2019 12:52:15 -0400</pubDate>
       
-      <guid>http://victor.cse.taylor.edu/articles/alumni/</guid>
+      <guid>#https://timtheswan.github.io/articles/alumni/</guid>
       <description>Grant Hollis   Grant Hollis works at Lockheed Martin
     -- Grant Hollis graduated from Taylor in 2004 with a Bachelors of Science in Computer Science, Systems, a concentration on Intelligent Systems, and a minor in Theater Arts.
 While at Taylor, Grant learned how to define goals, organize himself to create a solid route to completion, communicate that to others, and celebrate upon achievement. Grant greatly values how Taylor&amp;rsquo;s education prepared him for the workplace: &amp;ldquo;It serves as the foundation for my career.</description>
@@ -24,10 +24,10 @@ While at Taylor, Grant learned how to define goals, organize himself to create a
     
     <item>
       <title>Meet Our Students</title>
-      <link>http://victor.cse.taylor.edu/articles/students/</link>
+      <link>#https://timtheswan.github.io/articles/students/</link>
       <pubDate>Wed, 19 Jun 2019 16:54:24 -0400</pubDate>
       
-      <guid>http://victor.cse.taylor.edu/articles/students/</guid>
+      <guid>#https://timtheswan.github.io/articles/students/</guid>
       <description>Courtney Masters   Courtney is a Sophomore studying Digital Media
     Courtney Masters is a Sophomore studying Computer Science - Digital Media B.A. She is currently most interested in a career in web development or software engineering after she graduates in 2022.
 Courtney heard about Taylor&amp;rsquo;s Computer Science department from her older brother and other friends. &amp;ldquo;I was particularly attracted to the digital media program because it incorporated design and film along with programming.</description>
@@ -35,29 +35,29 @@ Courtney heard about Taylor&amp;rsquo;s Computer Science department from her old
     
     <item>
       <title>GameJam</title>
-      <link>http://victor.cse.taylor.edu/articles/gamejam/</link>
+      <link>#https://timtheswan.github.io/articles/gamejam/</link>
       <pubDate>Tue, 21 May 2019 15:00:54 -0400</pubDate>
       
-      <guid>http://victor.cse.taylor.edu/articles/gamejam/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://gamejam.cse.taylor.edu/&#34;&gt;&lt;strong&gt;TU CSE GameJam&lt;/strong&gt;&lt;/a&gt;  is a game jam series hosted every semester by the CSE Department and &lt;a href=&#34;http://victor.cse.taylor.edu/faculty/denning&#34;&gt;&lt;strong&gt;Dr. Jon Denning&lt;/strong&gt;&lt;/a&gt; and run by students at Taylor University. A game jam is a short, fun, and intense party during which students get together to develop a video game from scratch. Regardless of major or knowledge of programming, all TU students are invited to participate!&lt;/p&gt;</description>
+      <guid>#https://timtheswan.github.io/articles/gamejam/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://gamejam.cse.taylor.edu/&#34;&gt;&lt;strong&gt;TU CSE GameJam&lt;/strong&gt;&lt;/a&gt;  is a game jam series hosted every semester by the CSE Department and &lt;a href=&#34;#https://timtheswan.github.io/faculty/denning&#34;&gt;&lt;strong&gt;Dr. Jon Denning&lt;/strong&gt;&lt;/a&gt; and run by students at Taylor University. A game jam is a short, fun, and intense party during which students get together to develop a video game from scratch. Regardless of major or knowledge of programming, all TU students are invited to participate!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tweet</title>
-      <link>http://victor.cse.taylor.edu/articles/tweet/</link>
+      <link>#https://timtheswan.github.io/articles/tweet/</link>
       <pubDate>Wed, 15 May 2019 17:03:55 -0400</pubDate>
       
-      <guid>http://victor.cse.taylor.edu/articles/tweet/</guid>
+      <guid>#https://timtheswan.github.io/articles/tweet/</guid>
       <description>TWEET Meeting for Brunch
     Also known as Taylor Women Engaging in Engineering and Technology, this club allows women in Taylor’s science, technology, engineering, and math (STEM) to participate in fun activities together. They also work to promote STEM to young girls in the Upland community . TWEET’s mission is to provide a community that encourages and unites women in a field where they are are significantly outnumbered.</description>
     </item>
     
     <item>
       <title>Taylor Sends ThinSat to Space</title>
-      <link>http://victor.cse.taylor.edu/articles/thinsat/</link>
+      <link>#https://timtheswan.github.io/articles/thinsat/</link>
       <pubDate>Thu, 25 Apr 2019 08:18:38 -0400</pubDate>
       
-      <guid>http://victor.cse.taylor.edu/articles/thinsat/</guid>
+      <guid>#https://timtheswan.github.io/articles/thinsat/</guid>
       <description>Ported from an Echo article by Ellie Tiemens
   Computer science and engineering students made Taylor history with the launch of their nanosatellite. Photo by Ryan Jones
     Taylor University students and faculty recently partnered with NearSpace Launch Inc. to make history in sending nanosatellites to space.
@@ -66,10 +66,10 @@ On April 17 at 4:46 p.m., computer science students, engineering students and fa
     
     <item>
       <title>CERIAS Security Symposium</title>
-      <link>http://victor.cse.taylor.edu/articles/cerias_symposium/</link>
+      <link>#https://timtheswan.github.io/articles/cerias_symposium/</link>
       <pubDate>Sat, 07 Apr 2018 15:00:54 -0400</pubDate>
       
-      <guid>http://victor.cse.taylor.edu/articles/cerias_symposium/</guid>
+      <guid>#https://timtheswan.github.io/articles/cerias_symposium/</guid>
       <description>By: Dannie M. Stanley Sat, Apr 7, 2018 Ported from CyberSecurity Site
 This week eight students ventured with me to Purdue University in West Lafayette, IN, to attend the 19th annual CERIAS Security Symposium. As a graduate student at Purdue I was heavily involved with CERIAS, so the trip was both highly relevant to our students and a good chance for me to reconnect with cybersecurity colleagues.
 Symposium presenters and panelists are cybersecurity experts from academia, industry, and government.</description>
@@ -77,10 +77,10 @@ Symposium presenters and panelists are cybersecurity experts from academia, indu
     
     <item>
       <title>Lockheed Martin Grant Extended for Further Malware Research</title>
-      <link>http://victor.cse.taylor.edu/articles/lockheed_martin_grant/</link>
+      <link>#https://timtheswan.github.io/articles/lockheed_martin_grant/</link>
       <pubDate>Thu, 15 Mar 2018 15:30:21 -0400</pubDate>
       
-      <guid>http://victor.cse.taylor.edu/articles/lockheed_martin_grant/</guid>
+      <guid>#https://timtheswan.github.io/articles/lockheed_martin_grant/</guid>
       <description>Reposted from Taylor University Site
 Aerospace and defense industry company Lockheed Martin has granted a $75,000 renewal of a grant to the Taylor University Computer Science (CSE) Department as part of a multi-year partnership to create cybersecurity solutions. The grant comes a little more than a year after the preliminary $100,000 grant from Lockheed Martin Advanced Technology Labs for research work done in 2017.
 According to Taylor faculty members, a number of Taylor CSE students and faculty worked on the project during the 2017 spring and fall semesters, and also during the summer.</description>
