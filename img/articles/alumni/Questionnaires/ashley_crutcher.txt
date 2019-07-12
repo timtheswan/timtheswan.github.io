@@ -1,0 +1,54 @@
+Taylor CS Alumni Questionnaire 
+
+Please answer all short response questions and at least 4 long response questions. Thank you for your time!
+
+Name: Ashley Crutcher
+
+Graduation Year: 2013
+
+Major: Computer Science - Digital Media/Systems
+
+Where are you currently living? Madison, WI
+
+What are you currently doing professionally? I am a User Experience Designer at InterVarsity Christian Fellowship’s National Service Center. InterVarsity is a college campus ministry, along with 40+ other campuses ministries, that are working to reach the 2,500 campuses across the US that do not have any kind of Christian community. My work in particular is to serve donors as they give online, staff with resourcing websites, and the organization as we create cohesion across our digital presence. 
+
+What is a career in Computer Science like? I couldn’t tell you! From what I observe in my husband (who is a software developer) - it’s very important to continually be a student; Computer Science is not a timeless career and you must be ready for how technology advances! He has written an iOS app, built Drupal modules, worked in enterprise Java, now he’s learning to develop for Salesforce; and his career is only 5 years old! 
+
+Describe your career since graduating from Taylor (achievements, awards, companies worked at, positions held, include links if applicable)
+First, I had the pleasure of working as a web developer with Global Media Outreach, an internet evangelism organization. I was there for 2.5 years before transitioning so that I could increase my design skills to Ansira, an advertising agency. That experience prepared me for moving in 2016 to my current role at InterVarsity, where I am working to build the User Experience discipline. Come intern with me next summer! 
+
+How did studying Computer Science at Taylor prepare you for the workplace? While I am not deep in code anymore, I can tell you that the more you know about disciplines adjacent to yours, the better co-worker and collaborator you will be. For me, having a moderate background in development has made me both a better designer and a designer who developers enjoy working with. 
+
+(If relevant) Please tell us about your spouse and children.
+My husband is a software developer at InterVarsity - so yes, I design it and he will make it! While we don’t have kids, we do have 3 furkids (1 cat, Pippa, and 2 dogs, Lexi and Kado), and we have a communal home - often in our house we will have 1-3 people living with us. 
+What do you like to do in your free time? I like to joke that I am a grandma in a millennial’s body! I like to cuddle with my furkiddos, knit, ring handbells, and think too much about everything. 
+
+How did studying at Taylor prepare you for life? I appreciate how Taylor’s CSE department’s curriculum is very industry focused - it can be easy for colleges to stay in the academic world.  I am not joking when I say that for a work project I pulled out my ISA homework to reference, only this time I only had a month to complete the project, not a whole semester! When I gave my department director the documentation, he said it was the best he had ever seen, which is mostly due to the excellent teaching of Dr. Nurkkala.
+
+What is the most valuable thing you learned at Taylor? I didn’t realize it when I was there, but in hindsight I see how valuable it was to have my advisor, Dr. Brandle, watching for my strengths and offering me opportunities I hadn’t considered. I never would have seen the designer and systems thinker in me until Dr. Brandle nudged me in that direction.  I hope that I can do the same for others. 
+
+Cool opportunities you got while at Taylor? The most transformative experiences for me were the CSE mission trips - I went on 2 J-Term trips and to Code-A-Thon. I wish more people would understand how mission organizations work and how important the operations and business side of it is. 
+
+If you are interested in the intersection of systems/design thinking and mission, Lara has my email and can get you in touch – I would love to chat! I also write my latest thoughts on UX Design at https://medium.com/@ashleycrutcher. 
+
+
+Old Article:
+
+Ashley Crutcher
+
+(Computer Science—Digital Media/Systems ’13)
+
+When Ashley joined CSE, she began studying just Computer Science. But when her adviser (Dr. Brandle) suggested she pursue New Media (now Digital Media), Ashley discovered she liked the logic of building website structures. Today she works in user experience design to improve website interfaces.
+
+No matter how interesting a website’s content may be, users tend to not click past the first page if it is poorly designed. Ashley believes websites should help people get back to real life:
+
+“People have a tendency to overdo technology… I want to keep you on my website but I don’t want you to be stuck on it.”
+
+Sometimes Ashley’s goal is to convince users to buy a product, like guacamole. But sometimes her goal is more serious—like convincing people to follow Jesus.
+
+“Make sure whatever you’re trying to design for, make sure you believe in it,” she says.
+
+Ashley was a bit of a CSE all-star. She worked for Dr. White as the “Visual Media Guru” and designed materials like brochures and an interactive display for the department. During J-terms, she embarked on two CSE mission trips to work with Operation Mobilization. During her trip to Taiwan and Hong Kong, Ashley redesigned Operation Mobilization’s intranet as her senior project.
+
+In her free time, Ashley enjoys playing board games, crocheting, and spending time with her husband, cat, and two dogs in Frisco, Texas.
+

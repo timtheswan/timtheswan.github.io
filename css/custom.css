@@ -627,8 +627,8 @@ figcaption {
 }
 
 .docs-menu {
-  border-style:solid;
-  border-weight:1px;
-  color:black;
+  border-width:1px;
   padding:10px;
+  border-top:solid;
+  border-bottom:solid;
 }
