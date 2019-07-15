@@ -331,6 +331,7 @@ figcaption {
   height:500px;
   -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,.0) 0%, black 30%);
   mask-image: linear-gradient(to bottom, rgba(0,0,0,.0) 0%, black 30%);
+  /*TODO Try Scrolling Text*/
 
 }
 
@@ -472,6 +473,40 @@ figcaption {
   filter:brightness(1.4);
 }
 
+#facultyHero {
+  margin-bottom: 20px;
+  background-size: 2000px;
+  background-position: top center;
+  height: 400px;
+}
+#facultyHero .hero-inner {
+  position: absolute;
+  left: 0%;
+  /*bottom:45%;*/
+}
+#facultyHero .hero-inner h1 {
+  color:black;
+}
+
+
+#facultyHero .hero-inner p {
+  color:#222222;
+  font-style: italic;
+}
+.list {background-image: url("/img/faculty/banner.jpg");}
+.brandle {background-image: url("/img/faculty/Brandle-Stefan_Hero.jpg");}
+.denning {background-image: url("/img/faculty/Denning-Jon_Hero.jpg");}
+.cramer {background-image: url("/img/faculty/Cramer-Jeff_Hero2.jpg");}
+.geisler {background-image: url("/img/faculty/Geisler-Jonathan_Hero.jpg");}
+.nurkkala {background-image: url("/img/faculty/Nurkkala-Tom_Hero.jpg");}
+.stanley {background-image: url("/img/faculty/Stanley-Dannie_Hero.jpg");}
+.white {background-image: url("/img/faculty/White-Art_Hero.jpg");}
+.horsley {background-image: url("/img/faculty/Horsley-Lara_Hero.jpg");}
+.slauson {background-image: url("/img/faculty/Slauson-William_Hero.jpg");}
+.lehrian {background-image: url("/img/faculty/Lehrian-Tim_Hero.jpg");}
+
+
+
 .tiles{
   background-color:black;
   display: grid;
@@ -479,7 +514,6 @@ figcaption {
   overflow: hidden;
   grid-template-columns: repeat(auto-fit,minmax(270px,1fr));
   grid-auto-flow:dense;
-
 }
 
 .tile {
@@ -552,8 +586,12 @@ figcaption {
 .tile img.bottom {
   -webkit-filter: blur(5px);
   filter: blur(5px);
+  -webkit-filter: brightness(.8);
+  filter: brightness(.8);
 
 }
+/*TODO Make seperate images with blur and darken*/
+/*TODO Less text in Degree Tiles*/
 
 .tile {
   height:35vw;
@@ -632,3 +670,4 @@ figcaption {
   border-top:solid;
   border-bottom:solid;
 }
+
