@@ -494,17 +494,45 @@ figcaption {
   font-style: italic;
 }
 .list {background-image: url("/img/faculty/banner.jpg");}
-.brandle {background-image: url("/img/faculty/Brandle-Stefan_Hero.jpg");}
-.denning {background-image: url("/img/faculty/Denning-Jon_Hero.jpg");}
-.cramer {background-image: url("/img/faculty/Cramer-Jeff_Hero2.jpg");}
-.geisler {background-image: url("/img/faculty/Geisler-Jonathan_Hero.jpg");}
-.nurkkala {background-image: url("/img/faculty/Nurkkala-Tom_Hero.jpg");}
-.stanley {background-image: url("/img/faculty/Stanley-Dannie_Hero.jpg");}
-.white {background-image: url("/img/faculty/White-Art_Hero.jpg");}
-.horsley {background-image: url("/img/faculty/Horsley-Lara_Hero.jpg");}
-.slauson {background-image: url("/img/faculty/Slauson-William_Hero.jpg");}
-.lehrian {background-image: url("/img/faculty/Lehrian-Tim_Hero.jpg");}
+.brandle {background-image: url("/img/faculty/brandle_stefan_hero.jpg");}
+.denning {background-image: url("/img/faculty/denning_jon_hero.jpg");}
+.cramer {background-image: url("/img/faculty/cramer_jeff_hero2.jpg");}
+.geisler {background-image: url("/img/faculty/geisler_jonathan_hero.jpg");}
+.nurkkala {background-image: url("/img/faculty/nurkkala_tom_hero.jpg");}
+.stanley {background-image: url("/img/faculty/stanley_dannie_hero.jpg");}
+.white {background-image: url("/img/faculty/white_art_hero.jpg");}
+.horsley {background-image: url("/img/faculty/horsley_lara_hero.jpg");}
+.slauson {background-image: url("/img/faculty/slauson_william_hero.jpg");}
+.lehrian {background-image: url("/img/faculty/lehrian_tim_hero.jpg");}
+.nurkkala_darci {background-image: url("/img/faculty/nurkkala_darci_hero.jpg");}
+.hibschman {background-image: url("/img/faculty/hibschman_josh_hero.jpg");}
+.dalcher {background-image: url("/img/faculty/dalcher_steven_hero.jpg");}
+.roller {background-image: url("/img/faculty/roller_ben_hero.jpg");}
 
+
+#profsHero {
+  background-image: url("/img/faculty/banner_profs.jpg");
+  background-size: 100%;
+  background-position: cover center;
+  height: 25vw;
+}
+
+#adjunctsHero {
+  background-image: url("/img/faculty/banner_adjuncts.jpg");
+  background-size: 100%;
+  background-position: cover center;
+  height: 25vw;
+  background-attachment: scroll;
+
+}
+
+#staffHero {
+  background-image: url("/img/faculty/banner_staff.jpg");
+  background-size: 100%;
+  background-position: cover center;
+  height: 25vw;
+  background-attachment: scroll;
+}
 
 
 .tiles{
@@ -671,3 +699,55 @@ figcaption {
   border-bottom:solid;
 }
 
+.facultyGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 30vw);
+  /*grid-template-rows: repeat(4, 15vw);   !*If adding tiles, increase first repeat parameter to add rows*!*/
+  grid-gap: 15px;
+  position:center;
+}
+.row > #profs {
+  grid-template-rows: repeat(4, 15vw);
+}
+.row > #adjuncts {
+  grid-template-rows: repeat(2, 15vw);
+}
+.row > #staff {
+  grid-template-rows: repeat(2, 15vw);
+  margin-bottom: 20px;
+}
+
+.facultyGrid .facultyTile img {
+  width: 46%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+  border-color:black;
+  box-shadow: 1px 3px 8px #888888;
+}
+
+.facultyGrid .facultyTile .contact {
+position:relative;
+left:48%;
+  top:-100%;
+  width: 46%;
+  height:100%;
+  /*border-style:solid;*/
+  border-width: 2px;
+  border-radius: 10px;
+  padding:10px;
+}
+
+.facultyGrid .contact h3{
+/*text-align: center;*/
+  margin-top:10px;
+  margin-bottom:10px;
+}
+.facultyGrid .contact h4{
+  font-size: 14px;
+  margin-bottom: 18px;
+}
+
+.facultyGrid .contact p{
+  font-size: 12px;
+}
