@@ -3234,8 +3234,8 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 /* scaffolding */
 body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 1.42857143;
+  font-size: 16px;                                            /*Site Body Font Size*/
+  line-height: 1.5;
   color: #555555;
 }
 a {
