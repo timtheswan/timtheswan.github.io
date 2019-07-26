@@ -173,10 +173,8 @@ figcaption {
 
  .hero-inner a {
      border-style: solid;
-     padding:5px;
-     padding-left: 10px;
-     padding-right: 10px;
-     border-width:2px;
+   padding: 5px 10px;
+   border-width:2px;
 
  }
 
@@ -194,13 +192,12 @@ figcaption {
 
 #homeHero {
   background: black;
-  /*background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(0, 0, 0, 1)), url("/img/home/tsat_3.jpg");*/
-  background-image: url("/img/home/tsat_3.jpg");
+  background-image: url(/img/home/hero.jpg);
   background-size: 700px;
   background-position: top 68px right;
   background-repeat: no-repeat;
-  background-attachment:fixed;
-  height:520px;
+  background-attachment: fixed;
+  height: 520px;
 
 }
 
@@ -211,12 +208,12 @@ figcaption {
 
 
 #aboutUsHero {
-  background-image: url("/img/about/info_westond.jpg");
+  background-image: url("/img/why_us/hero.jpg");
   top:68px;
   height: 500px;
   -webkit-mask-image: linear-gradient(to bottom, black, black);
   mask-image: linear-gradient(to bottom, black, black);
-
+  border-bottom-style: none;
 }
 
 #aboutUsHero .hero-inner{
@@ -225,7 +222,6 @@ figcaption {
 
 #aboutUsHero .hero-inner p {
   color: #eeeeee;
-  /*font-size: ;*/
 }
 
 #aboutUsHero .hero-inner a {
@@ -234,7 +230,6 @@ figcaption {
 #aboutUsHero .hero-inner a:hover {
   color: #7ebecc;
   background-color: #ceeaef ;
-
 }
 
 #projectsHero {
@@ -242,20 +237,16 @@ figcaption {
   background-position: top 68px center;
   background-repeat: no-repeat;
   background-size: 2000px;
-  /*background-attachment:scroll;*/
-
   height:500px;
   -webkit-mask-image: linear-gradient(to bottom, black, black);
   mask-image: linear-gradient(to bottom, black, black);
 }
 
 #projectsHero .hero-inner h2 {
-  color: #000000;
   color: white;
 }
 
 #projectsHero .hero-inner p {
-  color: #222222;
   color: #eeeeee;
 }
 
@@ -266,26 +257,21 @@ figcaption {
   color: #c0dbe0;
 }
 
-
-
 #postersHero {
-  background-image: url("/img/projects/2018_19_banner2.png");
+  background-image: url("/img/projects/2018_19_hero.png");
   background-position: top 68px right;
   background-repeat: no-repeat;
   background-size: 2000px;
   background-attachment:scroll;
   margin-bottom: 30px;
-
   height:300px;
 }
 
 #postersHero .hero-inner h2 {
-  color: #000000;
   color: white;
 }
 
 #postersHero .hero-inner p {
-  color: #222222;
   color: #eeeeee;
 }
 
@@ -300,9 +286,7 @@ figcaption {
   background-position: top center;
   background-repeat: no-repeat;
   background-size: 2000px;
-  /*background-attachment:scroll;*/
   margin-bottom: 30px;
-
   height:500px;
 }
 
@@ -329,13 +313,9 @@ figcaption {
   height:500px;
   -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,.0) 0%, black 30%);
   mask-image: linear-gradient(to bottom, rgba(0,0,0,.0) 0%, black 30%);
-  /*TODO Try Scrolling Text*/
-
 }
 
 #tupilotsHero .hero-inner {
-  /*text-align: left;*/
-  position:absolute;
   right:10%;
   top:40%;
   width:30%;
@@ -347,21 +327,13 @@ figcaption {
   background-size:cover;
   background-color:black;
   height:500px;
-  /*-webkit-mask-image: linear-gradient(to top, rgba(0,0,0,.0) 0%, black 30%);*/
-  /*mask-image: linear-gradient(to top, rgba(0,0,0,.0) 0%, black 30%);*/
-
 }
 
 #jobfairHero .hero-inner {
-  /*text-align: left;*/
-
-  /*position:absolute;*/
-  /*left:10%;*/
   top:40%;
   width:30%;
   position:fixed;
   left:10%;
-
 }
 #jobfairHero .hero-background {
   left: 7.5%;
@@ -378,7 +350,6 @@ figcaption {
   right:7.5%;
 }
 #gamejamHero .hero-inner {
-  position:absolute;
   right:10%;
   top:40%;
   width:30%;
@@ -403,9 +374,8 @@ figcaption {
   position:fixed;
 }
 
-/*Below is for hero from activities article, NOT from posters article*/
 
-#posterHero {
+#posterHero {                                                 /*For hero from activities article, NOT from posters article*/
   background-image: url("/img/activities/posters.jpg");
   background-position: top right;
   background-size:cover;
@@ -416,7 +386,6 @@ figcaption {
   left:7.5%;
 }
 #posterHero .hero-inner {
-  position:absolute;
   left:10%;
   top:40%;
   width:30%;
@@ -435,7 +404,6 @@ figcaption {
   left:7.5%;
 }
 #internshipsHero .hero-inner {
-  position:absolute;
   left:10%;
   top:40%;
   width:30%;
@@ -453,7 +421,6 @@ figcaption {
   right:7.5%;
 }
 #retreatHero .hero-inner {
-  position:absolute;
   right:10%;
   top:40%;
   width:30%;
@@ -482,7 +449,6 @@ figcaption {
 #facultyHero .hero-inner {
   position: absolute;
   left: 0%;
-  /*bottom:45%;*/
 }
 #facultyHero .hero-inner h1 {
   color:black;
@@ -513,7 +479,7 @@ figcaption {
 #profsHero {
   background-image: url("/img/faculty/banner_profs.jpg");
   background-size: 100%;
-  background-position: cover center;
+  /*background-position: bottom;*/
   height: 24.5vw;
   background-attachment: scroll;
 
@@ -522,7 +488,7 @@ figcaption {
 #adjunctsHero {
   background-image: url("/img/faculty/banner_adjuncts.jpg");
   background-size: 100%;
-  background-position: cover center;
+  /*background-position: cover center;*/
   height: 24.5vw;
   background-attachment: scroll;
 
@@ -550,6 +516,10 @@ figcaption {
   height:35vw;
   position:relative;
   overflow: hidden;
+  border: 2px solid #000000;
+  border-top-width: 4px;
+  border-bottom-width: 4px;
+  border-;
 }
 .tile .tileHeader{
   width:90%;
@@ -560,7 +530,7 @@ figcaption {
   position:absolute;
   left: 5%;
   top: 5%;
-  position:center;
+  /*position:center;*/
 }
 .tile .tileContent{
   width:80%;
@@ -595,7 +565,7 @@ figcaption {
   position:absolute;
   left: 12.5%;
   bottom: 50%;
-  position:center;
+  /*position:center;*/
 }
 .tile img {
   height:400px;
@@ -613,15 +583,7 @@ figcaption {
   border-style:solid;
 }
 
-.tile img.bottom {
-  -webkit-filter: blur(5px);
-  filter: blur(5px);
-  -webkit-filter: brightness(.8);
-  filter: brightness(.8);
 
-}
-/*TODO Make seperate images with blur and darken*/
-/*TODO Less text in Degree Tiles*/
 
 .tile {
   height:35vw;
@@ -657,19 +619,6 @@ figcaption {
 #aboutUsTiles .tile {
   height: 25vw;
 }
-/* #aboutUsTiles .tile {*/
-/*  height:25vw;*/
-/*}*/
-
-
-/*#aboutUsTiles .tile img {*/
-/*  !*height:25vw;*!*/
-/*  size: auto;*/
-/*}*/
-
-/*#aboutUsTiles .tile .top, .bottom {*/
-/*  height:25vw;*/
-/*}*/
 
 
 #activitiesTiles .tile {
@@ -771,4 +720,18 @@ left:48%;
 
 .contactIcons img {
   border-radius: 5px;
+}
+
+.bar.background-smile {
+  background-size: 100%;
+  background: url('/img/home/testimonial_background2.jpg') no-repeat center center;
+  /*border-bottom:solid;*/
+  /*border-width: 1px;*/
+  /*border-color: #999999;*/
+}
+
+.bar.background-image-fixed-2 {
+  background: url('../img/home/why_us.jpg') center top no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }

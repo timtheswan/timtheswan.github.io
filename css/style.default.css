@@ -1788,14 +1788,7 @@ fieldset[disabled] .btn-template-primary.active {
   border-bottom: solid 1px #999999;
 }
 
-.bar.background-smile {
-  background: url('../img/oscilloscope.jpg') center -100px;
-  /*background-color: grey;*/
-  background-size: 100%;
-  /*border-top: solid 1px #999999;*/
-  /*border-bottom: solid 1px #999999;*/
-  background-repeat: none;
-}
+
 
 .bar.background-gray {
   background: #eeeeee;
@@ -1808,11 +1801,6 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .bar.background-image-fixed-1 {
   background: url('../img/fixed-background-1.jpg') center top no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
-.bar.background-image-fixed-2 {
-  background: url('../img/home/info_weston_s.jpg') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
@@ -2946,7 +2934,7 @@ fieldset[disabled] .btn-template-primary.active {
     margin-left: 0;
   }
 }
-.timsNavBar {
+.staticNavBar {
   z-index: 1000;
   border-width: 0 0 1px;
   position: fixed;
