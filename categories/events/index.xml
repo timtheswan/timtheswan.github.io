@@ -20,5 +20,17 @@
       <description>&lt;p&gt;The &lt;a href=&#34;https://gamejam.cse.taylor.edu/&#34;&gt;&lt;strong&gt;TU CSE GameJam&lt;/strong&gt;&lt;/a&gt;  is a game jam series hosted every semester by the CSE Department and &lt;a href=&#34;https://timtheswan.github.io/faculty/denning&#34;&gt;&lt;strong&gt;Dr. Jon Denning&lt;/strong&gt;&lt;/a&gt; and run by students at Taylor University. A game jam is a short, fun, and intense party during which students get together to develop a video game from scratch. Regardless of major or knowledge of programming, all TU students are invited to participate!&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Capture the Flag With a Twist</title>
+      <link>https://timtheswan.github.io/articles/ctf_with_twist/</link>
+      <pubDate>Fri, 22 Apr 2016 11:51:50 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/articles/ctf_with_twist/</guid>
+      <description>Ported from an Echo article by Brecken Mumford
+  Taylor students compete remotely in a computer hacking competition.
+    Last Saturday, four Taylor teams competed remotely against other universities in a cybersecurity capture the flag competition hosted by Buena Vista University (BVU) in Storm Lake, Iowa.
+The four Taylor teams met in Euler 218&amp;frasl;219 from 10:45 p.m. to 9 p.m. to commence the competition. They joined the other eight teams from across the United States via Google Hangouts to chat.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -58,16 +58,6 @@
   </url>
   
   <url>
-    <loc>https://timtheswan.github.io/courses/list/</loc>
-    <lastmod>2019-06-25T12:30:38-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://timtheswan.github.io/information/computer_science_career/</loc>
-    <lastmod>2019-06-25T10:39:48-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://timtheswan.github.io/information/info/</loc>
     <lastmod>2019-06-25T10:34:25-04:00</lastmod>
   </url>
@@ -173,23 +163,28 @@
   </url>
   
   <url>
-    <loc>https://timtheswan.github.io/articles/tweet/</loc>
-    <lastmod>2019-05-15T17:03:55-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://timtheswan.github.io/activities/activities/</loc>
-    <lastmod>2019-05-15T15:06:03-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://timtheswan.github.io/information/activities/</loc>
-    <lastmod>2019-05-15T15:06:03-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://timtheswan.github.io/articles/thinsat/</loc>
     <lastmod>2019-04-25T08:18:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://timtheswan.github.io/articles/gamejam_2019/</loc>
+    <lastmod>2019-04-25T08:18:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://timtheswan.github.io/articles/cos_students_make/</loc>
+    <lastmod>2018-11-02T11:03:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://timtheswan.github.io/articles/alumnus_recieves_fellowship/</loc>
+    <lastmod>2018-09-24T10:55:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://timtheswan.github.io/articles/truax_creates_audio_app/</loc>
+    <lastmod>2018-07-12T10:41:19-04:00</lastmod>
   </url>
   
   <url>
@@ -198,8 +193,23 @@
   </url>
   
   <url>
+    <loc>https://timtheswan.github.io/articles/taylor_students_build_satellites/</loc>
+    <lastmod>2018-04-06T11:16:58-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://timtheswan.github.io/articles/lockheed_martin_grant/</loc>
     <lastmod>2018-03-15T15:30:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://timtheswan.github.io/articles/girls_in_stem/</loc>
+    <lastmod>2018-03-09T11:25:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://timtheswan.github.io/articles/cybersecurity_lecture_asks_big_questions/</loc>
+    <lastmod>2018-02-16T11:33:35-04:00</lastmod>
   </url>
   
   <url>
@@ -208,8 +218,18 @@
   </url>
   
   <url>
+    <loc>https://timtheswan.github.io/articles/birth-of-cybersecurity/</loc>
+    <lastmod>2017-02-17T11:41:58-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://timtheswan.github.io/projects/improved_user_security_through_graphical_feedback/</loc>
     <lastmod>2016-07-27T11:58:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://timtheswan.github.io/articles/ctf_with_twist/</loc>
+    <lastmod>2016-04-22T11:51:50-04:00</lastmod>
   </url>
   
   <url>
@@ -219,7 +239,6 @@
   
   <url>
     <loc>https://timtheswan.github.io/activities/</loc>
-    <lastmod>2019-05-15T15:06:03-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -239,18 +258,11 @@
   </url>
   
   <url>
-    <loc>https://timtheswan.github.io/categories/clubs/</loc>
-    <lastmod>2019-05-15T17:03:55-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://timtheswan.github.io/contact/</loc>
   </url>
   
   <url>
     <loc>https://timtheswan.github.io/courses/</loc>
-    <lastmod>2019-06-25T12:30:38-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -261,14 +273,28 @@
   </url>
   
   <url>
-    <loc>https://timtheswan.github.io/categories/external-articles/</loc>
+    <loc>https://timtheswan.github.io/faculty/</loc>
+    <lastmod>2019-05-21T13:58:13-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://timtheswan.github.io/activities/filler/</loc>
+  </url>
+  
+  <url>
+    <loc>https://timtheswan.github.io/courses/filler/</loc>
+  </url>
+  
+  <url>
+    <loc>https://timtheswan.github.io/categories/news/</loc>
     <lastmod>2019-04-25T08:18:38-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://timtheswan.github.io/faculty/</loc>
-    <lastmod>2019-05-21T13:58:13-04:00</lastmod>
+    <loc>https://timtheswan.github.io/categories/people/</loc>
+    <lastmod>2019-06-24T12:52:15-04:00</lastmod>
     <priority>0</priority>
   </url>
   

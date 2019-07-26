@@ -12,28 +12,19 @@
     
     
     <item>
-      <title>Computer Science as a Career</title>
-      <link>https://timtheswan.github.io/information/computer_science_career/</link>
-      <pubDate>Tue, 25 Jun 2019 10:39:48 -0400</pubDate>
-      
-      <guid>https://timtheswan.github.io/information/computer_science_career/</guid>
-      <description> Why work in Computer Science? </description>
-    </item>
-    
-    <item>
       <title>Info</title>
       <link>https://timtheswan.github.io/information/info/</link>
       <pubDate>Tue, 25 Jun 2019 10:34:25 -0400</pubDate>
       
       <guid>https://timtheswan.github.io/information/info/</guid>
       <description>For Prospective Students Looking to find the Computer Science department that&amp;rsquo;s right for you?
- Find out more about Computer Science as a career
- See our degrees at a glance with sample 4 year plans
- Find out about our curriculum
+ Look at our curriculum
+ Check out the course list
  Have your frequently asked questions answered
- See what cool clubs and activities our students participate in
-  Additional links
- Meet some of our current students, alumni, or our faculty</description>
+ See what cool activities our students participate in
+ Meet some of our current students  , alumni, or our faculty
+ Look at some of our students&amp;rsquo; projects
+ Meet Yosef  , your admissions counsellor for students in Applied Sciences.</description>
     </item>
     
     <item>
@@ -75,9 +66,7 @@ The CSE Dept is happy to provide large format printing for our students. We can 
       <pubDate>Fri, 24 May 2019 10:38:17 -0400</pubDate>
       
       <guid>https://timtheswan.github.io/information/faq/</guid>
-      <description>FAQ  How can I transfer my AP or dual credit classes?
- What&amp;rsquo;s a double major?
-  Double majors are for people who are interested in studying more than one major. Taylor University allows students to declare any combination of minors and majors. Be sure that there is adequate overlap between the two majors so that you can finish in time! Also, be aware that there is a 160 credit hour cap.</description>
+      <description>FAQ  What kind of computer or software will be needed?  Most computers within a decade old will suffice. Students do most of the work on lab computers, where all needed software is already installed. That said, most of the needed software is available for free. Once you get your Taylor email address, you will have access to Microsoft Office, and the entire JetBrains development suite , among other things.</description>
     </item>
     
     <item>
@@ -86,8 +75,10 @@ The CSE Dept is happy to provide large format printing for our students. We can 
       <pubDate>Tue, 21 May 2019 13:25:31 -0400</pubDate>
       
       <guid>https://timtheswan.github.io/information/systems/</guid>
-      <description>What is Systems? Systems is not a minor in Computer Science. The goal of the Systems curriculum is to help students recognize that the world is filled with systems (like educational, distribution, and manufacturing systems). It is the processes inhabiting these systems that produce value and help organizations achieve high performance. Our graduates are enjoying careers at enterprises of all sizes, including global consulting companies.
-&amp;nbsp;   What in the world is Accenture selling?</description>
+      <description>What is Systems?   What in the world is Accenture selling? The basic answer is “systems.” Accenture’s mission is to help their clients achieve “high performance.”  Accenture, like the Systems curriculum often does
+this by helping their clients hone their business
+processes or implement new technologies.
+   Systems is not a minor in Computer Science. The goal of the Systems curriculum is to help students recognize that the world is filled with systems (like educational, distribution, and manufacturing systems).</description>
     </item>
     
     <item>
@@ -120,15 +111,6 @@ like guacamole. But sometimes her goal is more serious, like convincing people t
       <guid>https://timtheswan.github.io/information/digital_media_ba/</guid>
       <description> Digital Media BA Sample 4 Year Plan Please note that these are not official, these plans serve only as general guidelines. Freshman Year 
   Fall   Course # Course Title   Hours    COS 120  Introduction to Computational Problem Solving 4   COS 1__  CSE Orientation 1   IAS 110  Foundations of the Christian Liberal Arts 4   ENG 110  Expository Writing 3   MAT 210  Introductory Statistics 4     J-Term   Course # Course Title   Hours    COS 143 Interactive Web Page Design 3     Spring   Course # Course Title   Hours    COS 121  Foundations of Computer Science 4   BIB 110  Biblical Literature I 3   CAS 110  Public Speaking 3   ART 154  Digital Tools: Photoshop 1   MAT 210  Introductory Statistics 4      Sophomore Year    Fall   Course # Course Title   Hours    COS 120  Introduction to Computational Problem Solving 4   COS 103  CSE Orientation 1   IAS 110  Foundations of the Christian Liberal Arts 4   ENG 110  Expository Writing 3   MAT 210  Introductory Statistics 4     J-Term   Course # Course Title   Hours    COS 143 Interactive Web Page Design 3     Spring   Course # Course Title   Hours    COS 121  Foundations of Computer Science 4   BIB 110  Biblical Literature I 3   CAS 110  Public Speaking 3   ART 154  Digital Tools: Photoshop 1   MAT 210  Introductory Statistics 4      Junior Year    Fall   Course # Course Title   Hours    COS 120  Introduction to Computational Problem Solving 4   COS 1__  CSE Orientation 1   IAS 110  Foundations of the Christian Liberal Arts 4   ENG 110  Expository Writing 3   MAT 210  Introductory Statistics 4     J-Term   Course # Course Title   Hours    COS 143 Interactive Web Page Design 3     Spring   Course # Course Title   Hours    COS 121  Foundations of Computer Science 4   BIB 110  Biblical Literature I 3   CAS 110  Public Speaking 3   ART 154  Digital Tools: Photoshop 1   MAT 210  Introductory Statistics 4      Senior Year    Fall   Course # Course Title   Hours    COS 120  Introduction to Computational Problem Solving 4   COS 1__  CSE Orientation 1   IAS 110  Foundations of the Christian Liberal Arts 4   ENG 110  Expository Writing 3   MAT 210  Introductory Statistics 4     J-Term   Course # Course Title   Hours    COS 143 Interactive Web Page Design 3     Spring   Course # Course Title   Hours    COS 121  Foundations of Computer Science 4   BIB 110  Biblical Literature I 3   CAS 110  Public Speaking 3   ART 154  Digital Tools: Photoshop 1   MAT 210  Introductory Statistics 4      </description>
-    </item>
-    
-    <item>
-      <title>Organizations and Activities in CSE</title>
-      <link>https://timtheswan.github.io/information/activities/</link>
-      <pubDate>Wed, 15 May 2019 15:06:03 -0400</pubDate>
-      
-      <guid>https://timtheswan.github.io/information/activities/</guid>
-      <description>Activities in CSE Clubs    TWEET Also known as Taylor Women Engaging in Engineering and Technology, this club allows women in Taylor&amp;rsquo;s science, technology, engineering, and math (STEM) to participate in fun activities together. They also work to promote STEM to young girls in the Upland community . TWEET&amp;rsquo;s mission is to provide a community that encourages and unites women in a field where they are are significantly outnumbered.</description>
     </item>
     
     <item>

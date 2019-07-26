@@ -119,21 +119,11 @@ table hr {
 .two-column-container-right3{
   border-style: solid;
 }
-/*.col-md-12 a {*/
-  /*target:_blank;*/
-/*}*/
 
-/*#post-content img {*/
-
-/*!*margin:10px;*!*/
-/*!*border-style:solid;*!*/
-
-/*}*/
 figcaption {
   color:grey;
-  /*text-style:italic;*/
   font-style:italic;
-  /*Uh oh? text-*/
+  width:100%;
 }
 
 .hero {
@@ -178,7 +168,7 @@ figcaption {
  }
 
  .hero-inner p {
-   color: #bbbbbb;
+   color: #dddddd;
  }
 
  .hero-inner a {
@@ -200,6 +190,7 @@ figcaption {
   height:100%;
   width:35%;
 }
+
 
 #homeHero {
   background: black;
@@ -223,6 +214,8 @@ figcaption {
   background-image: url("/img/about/info_westond.jpg");
   top:68px;
   height: 500px;
+  -webkit-mask-image: linear-gradient(to bottom, black, black);
+  mask-image: linear-gradient(to bottom, black, black);
 
 }
 
@@ -245,13 +238,15 @@ figcaption {
 }
 
 #projectsHero {
-  background-image: url("/img/projects/posters_banner.jpg");
+  background-image: url("/img/projects/hero.jpg");
   background-position: top 68px center;
   background-repeat: no-repeat;
-  background-size: 1800px;
+  background-size: 2000px;
   /*background-attachment:scroll;*/
 
   height:500px;
+  -webkit-mask-image: linear-gradient(to bottom, black, black);
+  mask-image: linear-gradient(to bottom, black, black);
 }
 
 #projectsHero .hero-inner h2 {
@@ -277,7 +272,7 @@ figcaption {
   background-image: url("/img/projects/2018_19_banner2.png");
   background-position: top 68px right;
   background-repeat: no-repeat;
-  background-size: 1800px;
+  background-size: 2000px;
   background-attachment:scroll;
   margin-bottom: 30px;
 
@@ -304,7 +299,7 @@ figcaption {
   background-image: url("/img/banners/computers.jpg");
   background-position: top center;
   background-repeat: no-repeat;
-  background-size: 1800px;
+  background-size: 2000px;
   /*background-attachment:scroll;*/
   margin-bottom: 30px;
 
@@ -320,12 +315,15 @@ figcaption {
 }
 
 #activitiesHero .hero-inner p {
-  color: #eeeeee;
+  color: #FFFFFF;
+}
+#activitiesHero .hero-inner {
+  width: 40%;
 }
 
 #tupilotsHero {
   background-image: url("/img/activities/drone2.jpg");
-  background-position: center right;
+  background-position: center left;
   background-size:40%;
   background-color:black;
   height:500px;
@@ -338,7 +336,7 @@ figcaption {
 #tupilotsHero .hero-inner {
   /*text-align: left;*/
   position:absolute;
-  left:10%;
+  right:10%;
   top:40%;
   width:30%;
   position:fixed;
@@ -464,10 +462,12 @@ figcaption {
 
 #articlesHero {
   margin-bottom: 30px;
-  background-image: url("/img/articles/happy_students.jpg");
+  background-image: url("/img/articles/hero.jpg");
   background-size: 100%;
   background-position: top right;
   height: 35vw;
+  -webkit-mask-image: linear-gradient(to bottom, black, black);
+  mask-image: linear-gradient(to bottom, black, black);
 }
 #articlesHero p {
   filter:brightness(1.4);
@@ -571,9 +571,9 @@ figcaption {
   stroke:black;
   font-size:20px;
   position:absolute;
-  left: 10%;
-  top: 40%;
-  position:center;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 .tile .cover {
   -webkit-transition: opacity .3s ease-in-out;
@@ -625,6 +625,8 @@ figcaption {
 
 .tile {
   height:35vw;
+  position: relative;
+
 }
 
 .tile img {
@@ -634,7 +636,6 @@ figcaption {
 
 .tile .top {
   height:35vw;
-
   border-style:solid;
 }
 
@@ -647,25 +648,29 @@ figcaption {
   grid-auto-flow:dense;
 
 }
-
- #aboutUsTiles .tile {
-  height:25vw;
-}
-
-
-#aboutUsTiles .tile img {
-  /*height:25vw;*/
-  size: auto;
-}
-
 #aboutUsTiles .tile .top {
   height:25vw;
 }
-
-#aboutUsTiles .tileContent {
-  top: 30%;
-
+#aboutUsTiles .tile .bottom {
+  height: 25vw;
 }
+#aboutUsTiles .tile {
+  height: 25vw;
+}
+/* #aboutUsTiles .tile {*/
+/*  height:25vw;*/
+/*}*/
+
+
+/*#aboutUsTiles .tile img {*/
+/*  !*height:25vw;*!*/
+/*  size: auto;*/
+/*}*/
+
+/*#aboutUsTiles .tile .top, .bottom {*/
+/*  height:25vw;*/
+/*}*/
+
 
 #activitiesTiles .tile {
   height:25vw;
@@ -677,10 +682,7 @@ figcaption {
   height:25vw;
   /*border-style:solid;*/
 }
-#activitiesTiles .tileContent {
-  top: 30%;
 
-}
 
 .tab { margin-left: 40px; }
 
@@ -761,4 +763,12 @@ left:48%;
 .customContent {
   /*margin:50px;*/
   margin: 25px 100px 25px;
+}
+
+.contactIcons figcaption h4{
+  font-size: 16px;
+}
+
+.contactIcons img {
+  border-radius: 5px;
 }

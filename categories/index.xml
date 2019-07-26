@@ -11,15 +11,6 @@
     
     
     <item>
-      <title>Clubs</title>
-      <link>https://timtheswan.github.io/categories/clubs/</link>
-      <pubDate>Wed, 15 May 2019 17:03:55 -0400</pubDate>
-      
-      <guid>https://timtheswan.github.io/categories/clubs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Events</title>
       <link>https://timtheswan.github.io/categories/events/</link>
       <pubDate>Tue, 21 May 2019 15:00:54 -0400</pubDate>
@@ -29,11 +20,20 @@
     </item>
     
     <item>
-      <title>External Articles</title>
-      <link>https://timtheswan.github.io/categories/external-articles/</link>
+      <title>News</title>
+      <link>https://timtheswan.github.io/categories/news/</link>
       <pubDate>Thu, 25 Apr 2019 08:18:38 -0400</pubDate>
       
-      <guid>https://timtheswan.github.io/categories/external-articles/</guid>
+      <guid>https://timtheswan.github.io/categories/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://timtheswan.github.io/categories/people/</link>
+      <pubDate>Mon, 24 Jun 2019 12:52:15 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/categories/people/</guid>
       <description></description>
     </item>
     
