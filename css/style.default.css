@@ -107,7 +107,7 @@ div.section {
   margin-bottom: 0;
   padding-bottom: 10px;
   vertical-align: middle;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   letter-spacing: 0.06em;
 }
 .heading h1 i.fa,
@@ -1763,7 +1763,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 #heading-breadcrumbs h1 {
   color: #333333;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 0.08em;
@@ -2096,7 +2096,7 @@ fieldset[disabled] .btn-template-primary.active {
   box-shadow: 3px 3px 5px 0px;
 }
 #blog-listing-medium .post h2 {
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   /*margin: 10 0 10px;*/
   margin-top:10px;
   font-size: 24px;

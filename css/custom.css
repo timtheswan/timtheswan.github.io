@@ -22,6 +22,7 @@
   position:absolute;
   left: 10%;
   bottom: 15%;
+  text-shadow: 1px 1px 3px #444444;
 }
 
 
@@ -193,16 +194,65 @@ figcaption {
   background: black;
   background-image: url(/img/home/hero.jpg);
   background-size: 700px;
-  background-position: top 68px right;
+  background-position: top 0px right;
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  height: 520px;
+  background-attachment: scroll;
+  height: 465px;
 
 }
 
 #homeHero .hero-inner {
   left: 0%;
   position: absolute;
+}
+@media (min-width: 620px) {
+    #siteIntro {
+        background-image: url(/img/home/banner.png);
+        background-position: center top 40px;
+        background-size: 2000px;
+    }
+}
+@media (max-width: 619px){
+    #siteIntro {
+        background-image: none;
+        -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,.6), rgba(0,0,0,1));
+
+    }
+}
+@media (max-width: 425px){
+    #siteIntro {
+        height: 400px;
+    }
+}
+@media (min-width: 426px) {
+    #siteIntro {
+        height: 300px;
+    }
+}
+#siteIntro {
+    /*background-color: #333333;*/
+    /*mask-image: linear-gradient(to bottom, rgba(0,0,0,.2), rgba(0,0,0,1));*/
+  background-color: rgba(24,30,61,.95);
+  /*height: 300px;*/
+  padding-top: 70px;
+  background-attachment: scroll;
+}
+
+#siteIntro .hero-inner {
+  /*right:10%;*/
+  /*position: absolute;*/
+    max-width: 500px;
+}
+#siteIntro .hero-inner  h1 {
+  color:white;
+}
+
+#siteIntro .hero-inner  p {
+    color:white;
+}
+
+#siteIntro {
+  font-weight: bold;
 }
 
 
@@ -215,16 +265,20 @@ figcaption {
   border-bottom-style: none;
 }
 
-#aboutUsHero .hero-inner{
+#aboutUsHero .hero-inner h2{
+  /*text-shadow: 1px 1px 3px #222222;*/
 
 }
 
 #aboutUsHero .hero-inner p {
   color: #eeeeee;
+  /*text-shadow: 1px 1px 3px #222222;*/
+  /*text-shadow: 1px 1px 1px #444444*/
 }
 
 #aboutUsHero .hero-inner a {
   color: #85e5f7;
+  /*text-shadow: 1px 1px 3px #222222;*/
 }
 #aboutUsHero .hero-inner a:hover {
   color: #7ebecc;
@@ -304,12 +358,21 @@ figcaption {
   width: 40%;
 }
 
+#activitiesHero .hero-inner h2 {
+  text-shadow: 1px 1px 3px #222222;
+}
+
+#activitiesHero .hero-inner p {
+  text-shadow: 1px 1px 2px #222222;
+}
+
+
 #tupilotsHero {
   background-image: url("/img/activities/drone2.jpg");
   background-position: center left;
   background-size:40%;
   background-color:black;
-  height:500px;
+  height:650px;
   -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,.0) 0%, black 30%);
   mask-image: linear-gradient(to bottom, rgba(0,0,0,.0) 0%, black 30%);
 }
@@ -325,7 +388,7 @@ figcaption {
   background-position: top right;
   background-size:cover;
   background-color:black;
-  height:500px;
+  height:650px;
 }
 
 #jobfairHero .hero-inner {
@@ -343,7 +406,7 @@ figcaption {
   background-position: center center;
   background-size:cover;
   background-color:black;
-  height:500px;
+  height:650px;
 }
 #gamejamHero .hero-background {
   right:7.5%;
@@ -360,7 +423,7 @@ figcaption {
   background-position: center center;
   background-size:cover;
   background-color:black;
-  height:500px;
+  height:650px;
 }
 #cmcHero .hero-background {
   left:7.5%;
@@ -379,7 +442,7 @@ figcaption {
   background-position: top right;
   background-size:cover;
   background-color:black;
-  height:500px;
+  height:650px;
 }
 #posterHero .hero-background {
   left:7.5%;
@@ -400,7 +463,7 @@ figcaption {
   background-position:  80% center;
   background-size:30vw;
   background-color:black;
-  height:500px;
+  height:650px;
 }
 #internshipsHero .hero-background {
   left:7.5%;
@@ -417,7 +480,7 @@ figcaption {
   background-position:  center center;
   background-size:cover;
   background-color:black;
-  height:500px;
+  height:650px;
 }
 #retreatHero .hero-background {
   right:7.5%;
@@ -532,6 +595,7 @@ figcaption {
   position:absolute;
   left: 5%;
   top: 5%;
+  text-shadow: 1px 1px 3px #222222;
   /*position:center;*/
 }
 .tile .tileContent{
@@ -546,6 +610,7 @@ figcaption {
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
+  text-shadow: 1px 1px 2px #222222;
 }
 .tile .cover {
   -webkit-transition: opacity .3s ease-in-out;
@@ -567,6 +632,7 @@ figcaption {
   position:absolute;
   left: 12.5%;
   bottom: 50%;
+  text-shadow: 1px 1px 3px #222222;
   /*position:center;*/
 }
 .tile img {
@@ -794,20 +860,14 @@ left:48%;
   #homeHero {
     /*background:black;*/
     background-size:110%;
-    height:300px;
+    height:72vw;
     /*background-position: 50px, 50px;*/
   }
   #homeHero .hero-inner p {
     visibility: hidden;
   }
-  #homeHero a {
-    top: 230px;
-    position: absolute;
-    text-align: center;
-    left: 35%
-  }
   #homeHero h2 {
-    top: 15%;
+    /*top: 15%;*/
     position: absolute;
     left: 5%;
     right: 5%;
@@ -834,13 +894,12 @@ left:48%;
   #profsHero {
     height: 32vw;
   }
-
-  #adjunctsHero {
-    /*height: 40vw;*/
-    /*width:120%;*/
-    /*background-size:600px;*/
-    /*background-position: 50% bottom;*/
-
+  .site_intro img {
+    display: none;
+  }
+  .site_intro .row{
+    left:50vw;
+    width: 80vw;
   }
 }
 
@@ -952,7 +1011,7 @@ left:48%;
 
   }
   #tupilotsHero {
-    background-position: left 0;
+    background-position: left 10vh;
     -webkit-mask-image: none;
   }
 
@@ -997,10 +1056,10 @@ left:48%;
     width: 90%;
     position: initial;
     z-index: 2;
-    transform: translate(0, -60px);
+    transform: translate(0, -115px);
   }
   #internshipsHero {
-    background-position: center 130px;
+    background-position: center 200px;
     background-size: 350px;
     background-attachment: scroll;
   }
@@ -1071,6 +1130,7 @@ left:48%;
   #facultyHero .hero-inner {
     display:none;
   }
+
 }
 
 @media (min-width: 1001px){
@@ -1117,10 +1177,6 @@ left:48%;
   #aboutUsTiles .tile .learnMore {
     visibility: hidden;
   }
-
-  #activitiesTiles {
-    grid-template-columns: repeat(auto-fit,minmax(500px,1fr));
-  }
   #activitiesTiles .tile {
     height:100vw;
     border-width: 1px;
@@ -1155,7 +1211,19 @@ left:48%;
   #activitiesTiles .tile .learnMore {
     visibility: hidden;
   }
+
+  #activitiesTiles {
+    /*grid-template-columns: repeat(auto-fit,minmax(500px,1fr));*/
+    grid-template-columns: repeat(1,100vw);
+    grid-template-rows: repeat(1,100vw);
+  }
+  #aboutUsTiles {
+    /*grid-template-columns: repeat(auto-fit,minmax(500px,1fr));*/
+    grid-template-columns: repeat(1,100vw);
+    grid-template-rows: repeat(1,100vw);
+  }
 }
+
 
 @media (max-width: 1140px){
   #homeHero .hero-inner {
@@ -1164,7 +1232,38 @@ left:48%;
 }
 
 
+.site_intro {
+  height: 300px;
+  background: black;
+  margin:0;
+  border-bottom: #EEEEEE;
+  border-bottom-style: solid;
+  border-width: 1px;
+  padding: 20px;
+  padding-top:80px;
+}
+@media (min-width: 661px) {
+  .site_intro .row {
+    text-align: center;
+    color: white;
+    position: absolute;
+    left: 20px;
+    width: 40vw;
+  }
+}
 
+.site_intro .row h1 {
+  color: white;
+  /*top:50%;*/
+  /*transform: translate(0,-50%);*/
+}
+
+.site_intro img {
+  position: absolute;
+  right: 10vw;
+  top:75px;
+
+}
 
 
 
