@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Satellites on TU Computer Science and Engineering</title>
+    <link>https://timtheswan.github.io/satellite/</link>
+    <description>Recent content in Satellites on TU Computer Science and Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://timtheswan.github.io/satellite/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Filler</title>
+      <link>https://timtheswan.github.io/satellite/filler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://timtheswan.github.io/satellite/filler/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
