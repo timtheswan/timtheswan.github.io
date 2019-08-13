@@ -191,14 +191,14 @@ figcaption {
 
 
 #homeHero {
-  background: black;
-  background-image: url(/img/home/hero.jpg);
-  background-size: 700px;
+  background: transparent;
+  background-image: url(/img/home/hero.png);
+  background-size: 900px;
   background-position: top 0px right;
   background-repeat: no-repeat;
   background-attachment: scroll;
   height: 465px;
-
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 0%, black 75%)
 }
 
 #homeHero .hero-inner {
@@ -215,7 +215,7 @@ figcaption {
 @media (max-width: 619px){
     #siteIntro {
         background-image: none;
-        -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,.6), rgba(0,0,0,1));
+        /*-webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,.6), rgba(0,0,0,1));*/
 
     }
 }
@@ -232,7 +232,9 @@ figcaption {
 #siteIntro {
     /*background-color: #333333;*/
     /*mask-image: linear-gradient(to bottom, rgba(0,0,0,.2), rgba(0,0,0,1));*/
-  background-color: rgba(24,30,61,.95);
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 0%, black 75%);
+
+  background-color: rgba(24,30,61,1);
   /*height: 300px;*/
   padding-top: 70px;
   background-attachment: scroll;
@@ -259,13 +261,15 @@ figcaption {
 #aboutUsHero {
   background-image: url("/img/why_us/hero.jpg");
   top:68px;
-  height: 500px;
+  height: 30vw;
+  background-size: 100%;
   -webkit-mask-image: linear-gradient(to bottom, black, black);
   mask-image: linear-gradient(to bottom, black, black);
   border-bottom-style: none;
 }
 
 #aboutUsHero .hero-inner h2{
+  transform: translate(0,35px);
   /*text-shadow: 1px 1px 3px #222222;*/
 
 }
@@ -813,10 +817,290 @@ left:48%;
 
 }
 
+.whySection {
+  /*padding: 30px;*/
+  width: 100vw;
+  background-color: #EEEEEE;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-width: 1px;
+  height: var(--height);
+}
+#education {
+  background:url('../img/why_us/computer_engineering2.jpg');
+  background-size: 100%;
+  /*background-attachment:fixed;*/
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#education .whyText {
+  left:0;
+  top:50%;
+  height:100%;
+  padding-top: 50px;
+  transform: translate(0,-40%);
+  color: white;
+}
+#education h2 {
+  color:white;
+}
+.whySection .educationMask {
+  background-color: rgba(0,0,0,.3);
+  height:47vw;
+  overflow: hidden;
+  position: absolute;
+  z-index: 0;
+  width: 550px;
+  max-width: 90%;
+}
+
+#lifetogether {
+  background:url('../img/why_us/lifetogether.jpg');
+  background-size: 100%;
+  /*background-attachment:fixed;*/
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#lifetogether .whyText {
+  left:0;
+  top:50%;
+  height:100%;
+  padding-top: 50px;
+  transform: translate(0,-40%);
+  color: white;
+}
+#lifetogether h2 {
+  color:white;
+}
+.whySection .lifetogetherMask {
+  background-color: rgba(0,0,0,.3);
+  height:47vw;
+  overflow: hidden;
+  position: absolute;
+  z-index: 0;
+  width: 550px;
+  max-width: 90%;
+}
+#graduates {
+  background:url('../img/why_us/poster.jpg');
+  background-size: 100%;
+  /*background-attachment:fixed;*/
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#graduates .whyText {
+  left:0;
+  top:50%;
+  height:100%;
+  padding-top: 50px;
+  transform: translate(0,-40%);
+  color: white;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+#graduates h2 {
+  color:white;
+}
+.whySection .graduatesMask {
+  background-color: rgba(0,0,0,.6);
+  height:47vw;
+  overflow: hidden;
+  position: absolute;
+  z-index: 0;
+  width: 750px;
+  max-width: 90%;
+}
+.whySection .whyText {
+  max-width: 550px;
+  width: 90%;
+  position: relative;
+  left:50%;
+  transform:translate(-50%);
+  text-align: center;
+  margin-top:40px;
+  margin-bottom: 40px;
+}
+
+.whySection h2 {
+  width: 100%;
+  margin-top: 0px;
+  min-width: 260px;
+}
+
+.whySection p {
+  margin-bottom: 20px;
+}
+
+.whySection a {
+  border-style: solid;
+  padding: 5px 10px;
+  border-width:2px;
+}
+.whySection a:hover {
+  text-decoration: none;
+  color: rgb(140,140,205);
+}
+.whySection .half1 {
+  width: 50%;
+  position: absolute;
+  border-right-style: solid;
+  border-width: 2px;
+}
+.whySection .half2 {
+  width: 50%;
+  position: relative;
+  left:50%;
+  top:50%;
+  transform: translate(0,-60%);
+}
+.whySection .bar-left {
+  left:0%;
+  text-align: left;
+  transform: translate(0,-60%);
+}
+
+.action {
+  height:50%;
+  text-align: center;
+}
+#actionTop .actionInside {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+#actionBottom div {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+#actionTop {
+  background-color: #59A5B2;
+}
+#actionTop a {
+  color: #333333;
+}
+#actionTop a:hover {
+  color:black;
+}
+#actionHalf {
+  height: 100%;
+  transform:translate(0,-50%);
+}
+
+@media (min-width: 1023px){
+  .showSmallScreen {
+    display: none;
+  }
+}
+@media (max-width: 1023px) {
+  .whySection .half1{
+    width: 100vw;
+    position: initial;
+  }
+  .whySection .half2{
+    width: 100vw;
+    /*left:0px;*/
+    position: initial;
+    transform: initial;
+  }
+  .whySection {
+    height: initial;
+  }
+  .whySection img {
+    opacity: .6;
+  }
+  #education {
+    height: var(--height);
+  }
+  #education .educationMask {
+    width: 100%;
+    max-width: 100%;
+  }
+  #education .whyText {
+    left:50%;
+    transform: translate(-50%,-50%);
+    margin: 0;
+    top:50%;
+    height: initial;
+  }
+  #education p {
+    display: none;
+  }
+  #education .whyText {
+    padding-top: initial;
+  }
+
+  #lifetogether {
+    height: var(--height);
+  }
+  #lifetogether .lifetogetherMask {
+    width: 100%;
+    max-width: 100%;
+  }
+  #lifetogether .whyText {
+    left:50%;
+    transform: translate(-50%,-50%);
+    margin: 0;
+    top:50%;
+    height: initial;
+  }
+  #lifetogether p {
+    display: none;
+  }
+  #lifetogether .whyText {
+    padding-top: initial;
+  }
 
 
+  #graduates {
+    height: var(--height);
+  }
+  #graduates .graduatesMask {
+    width: 100%;
+    max-width: 100%;
+  }
+  #graduates .whyText {
+    left:50%;
+    transform: translate(-50%,-50%);
+    margin: 0;
+    top:50%;
+    height: initial;
+  }
+  #graduates p {
+    display: none;
+  }
+  #graduates a {
+    display: none;
+  }
+  #graduates .whyText {
+    padding-top: initial;
+  }
+  #actionHalf {
+    height: 78vw;
+    transform: translate(0,-100%);
+  }
+  .whySection .half2 #actionTop {
+    background-color: rgba(89,165,178,.8);
+  }
+  .whySection #actionBottom {
+    background-color: rgba(72,45,62,.6);
 
+  }
+  #actionSection {
+    height: 78vw;
+  }
 
+}
+
+@media (max-width: 370px) {
+  #homeHero a {
+    position: relative;
+    bottom: 25px;
+  }
+
+}
 
 
 @media (max-width: 450px){
@@ -833,7 +1117,6 @@ left:48%;
   }
   .insertR img {
     max-width: 100%;
-
   }
 }
 
@@ -867,7 +1150,7 @@ left:48%;
   #homeHero {
     /*background:black;*/
     background-size:110%;
-    height:72vw;
+    height:57vw;
     /*background-position: 50px, 50px;*/
   }
   #homeHero .hero-inner p {
@@ -880,7 +1163,7 @@ left:48%;
     right: 5%;
   }
   #aboutUsHero {
-    height:600px;
+    height:60vw;
   }
   #activitiesHero {
     height: 90vw;
@@ -1151,26 +1434,25 @@ left:48%;
     grid-template-columns: repeat(auto-fit,minmax(500px,1fr));
   }
   #aboutUsTiles .tile {
-    height:100vw;
+    height:50vw;
     border-width: 1px;
   }
   #aboutUsTiles .tile img {
-    height:100vw;
+    height:50vw;
   }
   #aboutUsTiles .tile .top {
-    height:100vw;
+    height:50vw;
   }
   #aboutUsTiles .tile .bottom {
-    height:100vw;
+    height:50vw;
   }
   #aboutUsTiles .tile .cover {
     position: relative;
-    height:100vw;
+    height:50vw;
   }
   #aboutUsTiles .tile .tileTitle {
     position: absolute;
-    left: 50vw;
-    width:80vw;
+    left: 50%;
     transform: translate(-50%, 50%);
   }
   #aboutUsTiles .tileContent {
@@ -1226,8 +1508,8 @@ left:48%;
   }
   #aboutUsTiles {
     /*grid-template-columns: repeat(auto-fit,minmax(500px,1fr));*/
-    grid-template-columns: repeat(1,100vw);
-    grid-template-rows: repeat(1,100vw);
+    grid-template-columns: repeat(2,50vw);
+    grid-template-rows: repeat(2,50vw);
   }
 }
 
@@ -1235,6 +1517,14 @@ left:48%;
 @media (max-width: 1140px){
   #homeHero .hero-inner {
     position: initial;
+    /*background: rgba(0,0,0,.6)*/
+  }
+  #homeHero .homeHeroMask {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: rgba(0,0,0,.4);
+    z-index: -1;
   }
 }
 

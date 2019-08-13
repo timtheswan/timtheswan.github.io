@@ -43,7 +43,7 @@ body {
 .parallax_2::before {
     content:"";
     width: 100vw;
-    height: 2500px;
+    height: 2700px;
     top:0;
     left:0;
     background-image: url("/img/satellite/stars-4.png");
@@ -54,16 +54,17 @@ body {
 }
 .parallax_3 {
     width: 100vw;
-    height:2500px;
+    height:4000px;
     padding-top:20vh;
     box-sizing: border-box;
     transform-style: preserve-3d;
     position: absolute;
+    overflow:hidden;
 }
 .parallax_3::before {
     content:"";
+    height: 4000px;
     width: 100vw;
-    height: 2500px;
     top:0;
     left:0;
     background-image: url("/img/satellite/stars-3.png");
@@ -71,6 +72,7 @@ body {
     position: absolute;
     z-index: -1;
     transform:translateZ(-2px) scale(3);
+    background-repeat-y: repeat;
 }
 
 
@@ -178,6 +180,7 @@ body {
     padding: 5px 10px;
     text-decoration: none;
 }
+
 .earth {
     /*width: 100vw;*/
     /*position: absolute;*/
@@ -204,6 +207,12 @@ body {
     left:50%;
     transform: translate(-50%);
 }
+.earth .earthHero img{
+    position:relative;
+    left:54vw;
+    width:50vw;
+}
+
 .whatNextBackground {
     width: 102vw;
     height:300px;
@@ -221,7 +230,45 @@ body {
     left:50%;
     transform: translate(-50%);
 }
-
+.satTitle {
+    position: absolute;
+    left: 5vw;
+    transform: translate(0%,100%);
+    z-index: 1;
+    width:50vw;
+    text-align: center;
+}
+.satTitle a {
+    border:solid;
+    padding: 5px 10px;
+    text-decoration: none;
+    /*position: absolute;*/
+    /*left: 50%;*/
+    /*transform: translate(-50%);*/
+    /*text-align: left;*/
+}
+.satTitle h2 {
+    /*margin-bottom: 5px;*/
+    /*border-bottom: solid 5px #38a7bb;*/
+    /*display: inline-block;*/
+    /*line-height: 1.1;*/
+    /*margin-bottom: 0=;*/
+    /*padding-bottom: 10px;*/
+    /*vertical-align: middle;*/
+    /* text-transform: uppercase; */
+    /*letter-spacing: 0.06em;*/
+    /*left:10vw;*/
+    text-align: center;
+}
+.satTitle p {
+    top: -100px;
+}
+.satTitle a {
+    position:absolute;
+    bottom: 15%;
+    left: 50%;
+    transform: translate(-55%);
+}
 @media (max-width: 570px ){
     #satVerse p {
         position: absolute;
@@ -233,7 +280,14 @@ body {
         width: 80vw;
     }
 }
-@media (max-width: 1020px) {
+@media (max-width: 1024px) {
+    .parallax_3 {
+        height: 5000px;
+        display: none;
+    }
+    .parallax_2:before {
+        height: 3400px;
+    }
     .satellite img {
     /*position: initial;*/
         position: relative;
