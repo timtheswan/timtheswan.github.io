@@ -289,6 +289,39 @@ figcaption {
   background-color: #ceeaef ;
 }
 
+#degreesHero {
+  background-image: url("/img/degrees/hero.jpg");
+  top:68px;
+  height: 42vw;
+  background-size: 100%;
+  -webkit-mask-image: linear-gradient(to bottom, black, black);
+  mask-image: linear-gradient(to bottom, black, black);
+  border-bottom-style: none;
+  padding-top:65px;
+  /*transform: translate(0,25px);*/
+
+}
+
+#degreesHero .hero-inner h2{
+  margin-bottom: 10px;
+}
+
+#degreesHero .hero-inner p {
+  color: #eeeeee;
+  margin-bottom: 15px;
+  /*text-shadow: 1px 1px 3px #222222;*/
+  /*text-shadow: 1px 1px 1px #444444*/
+}
+
+#degreesHero .hero-inner a {
+  color: #85e5f7;
+  /*text-shadow: 1px 1px 3px #222222;*/
+}
+#degreesHero .hero-inner a:hover {
+  color: #7ebecc;
+  background-color: #ceeaef ;
+}
+
 #projectsHero {
   background-image: url("/img/projects/hero.jpg");
   background-position: top 68px center;
@@ -837,9 +870,10 @@ left:48%;
   left:0;
   top:50%;
   height:100%;
-  padding-top: 50px;
-  transform: translate(0,-40%);
+  transform: translate(0,-50%);
   color: white;
+  padding:40px;
+  padding-top: 50px;
 }
 #education h2 {
   color:white;
@@ -865,9 +899,11 @@ left:48%;
   left:0;
   top:50%;
   height:100%;
-  padding-top: 50px;
+  /*padding-top: 50px;*/
   transform: translate(0,-40%);
   color: white;
+  padding:20px;
+
 }
 #lifetogether h2 {
   color:white;
@@ -1030,6 +1066,7 @@ left:48%;
   }
   #education .whyText {
     padding-top: initial;
+    padding: initial;
   }
 
   #lifetogether {
@@ -1128,6 +1165,9 @@ left:48%;
   #aboutUsHero .hero-inner{
     width:80vw;
   }
+  #degreesHero .hero-inner{
+    width:90vw;
+  }
   .facultyTile h4 {
     display:none;
   }
@@ -1138,6 +1178,9 @@ left:48%;
   #staff{
     margin-bottom: 60px;
   }
+  #degreesHero .hero-inner p {
+    display: none;
+  }
 }
 
 @media (max-width: 610px){
@@ -1145,7 +1188,7 @@ left:48%;
     height: 600px;
   }
   .hero-inner {
-    width: 70%;
+    width: 90%;
   }
   #homeHero {
     /*background:black;*/
@@ -1165,6 +1208,10 @@ left:48%;
   #aboutUsHero {
     height:60vw;
   }
+  #degreesHero{
+    height:53vw;
+  }
+
   #activitiesHero {
     height: 90vw;
     background-size: 200vw;
@@ -1177,6 +1224,9 @@ left:48%;
   }
   #activitiesHero p {
     visibility:hidden;
+  }
+  #aboutUsTiles h3 {
+    font-size: 20px;
   }
 }
 
@@ -1368,7 +1418,7 @@ left:48%;
     background-size:1000px;
   }
   #articlesHero .hero-inner {
-    top:10%;
+    top:15%;
     position: absolute;
   }
   #projectsHero {

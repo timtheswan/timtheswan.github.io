@@ -75,8 +75,6 @@ body {
     background-repeat-y: repeat;
 }
 
-
-
 .regular-wrapper {
     width: 100vw;
     height:100vh;
@@ -215,10 +213,10 @@ body {
 
 .whatNextBackground {
     width: 102vw;
-    height:300px;
-    position:relative;
-    left: -15vw;
-    top: -110px;
+    height:255px;
+    position:absolute;
+    left: 0px;
+    bottom:0px;
     background: black;
     z-index: -1;
 
