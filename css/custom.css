@@ -1,5 +1,5 @@
 .testimonialLink:hover {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .box-image-text .image {
@@ -10,7 +10,6 @@
 .box-simple {
   min-height: 230px;
 }
-
 
 .learnMore {
   width:80%;
@@ -25,18 +24,12 @@
   text-shadow: 1px 1px 3px #444444;
 }
 
-
-
-
-
 .bannertitle {
   display: inline-block;
   color:red;
   border-style: solid;
   z-index:20;
-
 }
-
 
 .bannerimage {
   z-index: -1;
@@ -58,15 +51,10 @@ td {
   padding:2px;
 }
 
-.showTable tr .courseTitle {
-  /*width:400px;*/
-}
-
 .bigTable {
   width:1200px;
 }
 .bigTable > tbody > tr > td{
-  /*border-style:solid;*/
   padding:5px;
   vertical-align: top;
 }
@@ -79,8 +67,6 @@ table hr {
 }
 .facultyImg figure {
   margin:10px;
-  /*border-style:solid;*/
-
 }
 .facultyImg img  {
   border-radius:5px;
@@ -88,11 +74,8 @@ table hr {
 }
 .insertL figure {
   float:left;
-  /*border-style:solid;*/
   margin-right:20px;
   margin-bottom:0px;
-  /*border-style:solid;*/
-
 }
 .insertL img{
   border-radius:3px;
@@ -103,11 +86,8 @@ table hr {
 
 .insertR figure {
   float:right;
-  /*border-style:solid;*/
   margin-left:20px;
   margin-bottom:0px;
-  /*border-style:solid;*/
-
 }
 .insertR img{
   border-radius:3px;
@@ -153,8 +133,6 @@ figcaption {
 }
 
 .hero-inner{
-  /*position:absolute;*/
-  /*top: 200px;*/
   text-align: center;
   color: white;
   width:50%;
@@ -162,33 +140,32 @@ figcaption {
 
 
 
- .hero-inner h2 {
-   text-align: center;
-   color:white;
- }
+.hero-inner h2 {
+  text-align: center;
+  color:white;
+}
 
- .hero-inner p {
-   color: #dddddd;
- }
+.hero-inner p {
+  color: #dddddd;
+}
 
- .hero-inner a {
-     border-style: solid;
-   padding: 5px 10px;
-   border-width:2px;
+.hero-inner a {
+  border-style: solid;
+  padding: 5px 10px;
+  border-width:2px;
+}
 
- }
+.hero-inner a:hover {
+  text-decoration: none;
+  color: rgb(140,140,205);
+}
 
- .hero-inner a:hover {
-     text-decoration: none;
-   color: rgb(140,140,205);
- }
 .hero .hero-background{
   background-color:rgba(0,0,0,.4);
   position:absolute;
   height:100%;
   width:35%;
 }
-
 
 #homeHero {
   background: transparent;
@@ -205,52 +182,24 @@ figcaption {
   left: 0%;
   position: absolute;
 }
-@media (min-width: 620px) {
-    #siteIntro {
-        background-image: url(/img/home/banner.png);
-        background-position: center top 40px;
-        background-size: 2000px;
-    }
-}
-@media (max-width: 619px){
-    #siteIntro {
-        background-image: none;
-        /*-webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,.6), rgba(0,0,0,1));*/
 
-    }
-}
-@media (max-width: 425px){
-    #siteIntro {
-        height: 400px;
-    }
-}
-@media (min-width: 426px) {
-    #siteIntro {
-        height: 300px;
-    }
-}
 #siteIntro {
-    /*background-color: #333333;*/
-    /*mask-image: linear-gradient(to bottom, rgba(0,0,0,.2), rgba(0,0,0,1));*/
   -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 0%, black 75%);
-
   background-color: rgba(24,30,61,1);
-  /*height: 300px;*/
   padding-top: 70px;
   background-attachment: scroll;
 }
 
 #siteIntro .hero-inner {
-  /*right:10%;*/
-  /*position: absolute;*/
-    max-width: 500px;
+  max-width: 500px;
 }
+
 #siteIntro .hero-inner  h1 {
   color:white;
 }
 
 #siteIntro .hero-inner  p {
-    color:white;
+  color:white;
 }
 
 #siteIntro {
@@ -270,19 +219,14 @@ figcaption {
 
 #aboutUsHero .hero-inner h2{
   transform: translate(0,35px);
-  /*text-shadow: 1px 1px 3px #222222;*/
-
 }
 
 #aboutUsHero .hero-inner p {
   color: #eeeeee;
-  /*text-shadow: 1px 1px 3px #222222;*/
-  /*text-shadow: 1px 1px 1px #444444*/
 }
 
 #aboutUsHero .hero-inner a {
   color: #85e5f7;
-  /*text-shadow: 1px 1px 3px #222222;*/
 }
 #aboutUsHero .hero-inner a:hover {
   color: #7ebecc;
@@ -298,8 +242,6 @@ figcaption {
   mask-image: linear-gradient(to bottom, black, black);
   border-bottom-style: none;
   padding-top:65px;
-  /*transform: translate(0,25px);*/
-
 }
 
 #degreesHero .hero-inner h2{
@@ -309,13 +251,10 @@ figcaption {
 #degreesHero .hero-inner p {
   color: #eeeeee;
   margin-bottom: 15px;
-  /*text-shadow: 1px 1px 3px #222222;*/
-  /*text-shadow: 1px 1px 1px #444444*/
 }
 
 #degreesHero .hero-inner a {
   color: #85e5f7;
-  /*text-shadow: 1px 1px 3px #222222;*/
 }
 #degreesHero .hero-inner a:hover {
   color: #7ebecc;
@@ -410,7 +349,6 @@ figcaption {
   text-shadow: 1px 1px 2px #222222;
 }
 
-
 #tupilotsHero {
   background-image: url("/img/activities/drone2.jpg");
   background-position: center left;
@@ -455,6 +393,7 @@ figcaption {
 #gamejamHero .hero-background {
   right:7.5%;
 }
+
 #gamejamHero .hero-inner {
   right:10%;
   top:40%;
@@ -462,6 +401,7 @@ figcaption {
   position:fixed;
 
 }
+
 #cmcHero {
   background-image: url("/img/activities/cmc.jpg");
   background-position: center center;
@@ -469,9 +409,11 @@ figcaption {
   background-color:black;
   height:650px;
 }
+
 #cmcHero .hero-background {
   left:7.5%;
 }
+
 #cmcHero .hero-inner {
   position:absolute;
   left:10%;
@@ -480,7 +422,6 @@ figcaption {
   position:fixed;
 }
 
-
 #posterHero {                                                 /*For hero from activities article, NOT from posters article*/
   background-image: url("/img/activities/posters.jpg");
   background-position: top right;
@@ -488,15 +429,18 @@ figcaption {
   background-color:black;
   height:650px;
 }
+
 #posterHero .hero-background {
   left:7.5%;
 }
+
 #posterHero .hero-inner {
   left:10%;
   top:40%;
   width:30%;
   position:fixed;
 }
+
 #posterHero .hero-inner p {
   color: #EEEEEE;
 }
@@ -509,9 +453,11 @@ figcaption {
   background-color:black;
   height:650px;
 }
+
 #internshipsHero .hero-background {
   left:7.5%;
 }
+
 #internshipsHero .hero-inner {
   left:10%;
   top:40%;
@@ -526,9 +472,11 @@ figcaption {
   background-color:black;
   height:650px;
 }
+
 #retreatHero .hero-background {
   right:7.5%;
 }
+
 #retreatHero .hero-inner {
   right:10%;
   top:40%;
@@ -545,6 +493,7 @@ figcaption {
   -webkit-mask-image: linear-gradient(to bottom, black, black);
   mask-image: linear-gradient(to bottom, black, black);
 }
+
 #articlesHero p {
   filter:brightness(1.4);
 }
@@ -555,19 +504,21 @@ figcaption {
   background-position: top center;
   height: 400px;
 }
+
 #facultyHero .hero-inner {
   position: absolute;
   left: 0%;
 }
+
 #facultyHero .hero-inner h1 {
   color:black;
 }
-
 
 #facultyHero .hero-inner p {
   color:#222222;
   font-style: italic;
 }
+
 .list {background-image: url("/img/faculty/banner.jpg");}
 .brandle {background-image: url("/img/faculty/brandle_stefan_hero.jpg");}
 .denning {background-image: url("/img/faculty/denning_jon_hero.jpg");}
@@ -591,7 +542,6 @@ figcaption {
   background-position: bottom;
   height: 24.5vw;
   background-attachment: scroll;
-
 }
 
 #adjunctsHero {
@@ -601,7 +551,6 @@ figcaption {
   /*background-position: cover center;*/
   height: 24.5vw;
   background-attachment: scroll;
-
 }
 
 #staffHero {
@@ -611,7 +560,6 @@ figcaption {
   height: 24.5vw;
   background-attachment: scroll;
 }
-
 
 .tiles{
   background-color:black;
@@ -630,6 +578,7 @@ figcaption {
   border-top-width: 4px;
   border-bottom-width: 4px;
 }
+
 .tile .tileHeader{
   width:90%;
   margin:0px;
@@ -640,8 +589,8 @@ figcaption {
   left: 5%;
   top: 5%;
   text-shadow: 1px 1px 3px #222222;
-  /*position:center;*/
 }
+
 .tile .tileContent{
   width:80%;
   margin:0px;
@@ -656,15 +605,18 @@ figcaption {
   transform: translate(-50%, -50%);
   text-shadow: 1px 1px 2px #222222;
 }
+
 .tile .cover {
   -webkit-transition: opacity .3s ease-in-out;
   -moz-transition: opacity .3s ease-in-out;
   -o-transition: opacity .3s ease-in-out;
   transition: opacity .3s ease-in-out;
 }
+
 .tile .cover:hover {
   opacity:0;
 }
+
 .tile .tileTitle{
   width:75%;
   margin:0px;
@@ -677,12 +629,13 @@ figcaption {
   left: 12.5%;
   bottom: 50%;
   text-shadow: 1px 1px 3px #222222;
-  /*position:center;*/
 }
+
 .tile img {
   height:400px;
   position: absolute;
 }
+
 .tile .bottom img {
   border-style:solid;
   height:400px;
@@ -695,17 +648,13 @@ figcaption {
   border-style:solid;
 }
 
-
-
 .tile {
   height:35vw;
   position: relative;
-
 }
 
 .tile img {
   height:35vw;
-
 }
 
 .tile .top {
@@ -720,30 +669,31 @@ figcaption {
   overflow: hidden;
   grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
   grid-auto-flow:dense;
-
 }
+
 #aboutUsTiles .tile .top {
   height:25vw;
 }
+
 #aboutUsTiles .tile .bottom {
   height: 25vw;
 }
+
 #aboutUsTiles .tile {
   height: 25vw;
 }
 
-
 #activitiesTiles .tile {
   height:25vw;
 }
+
 #activitiesTiles .tile img {
   height:25vw;
 }
+
 #activitiesTiles .tile .top {
   height:25vw;
-  /*border-style:solid;*/
 }
-
 
 .tab { margin-left: 40px; }
 
@@ -751,6 +701,7 @@ figcaption {
   font-weight: bold;
   filter:brightness(.8);
 }
+
 #sidebar_doc {
   position: -webkit-sticky;
   position: sticky;
@@ -770,13 +721,16 @@ figcaption {
   grid-gap: 40px;
   width:100%;
 }
+
 #profs {
   grid-template-rows: repeat(4, 20vw);         /*If adding tiles, increase first repeat parameter to add rows*/
 }
- #adjuncts {
+
+#adjuncts {
   grid-template-rows: repeat(2, 20vw);         /*If adding tiles, increase first repeat parameter to add rows*/
 }
- #staff {
+
+#staff {
   grid-template-rows: repeat(2, 20vw);         /*If adding tiles, increase first repeat parameter to add rows*/
   margin-bottom: 20px;
 }
@@ -791,8 +745,8 @@ figcaption {
 }
 
 .facultyGrid .facultyTile .contact {
-position:relative;
-left:48%;
+  position:relative;
+  left:48%;
   top:-100%;
   width: 46%;
   height:100%;
@@ -804,16 +758,14 @@ left:48%;
 }
 
 .facultyGrid .contact h3{
-/*text-align: center;*/
   margin-top:10px;
   margin-bottom:8px;
   font-size: 26px;
-
 }
+
 .facultyGrid .contact h4{
   font-size: 18px;
   margin-bottom: 8px;
-
 }
 
 .facultyGrid .contact p{
@@ -821,7 +773,6 @@ left:48%;
 }
 
 .customContent {
-  /*margin:50px;*/
   margin: 25px 100px 25px;
 }
 
@@ -836,22 +787,15 @@ left:48%;
 .bar.background-smile {
   background-size: 100%;
   background: url('/img/home/testimonial_background2.jpg') no-repeat center center;
-  /*background-attachment: scroll;*/
-  /*border-bottom:solid;*/
-  /*border-width: 1px;*/
-  /*border-color: #999999;*/
 }
 
 .bar.background-image-fixed-2 {
   background: url('../img/home/why_us.jpg') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  /*background-attachment: scroll;*/
-
 }
 
 .whySection {
-  /*padding: 30px;*/
   width: 100vw;
   background-color: #EEEEEE;
   border-top-style: solid;
@@ -859,13 +803,14 @@ left:48%;
   border-width: 1px;
   height: var(--height);
 }
+
 #education {
   background:url('../img/why_us/computer_engineering2.jpg');
   background-size: 100%;
-  /*background-attachment:fixed;*/
   background-position: center;
   background-repeat: no-repeat;
 }
+
 #education .whyText {
   left:0;
   top:50%;
@@ -875,9 +820,11 @@ left:48%;
   padding:40px;
   padding-top: 50px;
 }
+
 #education h2 {
   color:white;
 }
+
 .whySection .educationMask {
   background-color: rgba(0,0,0,.3);
   height:47vw;
@@ -891,7 +838,6 @@ left:48%;
 #lifetogether {
   background:url('../img/why_us/lifetogether.jpg');
   background-size: 100%;
-  /*background-attachment:fixed;*/
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -899,15 +845,15 @@ left:48%;
   left:0;
   top:50%;
   height:100%;
-  /*padding-top: 50px;*/
   transform: translate(0,-40%);
   color: white;
   padding:20px;
-
 }
+
 #lifetogether h2 {
   color:white;
 }
+
 .whySection .lifetogetherMask {
   background-color: rgba(0,0,0,.3);
   height:47vw;
@@ -917,13 +863,14 @@ left:48%;
   width: 550px;
   max-width: 90%;
 }
+
 #graduates {
   background:url('../img/why_us/poster.jpg');
   background-size: 100%;
-  /*background-attachment:fixed;*/
   background-position: center;
   background-repeat: no-repeat;
 }
+
 #graduates .whyText {
   left:0;
   top:50%;
@@ -934,9 +881,11 @@ left:48%;
   margin-left: 100px;
   margin-right: 100px;
 }
+
 #graduates h2 {
   color:white;
 }
+
 .whySection .graduatesMask {
   background-color: rgba(0,0,0,.6);
   height:47vw;
@@ -946,6 +895,7 @@ left:48%;
   width: 750px;
   max-width: 90%;
 }
+
 .whySection .whyText {
   max-width: 550px;
   width: 90%;
@@ -972,16 +922,19 @@ left:48%;
   padding: 5px 10px;
   border-width:2px;
 }
+
 .whySection a:hover {
   text-decoration: none;
   color: rgb(140,140,205);
 }
+
 .whySection .half1 {
   width: 50%;
   position: absolute;
   border-right-style: solid;
   border-width: 2px;
 }
+
 .whySection .half2 {
   width: 50%;
   position: relative;
@@ -989,6 +942,8 @@ left:48%;
   top:50%;
   transform: translate(0,-60%);
 }
+
+
 .whySection .bar-left {
   left:0%;
   text-align: left;
@@ -999,146 +954,73 @@ left:48%;
   height:50%;
   text-align: center;
 }
+
 #actionTop .actionInside {
   position: absolute;
   top: 25%;
   left: 50%;
   transform: translate(-50%,-50%);
 }
+
 #actionBottom div {
   position: absolute;
   top: 75%;
   left: 50%;
   transform: translate(-50%,-50%);
 }
+
 #actionTop {
   background-color: #59A5B2;
 }
+
 #actionTop a {
   color: #333333;
 }
+
 #actionTop a:hover {
   color:black;
 }
+
 #actionHalf {
   height: 100%;
   transform:translate(0,-50%);
 }
 
-@media (min-width: 1023px){
-  .showSmallScreen {
-    display: none;
-  }
+.site_intro {
+  height: 300px;
+  background: black;
+  margin:0;
+  border-bottom: #EEEEEE;
+  border-bottom-style: solid;
+  border-width: 1px;
+  padding: 20px;
+  padding-top:80px;
 }
-@media (max-width: 1023px) {
-  .whySection .half1{
-    width: 100vw;
-    position: initial;
-  }
-  .whySection .half2{
-    width: 100vw;
-    /*left:0px;*/
-    position: initial;
-    transform: initial;
-  }
-  .whySection {
-    height: initial;
-  }
-  .whySection img {
-    opacity: .6;
-  }
-  #education {
-    height: var(--height);
-  }
-  #education .educationMask {
-    width: 100%;
-    max-width: 100%;
-  }
-  #education .whyText {
-    left:50%;
-    transform: translate(-50%,-50%);
-    margin: 0;
-    top:50%;
-    height: initial;
-  }
-  #education p {
-    display: none;
-  }
-  #education .whyText {
-    padding-top: initial;
-    padding: initial;
-  }
 
-  #lifetogether {
-    height: var(--height);
-  }
-  #lifetogether .lifetogetherMask {
-    width: 100%;
-    max-width: 100%;
-  }
-  #lifetogether .whyText {
-    left:50%;
-    transform: translate(-50%,-50%);
-    margin: 0;
-    top:50%;
-    height: initial;
-  }
-  #lifetogether p {
-    display: none;
-  }
-  #lifetogether .whyText {
-    padding-top: initial;
-  }
-
-
-  #graduates {
-    height: var(--height);
-  }
-  #graduates .graduatesMask {
-    width: 100%;
-    max-width: 100%;
-  }
-  #graduates .whyText {
-    left:50%;
-    transform: translate(-50%,-50%);
-    margin: 0;
-    top:50%;
-    height: initial;
-  }
-  #graduates p {
-    display: none;
-  }
-  #graduates a {
-    display: none;
-  }
-  #graduates .whyText {
-    padding-top: initial;
-  }
-  #actionHalf {
-    height: 78vw;
-    transform: translate(0,-100%);
-  }
-  .whySection .half2 #actionTop {
-    background-color: rgba(89,165,178,.8);
-  }
-  .whySection #actionBottom {
-    background-color: rgba(72,45,62,.6);
-
-  }
-  #actionSection {
-    height: 78vw;
-  }
-
+.site_intro .row h1 {
+  color: white;
 }
+
+.site_intro img {
+  position: absolute;
+  right: 10vw;
+  top:75px;
+}
+
+#satelliteHero{
+  transform-style: preserve-3d;
+  overflow-x:hidden;
+  overflow-y:auto;
+}
+
+
 
 @media (max-width: 370px) {
   #homeHero a {
     position: relative;
     bottom: 25px;
   }
-
 }
-
 
 @media (max-width: 450px){
   .insertL figure {
@@ -1191,16 +1073,13 @@ left:48%;
     width: 90%;
   }
   #homeHero {
-    /*background:black;*/
     background-size:110%;
     height:57vw;
-    /*background-position: 50px, 50px;*/
   }
   #homeHero .hero-inner p {
     visibility: hidden;
   }
   #homeHero h2 {
-    /*top: 15%;*/
     position: absolute;
     left: 5%;
     right: 5%;
@@ -1230,6 +1109,32 @@ left:48%;
   }
 }
 
+@media (min-width: 620px) {
+  #siteIntro {
+    background-image: url(/img/home/banner.png);
+    background-position: center top 40px;
+    background-size: 2000px;
+  }
+}
+
+@media (max-width: 619px){
+  #siteIntro {
+    background-image: none;
+  }
+}
+
+@media (max-width: 425px){
+  #siteIntro {
+    height: 400px;
+  }
+}
+
+@media (min-width: 426px) {
+  #siteIntro {
+    height: 300px;
+  }
+}
+
 @media (max-width: 660px) {
   #profsHero {
     height: 32vw;
@@ -1240,6 +1145,16 @@ left:48%;
   .site_intro .row{
     left:50vw;
     width: 80vw;
+  }
+}
+
+@media (min-width: 661px) {
+  .site_intro .row {
+    text-align: center;
+    color: white;
+    position: absolute;
+    left: 20px;
+    width: 40vw;
   }
 }
 
@@ -1257,7 +1172,6 @@ left:48%;
   }
   #projectsHero .hero-inner {
     width:85%;
-
   }
 
 }
@@ -1285,7 +1199,6 @@ left:48%;
   }
   .tile .tileTitle {
     position: absolute;
-    /*top: 50%;*/
     left: 50vw;
     transform: translate(-50%, 50%);
   }
@@ -1294,19 +1207,10 @@ left:48%;
     opacity: 1;
   }
 
-  /*.tile .cover {*/
-  /*  visibility: hidden;*/
-  /*}*/
-  /*.tile .cover img {*/
-  /*  visibility: hidden;*/
-  /*}*/
-
   .tile .tileContent {
     visibility: hidden;
   }
   .tile .tileHeader{
-    /*top: 50%;*/
-    /*left: 50%;*/
     transform: translate(-50%);
   }
 
@@ -1327,7 +1231,6 @@ left:48%;
 @media (max-width: 1000px) {
   #jobfairHero .hero-background {
     width:90%;
-    /*top:40%;*/
     left:50%;
     transform: translate(-50%,-0%);
 
@@ -1340,7 +1243,6 @@ left:48%;
 
   #tupilotsHero .hero-background {
     width:90%;
-    /*top:40%;*/
     left:50%;
     transform: translate(-50%,-0%);
   }
@@ -1362,9 +1264,6 @@ left:48%;
   }
   #posterHero .hero-inner {
     width: 80%;
-    /*top:50%;*/
-    /*left:50%;*/
-    /*transform: translate(-50%,-50%);*/
     position: initial;
     z-index: 2;
   }
@@ -1451,16 +1350,10 @@ left:48%;
     width:40%;
   }
   #adjunctsHero {
-    /*height: 244px;*/
-    /*background-size:1000px;*/
   }
   #adjuncts {
     grid-template-columns: repeat(1,50vw);
     grid-template-rows: repeat(3,32vw);
-  }
-  #staffHero {
-    /*height: 244px;*/
-    /*background-size:1000px;*/
   }
   #staff {
     grid-template-columns: repeat(1,50vw);
@@ -1477,6 +1370,111 @@ left:48%;
   .showMobile{
     display:none;
   }
+}
+
+@media (min-width: 1023px){
+  .showSmallScreen {
+    display: none;
+  }
+}
+
+@media (max-width: 1023px) {
+  .whySection .half1{
+    width: 100vw;
+    position: initial;
+  }
+  .whySection .half2{
+    width: 100vw;
+    position: initial;
+    transform: initial;
+  }
+  .whySection {
+    height: initial;
+  }
+  .whySection img {
+    opacity: .6;
+  }
+  #education {
+    height: var(--height);
+  }
+  #education .educationMask {
+    width: 100%;
+    max-width: 100%;
+  }
+  #education .whyText {
+    left:50%;
+    transform: translate(-50%,-50%);
+    margin: 0;
+    top:50%;
+    height: initial;
+  }
+  #education p {
+    display: none;
+  }
+  #education .whyText {
+    padding-top: initial;
+    padding: initial;
+  }
+
+  #lifetogether {
+    height: var(--height);
+  }
+  #lifetogether .lifetogetherMask {
+    width: 100%;
+    max-width: 100%;
+  }
+  #lifetogether .whyText {
+    left:50%;
+    transform: translate(-50%,-50%);
+    margin: 0;
+    top:50%;
+    height: initial;
+  }
+  #lifetogether p {
+    display: none;
+  }
+  #lifetogether .whyText {
+    padding-top: initial;
+  }
+
+  #graduates {
+    height: var(--height);
+  }
+  #graduates .graduatesMask {
+    width: 100%;
+    max-width: 100%;
+  }
+  #graduates .whyText {
+    left:50%;
+    transform: translate(-50%,-50%);
+    margin: 0;
+    top:50%;
+    height: initial;
+  }
+  #graduates p {
+    display: none;
+  }
+  #graduates a {
+    display: none;
+  }
+  #graduates .whyText {
+    padding-top: initial;
+  }
+  #actionHalf {
+    height: 78vw;
+    transform: translate(0,-100%);
+  }
+  .whySection .half2 #actionTop {
+    background-color: rgba(89,165,178,.8);
+  }
+  .whySection #actionBottom {
+    background-color: rgba(72,45,62,.6);
+
+  }
+  #actionSection {
+    height: 78vw;
+  }
+
 }
 
 @media (max-width: 1080px) {
@@ -1543,7 +1541,6 @@ left:48%;
     visibility: hidden;
   }
   #activitiesTiles .tile .tileHeader{
-    /*top: 50%;*/
     left: 50%;
     transform: translate(-62%);
   }
@@ -1552,22 +1549,18 @@ left:48%;
   }
 
   #activitiesTiles {
-    /*grid-template-columns: repeat(auto-fit,minmax(500px,1fr));*/
     grid-template-columns: repeat(1,100vw);
     grid-template-rows: repeat(1,100vw);
   }
   #aboutUsTiles {
-    /*grid-template-columns: repeat(auto-fit,minmax(500px,1fr));*/
     grid-template-columns: repeat(2,50vw);
     grid-template-rows: repeat(2,50vw);
   }
 }
 
-
 @media (max-width: 1140px){
   #homeHero .hero-inner {
     position: initial;
-    /*background: rgba(0,0,0,.6)*/
   }
   #homeHero .homeHeroMask {
     position: absolute;
@@ -1577,67 +1570,4 @@ left:48%;
     z-index: -1;
   }
 }
-
-
-.site_intro {
-  height: 300px;
-  background: black;
-  margin:0;
-  border-bottom: #EEEEEE;
-  border-bottom-style: solid;
-  border-width: 1px;
-  padding: 20px;
-  padding-top:80px;
-}
-@media (min-width: 661px) {
-  .site_intro .row {
-    text-align: center;
-    color: white;
-    position: absolute;
-    left: 20px;
-    width: 40vw;
-  }
-}
-
-.site_intro .row h1 {
-  color: white;
-  /*top:50%;*/
-  /*transform: translate(0,-50%);*/
-}
-
-.site_intro img {
-  position: absolute;
-  right: 10vw;
-  top:75px;
-
-}
-
-#satelliteHero{
-  transform-style: preserve-3d;
-  overflow-x:hidden;
-  overflow-y:auto;
-}
-/*.parallax-1 {*/
-/*  width: 100vw;*/
-/*  height:100vh;*/
-/*  padding-top:20vh;*/
-/*  box-sizing: border-box;*/
-/*  transform-style: preserve-3d;*/
-/*  position: absolute;*/
-/*}*/
-
-/*.parallax-1::before {*/
-/*  content:"";*/
-/*  width: 100vw;*/
-/*  height: 100vh;*/
-/*  top:0;*/
-/*  left:0;*/
-/*  !*background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/62/Starsinthesky.jpg");*!*/
-/*  position: absolute;*/
-/*  z-index: -1;*/
-/*  transform:translateZ(-1px) scale(2);*/
-/*}*/
-
-
-
 

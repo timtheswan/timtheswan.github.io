@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://timtheswan.github.io/posters/2018_19_posters/</loc>
+    <lastmod>2019-07-26T09:12:03-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://timtheswan.github.io/faculty/lehrian/</loc>
     <lastmod>2019-07-15T14:13:41-04:00</lastmod>
   </url>
@@ -68,28 +73,8 @@
   </url>
   
   <url>
-    <loc>https://timtheswan.github.io/about/</loc>
-    <lastmod>2019-06-21T12:27:54-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://timtheswan.github.io/information/</loc>
-    <lastmod>2019-06-21T12:27:54-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://timtheswan.github.io/articles/students/</loc>
     <lastmod>2019-06-19T16:54:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://timtheswan.github.io/</loc>
-    <lastmod>2019-06-17T16:12:15-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://timtheswan.github.io/posters/2018_19_posters/</loc>
-    <lastmod>2019-06-13T10:54:12-04:00</lastmod>
   </url>
   
   <url>
@@ -140,11 +125,6 @@
   <url>
     <loc>https://timtheswan.github.io/information/abet_accreditation/</loc>
     <lastmod>2019-05-20T11:07:16-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://timtheswan.github.io/information/about_us_old/</loc>
-    <lastmod>2019-05-20T10:18:38-04:00</lastmod>
   </url>
   
   <url>
@@ -233,6 +213,11 @@
   </url>
   
   <url>
+    <loc>https://timtheswan.github.io/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://timtheswan.github.io/activities/</loc>
     <priority>0</priority>
   </url>
@@ -279,6 +264,10 @@
   </url>
   
   <url>
+    <loc>https://timtheswan.github.io/about/filler/</loc>
+  </url>
+  
+  <url>
     <loc>https://timtheswan.github.io/activities/filler/</loc>
   </url>
   
@@ -295,6 +284,12 @@
   </url>
   
   <url>
+    <loc>https://timtheswan.github.io/information/</loc>
+    <lastmod>2019-06-25T10:34:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://timtheswan.github.io/categories/news/</loc>
     <lastmod>2019-04-25T08:18:38-04:00</lastmod>
     <priority>0</priority>
@@ -308,7 +303,7 @@
   
   <url>
     <loc>https://timtheswan.github.io/posters/</loc>
-    <lastmod>2019-06-13T10:54:12-04:00</lastmod>
+    <lastmod>2019-07-26T09:12:03-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -320,6 +315,12 @@
   
   <url>
     <loc>https://timtheswan.github.io/satellite/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://timtheswan.github.io/</loc>
+    <lastmod>2019-05-21T13:58:13-04:00</lastmod>
     <priority>0</priority>
   </url>
   

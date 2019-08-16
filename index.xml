@@ -6,7 +6,7 @@
     <description>Recent content on TU Computer Science and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jun 2019 16:12:15 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2019 13:58:13 -0400</lastBuildDate>
     
 	<atom:link href="https://timtheswan.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -89,6 +89,15 @@ After teaching in a public school in Indianapolis for six years, I decided to go
     </item>
     
     <item>
+      <title>Project Posters</title>
+      <link>https://timtheswan.github.io/posters/2018_19_posters/</link>
+      <pubDate>Fri, 26 Jul 2019 09:12:03 -0400</pubDate>
+      
+      <guid>https://timtheswan.github.io/posters/2018_19_posters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mr. Tim Lehrian</title>
       <link>https://timtheswan.github.io/faculty/lehrian/</link>
       <pubDate>Mon, 15 Jul 2019 14:13:41 -0400</pubDate>
@@ -153,15 +162,6 @@ Zach appreciates how his Taylor education gave him skills integral to future dev
       <description>Courtney Masters   Courtney is a Sophomore studying Digital Media
     Courtney Masters is a Sophomore studying Computer Science - Digital Media B.A. She is currently most interested in a career in web development or software engineering after she graduates in 2022.
 Courtney heard about Taylor&amp;rsquo;s Computer Science department from her older brother and other friends. &amp;ldquo;I was particularly attracted to the digital media program because it incorporated design and film along with programming.</description>
-    </item>
-    
-    <item>
-      <title>2018-2019 Posters</title>
-      <link>https://timtheswan.github.io/posters/2018_19_posters/</link>
-      <pubDate>Thu, 13 Jun 2019 10:54:12 -0400</pubDate>
-      
-      <guid>https://timtheswan.github.io/posters/2018_19_posters/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -264,17 +264,6 @@ processes or implement new technologies.
       <description>Our Engineering &amp;amp; Computer Engineering programs
 are ABET-accredited.
    Accreditation The Engineering &amp;amp; Computer Engineering degree programs are accredited by the Engineering Accreditation Commission of ABET (https://www.abet.org). Program Educational Objectives  Prepare our graduates to server others dependably, most importantly their employer, customers, and community. Prepare our graduates to practice technical competence, producing reliable engineering designs. Prepare our graduates to exercise creativity in their work, fostering innovative solutions.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://timtheswan.github.io/information/about_us_old/</link>
-      <pubDate>Mon, 20 May 2019 10:18:38 -0400</pubDate>
-      
-      <guid>https://timtheswan.github.io/information/about_us_old/</guid>
-      <description>Sometimes alumni Ashley Crutcher designs websites that convince people to buy products,
-like guacamole. But sometimes her goal is more serious, like convincing people to follow Jesus.
-   At Taylor University, the Computer Science &amp;amp; Engineering (CSE) department is more than just a section of the science building. We have our own community on the second floor of the environmentally sustainable Euler Science Complex that flourishes as a learning environment.</description>
     </item>
     
     <item>
@@ -497,6 +486,15 @@ Want to Contact Faculty?
 Want to Schedule a Visit?
 Social Media            Facebook     Twitter     LinkedIn         Dr. Stefan Brandle, Department Co-chair
    For Prospective Employers Contact Lara Horsley - CSE Program Assistant</description>
+    </item>
+    
+    <item>
+      <title>Filler</title>
+      <link>https://timtheswan.github.io/about/filler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://timtheswan.github.io/about/filler/</guid>
+      <description>Shalom</description>
     </item>
     
     <item>
