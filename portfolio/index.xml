@@ -12,12 +12,75 @@
     
     
     <item>
+      <title>Heirlock</title>
+      <link>http://timtheswan.com/portfolio/heirlock/</link>
+      <pubDate>Wed, 22 Jul 2020 15:39:32 -0500</pubDate>
+      
+      <guid>http://timtheswan.com/portfolio/heirlock/</guid>
+      <description>During the Summer of 2020, I worked as a Software Engineering Intern for a startup called Heirlock.</description>
+    </item>
+    
+    <item>
+      <title>Life Change Counsel Site</title>
+      <link>http://timtheswan.com/portfolio/lifechangecounsel/</link>
+      <pubDate>Wed, 22 Jul 2020 15:39:32 -0500</pubDate>
+      
+      <guid>http://timtheswan.com/portfolio/lifechangecounsel/</guid>
+      <description>Using wordpress, I redesigned and restructured the website for Life Change Counselling.</description>
+    </item>
+    
+    <item>
       <title>CSE Website</title>
       <link>http://timtheswan.com/portfolio/cse_site/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2020 15:19:59 -0500</pubDate>
       
       <guid>http://timtheswan.com/portfolio/cse_site/</guid>
-      <description>During my time as System Administrator during the Summer of 2019, my primary project was to build the department a new website.</description>
+      <description>During my time as System Administrator for the Taylor University Computer Science &amp;amp; Engineering department during the Summer of 2019, my primary project was to build the department a new website.</description>
+    </item>
+    
+    <item>
+      <title>Envisage Startup</title>
+      <link>http://timtheswan.com/portfolio/envisage/</link>
+      <pubDate>Wed, 22 Jul 2020 15:19:59 -0500</pubDate>
+      
+      <guid>http://timtheswan.com/portfolio/envisage/</guid>
+      <description>Personal project turned startup, Envisage seeks to help college students plan their college path to success.</description>
+    </item>
+    
+    <item>
+      <title>Film Projects</title>
+      <link>http://timtheswan.com/portfolio/film_projects/</link>
+      <pubDate>Wed, 22 Jul 2020 15:19:59 -0500</pubDate>
+      
+      <guid>http://timtheswan.com/portfolio/film_projects/</guid>
+      <description>While a film student at Taylor University, I created several film and audio projects.</description>
+    </item>
+    
+    <item>
+      <title>Minecraft Cinematics</title>
+      <link>http://timtheswan.com/portfolio/minecraft_cinematics/</link>
+      <pubDate>Wed, 22 Jul 2020 15:19:59 -0500</pubDate>
+      
+      <guid>http://timtheswan.com/portfolio/minecraft_cinematics/</guid>
+      <description>Using modifications to Minecraft that allowed me to map camera bezier paths, render videos with detailed textures and shading, I created several cinematic videos.</description>
+    </item>
+    
+    <item>
+      <title>Taylor CSE Marketing Postcards</title>
+      <link>http://timtheswan.com/portfolio/cse_postcards/</link>
+      <pubDate>Wed, 22 Jul 2020 15:19:59 -0500</pubDate>
+      
+      <guid>http://timtheswan.com/portfolio/cse_postcards/</guid>
+      <description>While working for the Taylor Computer Science and Engineering department, I designed and photographed marketing materials, including postcards that were printed and sent to prospective students.</description>
+    </item>
+    
+    <item>
+      <title>Change of Plans: COVID-19 Photojournal</title>
+      <link>http://timtheswan.com/portfolio/covid_photojournal/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://timtheswan.com/portfolio/covid_photojournal/</guid>
+      <description>During the quarantine resulting from the COVID-19 Pandemic, I was asked to shoot photographs of my life lived during that time for a photography class.</description>
     </item>
     
   </channel>
