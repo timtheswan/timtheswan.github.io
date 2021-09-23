@@ -13,13 +13,13 @@
       <a href="3.html"><div class="circle" id="circle-3"></div></a>
       <a href="4.html"><div class="circle" id="circle-4"></div></a>
       <a href="5.html"><div class="circle" id="circle-5"></div></a>
-      <!-- <div class="circle" id="ring"></div> -->
+      <div class="circle" id="ring"></div>
     </div>
   </body>
 </html>
 <style>
   .body {
-    background-color: white;
+    background-color: black;
   }
   .circle {
     width: 100px;
@@ -43,6 +43,12 @@
   #circle-1 {
     background-color: red;
     transform: rotate(30deg) translateX(-102px);
+    animation-name: red-explode;
+    animation-fill-mode: forwards;
+    opacity: 0;
+    animation-timing-function: ease-in-out;
+    animation-duration: 4s;
+    animation-delay: 1500ms;
   }
   #circle-1:hover {
     transform: rotate(30deg) translateX(-102px) scale(1.2);
@@ -50,29 +56,49 @@
   #circle-2 {
     background-color: green;
     transform: rotate(150deg) translateX(-102px);
+    animation-name: green-explode;
+    animation-fill-mode: forwards;
+    opacity: 0;
+    animation-timing-function: ease-in-out;
+    animation-duration: 4s;
+    animation-delay: 1500ms;
   }
   #circle-2:hover {
     transform: rotate(150deg) translateX(-102px) scale(1.2);
   }
   #circle-3 {
-    background-color: yellow;
+    background-color: blue;
     transform: rotate(270deg) translateX(-102px);
+    animation-name: blue-explode;
+    animation-fill-mode: forwards;
+    opacity: 0;
+    animation-timing-function: ease-in-out;
+    animation-duration: 4s;
+    animation-delay: 1500ms;
   }
   #circle-3:hover {
     transform: rotate(270deg) translateX(-102px) scale(1.2);
   }
-  /* #ring {
-    background-color: yellow;
+  #ring {
+    background-color: white;
+    border: none;
     animation-name: emanate;
     animation-fill-mode: forwards;
+    transform: scale(0);
+    animation-delay: 500ms;
     z-index: -2;
-    animation-duration: 2s;
-  } */
+    animation-duration: 4s;
+  }
   #circle-4 {
     background-color: white;
     transform: scale(1.8);
-    opacity: 0.75;
     z-index: -1;
+    animation-name: white-in;
+    animation-fill-mode: forwards;
+    animation-duration: 1.4s;
+    opacity: 0;
+    animation-delay: 4.5s;
+    animation-timing-function: cubic-bezier(0.46, 0.01, 0.09, 0.99);
   }
   #circle-4:hover {
     transform: scale(2);
@@ -80,18 +106,128 @@
   #circle-5 {
     background-color: black;
     transform: scale(0.6);
+    opacity: 0;
+    animation-name: black-in;
+    animation-fill-mode: forwards;
+    animation-duration: 1s;
+    opacity: 0;
+    animation-delay: 4.5s;
+    animation-timing-function: cubic-bezier(0.46, 0.01, 0.09, 0.99);
   }
   #circle-5:hover {
     transform: scale(0.8);
   }
-  @keyframes emanate {
+  @keyframes white-in {
     0% {
-      opacity: 0.5;
-      transform: rotate(270deg) translateX(-102px) scale(1.2);
+      transform: scale(0);
+      opacity: 0;
+    }
+    50% {
+      opacity: 0.75;
     }
     100% {
+      opacity: 0.75;
+      transform: scale(1.8);
+    }
+  }
+  @keyframes black-in {
+    0% {
+      transform: scale(0);
+      opacity: 0;
+    }
+    50% {
+      opacity: 0.75;
+    }
+    100% {
+      opacity: 0.75;
+      transform: scale(0.6);
+    }
+  }
+  @keyframes emanate {
+    0% {
       opacity: 1;
-      transform: rotate(270deg) translateX(-102px) scale(20);
+      transform: scale(0);
+      box-shadow: 0px 0px 10px 20px white;
+    }
+    25% {
+      box-shadow: 0px 0px 10px 20px white;
+      transform: scale(0.1);
+
+      opacity: 1;
+    }
+
+    50% {
+    }
+    100% {
+      box-shadow: 0px 0px 4000px 2000px white;
+      transform: scale(2);
+      opacity: 0;
+    }
+  }
+  @keyframes red-explode {
+    0% {
+      opacity: 0;
+      transform: rotate(30deg) translateX(0px) scale(0);
+    }
+    10% {
+      opacity: 1;
+    }
+    30% {
+      transform: rotate(30deg) translateX(-500px) scale(3);
+    }
+    75% {
+      opacity: 0.6;
+      transform: rotate(30deg) translateX(-30px) scale(0.7);
+      animation-timing-function: ease-in-out;
+    }
+    100% {
+      opacity: 0.8;
+      transform: rotate(30deg) translateX(-102px);
+      animation-timing-function: cubic-bezier(0.46, 0.01, 0.09, 0.99);
+    }
+  }
+  @keyframes green-explode {
+    0% {
+      opacity: 0;
+      transform: rotate(150deg) translateX(0px) scale(0);
+    }
+    10% {
+      opacity: 1;
+    }
+    30% {
+      transform: rotate(150deg) translateX(-500px) scale(3);
+    }
+    75% {
+      opacity: 0.6;
+      transform: rotate(150deg) translateX(-30px) scale(0.7);
+      animation-timing-function: ease-in-out;
+    }
+    100% {
+      opacity: 0.8;
+      transform: rotate(150deg) translateX(-102px);
+      animation-timing-function: cubic-bezier(0.46, 0.01, 0.09, 0.99);
+    }
+  }
+  @keyframes blue-explode {
+    0% {
+      opacity: 0;
+      transform: rotate(270deg) translateX(0px) scale(0);
+    }
+    10% {
+      opacity: 1;
+    }
+    30% {
+      transform: rotate(270deg) translateX(-500px) scale(3);
+    }
+    75% {
+      opacity: 0.6;
+      transform: rotate(270deg) translateX(-30px) scale(0.7);
+      animation-timing-function: ease-in-out;
+    }
+    100% {
+      opacity: 0.8;
+      transform: rotate(270deg) translateX(-102px);
+      animation-timing-function: cubic-bezier(0.46, 0.01, 0.09, 0.99);
     }
   }
 </style>
