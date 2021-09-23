@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+    <title>Tim Swanson</title>
+
+    <!-- mobile responsive meta -->
+    <meta name="description" content="Web Animation Class Project" />
+    <meta name="author" content="Tim Swanson" />
+  </head>
+  <body class="body">
+    2
+    <div class="origin-point">
+      <a href="1.html"><div class="circle" id="circle-1"></div></a>
+      <a href="2.html"><div class="circle" id="circle-2"></div></a>
+      <a href="3.html"><div class="circle" id="circle-3"></div></a>
+      <a href="4.html"><div class="circle" id="circle-4"></div></a>
+      <a href="5.html"><div class="circle" id="circle-5"></div></a>
+    </div>
+  </body>
+</html>
+<style>
+  .body {
+    background-color: mintcream;
+  }
+  .circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+    animation-name: circle;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    opacity: 0;
+    animation-timing-function: cubic-bezier(0.56, 0.48, 0.37, 0.5);
+  }
+  .origin-point {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+    background-color: yellow;
+  }
+  #circle-1 {
+    background-color: red;
+    animation-delay: 0ms;
+  }
+  #circle-2 {
+    background-color: red;
+    animation-delay: 200ms;
+  }
+  #circle-3 {
+    background-color: red;
+    animation-delay: 400ms;
+  }
+  #circle-4 {
+    background-color: red;
+    animation-delay: 600ms;
+  }
+  #circle-5 {
+    background-color: red;
+    animation-delay: 800ms;
+  }
+  @keyframes circle {
+    0% {
+      opacity: 1;
+      transform: rotate(0deg) translateX(-50px);
+    }
+    50% {
+      opacity: 0.3;
+    }
+    100% {
+      opacity: 1;
+      transform: rotate(360deg) translateX(-50px);
+    }
+  }
+</style>

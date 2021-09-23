@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+    <title>Tim Swanson</title>
+    <meta name="description" content="Web Animation Class Project" />
+    <meta name="author" content="Tim Swanson" />
+  </head>
+  <body class="body">
+    <div class="origin-point">
+      <a href="1.html"><div class="circle" id="circle-1"></div></a>
+      <a href="2.html"><div class="circle" id="circle-2"></div></a>
+      <a href="3.html"><div class="circle" id="circle-3"></div></a>
+      <a href="4.html"><div class="circle" id="circle-4"></div></a>
+      <a href="5.html"><div class="circle" id="circle-5"></div></a>
+      <div class="circle" id="ring"></div>
+    </div>
+  </body>
+</html>
+<style>
+  .body {
+    background-color: white;
+  }
+  .circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    border: 1.5px rgba(0, 0, 0, 0.5) solid;
+    transition: all 0.8s;
+    opacity: 0.8;
+  }
+  .circle:hover {
+    opacity: 1;
+  }
+
+  .origin-point {
+    position: absolute;
+    transform: translate(-50px, -50px);
+    left: 50%;
+    top: 50%;
+  }
+  #circle-1 {
+    background-color: red;
+    transform: rotate(30deg) translateX(-102px);
+  }
+  #circle-1:hover {
+    transform: rotate(30deg) translateX(-102px) scale(1.2);
+  }
+  #circle-2 {
+    background-color: green;
+    transform: rotate(150deg) translateX(-102px);
+  }
+  #circle-2:hover {
+    transform: rotate(150deg) translateX(-102px) scale(1.2);
+  }
+  #circle-3 {
+    background-color: yellow;
+    transform: rotate(270deg) translateX(-102px);
+  }
+  #circle-3:hover {
+    transform: rotate(270deg) translateX(-102px) scale(1.2);
+  }
+  #ring {
+    background-color: black;
+    animation-name: emanate;
+    animation-fill-mode: forwards;
+    z-index: -2;
+    animation-duration: 2s;
+  }
+  #circle-4 {
+    background-color: white;
+    transform: scale(1.8);
+    opacity: 0.75;
+    z-index: -1;
+  }
+  #circle-4:hover {
+    transform: scale(2);
+  }
+  #circle-5 {
+    background-color: black;
+    transform: scale(0.6);
+  }
+  #circle-5:hover {
+    transform: scale(0.8);
+  }
+  @keyframes emanate {
+    0% {
+      opacity: 0.5;
+      transform: scale(1.2);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(20);
+    }
+  }
+</style>
