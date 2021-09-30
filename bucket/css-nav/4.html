@@ -11,8 +11,8 @@
       <a href="1.html"><div class="circle" id="circle-1"></div></a>
       <a href="2.html"><div class="circle" id="circle-2"></div></a>
       <a href="3.html"><div class="circle" id="circle-3"></div></a>
-      <a href="4.html"><div class="circle" id="circle-4"></div></a>
-      <a href="5.html"><div class="circle" id="circle-5"></div></a>
+      <a href="5.html"><div class="circle" id="circle-4"></div></a>
+      <a href="4.html"><div class="circle" id="circle-5"></div></a>
       <div class="circle" id="ring"></div>
     </div>
   </body>
@@ -44,8 +44,8 @@
     background-color: red;
     transform: rotate(30deg) translateX(-102px);
     animation-name: red-explode;
-    animation-fill-mode: forwards;
-    opacity: 0;
+    animation-fill-mode: backwards;
+    opacity: 0.8;
     animation-timing-function: ease-in-out;
     animation-duration: 4s;
     animation-delay: 1500ms;
@@ -54,11 +54,11 @@
     transform: rotate(30deg) translateX(-102px) scale(1.2);
   }
   #circle-2 {
+    opacity: 0.8;
+    animation-fill-mode: backwards;
     background-color: green;
     transform: rotate(150deg) translateX(-102px);
     animation-name: green-explode;
-    animation-fill-mode: forwards;
-    opacity: 0;
     animation-timing-function: ease-in-out;
     animation-duration: 4s;
     animation-delay: 1500ms;
@@ -68,10 +68,10 @@
   }
   #circle-3 {
     background-color: blue;
+    opacity: 0.8;
     transform: rotate(270deg) translateX(-102px);
     animation-name: blue-explode;
-    animation-fill-mode: forwards;
-    opacity: 0;
+    animation-fill-mode: backwards;
     animation-timing-function: ease-in-out;
     animation-duration: 4s;
     animation-delay: 1500ms;
@@ -94,9 +94,9 @@
     transform: scale(1.8);
     z-index: -1;
     animation-name: white-in;
-    animation-fill-mode: forwards;
+    animation-fill-mode: backwards;
     animation-duration: 1.4s;
-    opacity: 0;
+    opacity: 0.8;
     animation-delay: 4.5s;
     animation-timing-function: cubic-bezier(0.46, 0.01, 0.09, 0.99);
   }
@@ -106,11 +106,10 @@
   #circle-5 {
     background-color: black;
     transform: scale(0.6);
-    opacity: 0;
     animation-name: black-in;
-    animation-fill-mode: forwards;
+    animation-fill-mode: backwards;
     animation-duration: 1s;
-    opacity: 0;
+    opacity: 0.8;
     animation-delay: 4.5s;
     animation-timing-function: cubic-bezier(0.46, 0.01, 0.09, 0.99);
   }
