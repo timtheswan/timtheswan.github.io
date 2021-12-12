@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://timtheswan.com/portfolio/garretts/</loc>
-    <lastmod>2021-10-13T15:19:59-05:00</lastmod>
-  </url><url>
     <loc>http://timtheswan.com/</loc>
+    <lastmod>2021-12-12T15:19:59-05:00</lastmod>
+  </url><url>
+    <loc>http://timtheswan.com/portfolio/web-animation-2/</loc>
+    <lastmod>2021-12-12T15:19:59-05:00</lastmod>
+  </url><url>
+    <loc>http://timtheswan.com/portfolio/garretts/</loc>
     <lastmod>2021-10-13T15:19:59-05:00</lastmod>
   </url><url>
     <loc>http://timtheswan.com/portfolio/portraiture-3/</loc>
